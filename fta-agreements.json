@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-19T02:26:50.247Z",
+  "generatedAt": "2026-05-19T04:20:54.521Z",
   "label": "FTA agreement registry",
-  "rowCount": 41,
+  "rowCount": 43,
   "rows": [
     {
       "documentUrl": "https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement",
@@ -601,6 +601,28 @@
       "parties": [
         "US",
         "IL"
+      ]
+    },
+    {
+      "documentUrl": "https://www.dfat.gov.au/trade/agreements/in-force/anzcerta",
+      "id": "anzcerta",
+      "inForceFrom": "1983-01-01T00:00:00.000Z",
+      "name": "Australia-New Zealand Closer Economic Relations Trade Agreement (ANZCERTA)",
+      "notes": "Full trans-Tasman free trade across goods + services.",
+      "parties": [
+        "AU",
+        "NZ"
+      ]
+    },
+    {
+      "documentUrl": "https://www.mofa.go.jp/policy/economy/fta/australia.html",
+      "id": "jaepa",
+      "inForceFrom": "2015-01-15T00:00:00.000Z",
+      "name": "Japan-Australia Economic Partnership Agreement",
+      "notes": "Most industrial duty-free; agricultural TRQs separate.",
+      "parties": [
+        "AU",
+        "JP"
       ]
     }
   ]
