@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T13:49:31.043Z",
+  "generatedAt": "2026-05-19T22:46:24.510Z",
   "label": "Landed-cost canary scenarios",
   "rowCount": 166,
   "rows": [
@@ -1619,12 +1619,12 @@
       "declaredValueUsd": "25.00",
       "driftThresholdPercent": "5.00",
       "expectedDutyUsd": "3.75",
-      "expectedTotalUsd": "3.75",
-      "expectedVatUsd": "0.00",
+      "expectedTotalUsd": "6.63",
+      "expectedVatUsd": "2.88",
       "hsCode": "2204.21",
       "importingCountry": "JP",
       "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
-      "notes": "AU→JP wine — JAEPA preferential 0% (also CPTPP) + 10% consumption tax. Alcohol excise excluded.",
+      "notes": "AU→JP wine — JAEPA preferential 0% MFN + JP wine excise (~15% effective) + 10% consumption tax on (CIF + duty).",
       "originCountry": "AU",
       "scenarioKey": "jp-from-au-wine-25-jaepa",
       "sourceUrl": "https://www.mofa.go.jp/policy/economy/fta/australia.html"

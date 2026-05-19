@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-19T13:49:31.043Z",
+  "generatedAt": "2026-05-19T22:46:24.510Z",
   "label": "Excise duties (alcohol/tobacco/fuel)",
-  "rowCount": 26,
+  "rowCount": 29,
   "rows": [
     {
       "additionalRatePercent": "5.000",
@@ -301,6 +301,45 @@
       "originCountryCode": null,
       "program": "excise-tobacco",
       "sourceUrl": "https://www.skatteetaten.no/en/business-and-organisation/vat-and-duties/excise-duties/"
+    },
+    {
+      "additionalRatePercent": "43.500",
+      "additionalRateRaw": "~43.500% effective (per-unit excise approximated)",
+      "appliesOnTopOfMfn": true,
+      "countryCode": "HK",
+      "effectiveFrom": "2025-01-01T00:00:00.000Z",
+      "hsCodePrefix": "2402",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Hong Kong tobacco duty — specific rate HKD 3,400/kg (cigars) / HKD 1.987/stick (cigarettes). Effective ~43.5% at typical retail values.",
+      "originCountryCode": null,
+      "program": "excise-tobacco",
+      "sourceUrl": "https://www.customs.gov.hk/en/trade_facilitation/dutiable/types/"
+    },
+    {
+      "additionalRatePercent": "43.500",
+      "additionalRateRaw": "~43.500% effective (per-unit excise approximated)",
+      "appliesOnTopOfMfn": true,
+      "countryCode": "HK",
+      "effectiveFrom": "2025-01-01T00:00:00.000Z",
+      "hsCodePrefix": "2403",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Hong Kong other manufactured tobacco — HKD 3,400/kg specific. Same effective rate as Ch 2402.",
+      "originCountryCode": null,
+      "program": "excise-tobacco",
+      "sourceUrl": "https://www.customs.gov.hk/en/trade_facilitation/dutiable/types/"
+    },
+    {
+      "additionalRatePercent": "100.000",
+      "additionalRateRaw": "~100.000% effective (per-unit excise approximated)",
+      "appliesOnTopOfMfn": true,
+      "countryCode": "HK",
+      "effectiveFrom": "2025-01-01T00:00:00.000Z",
+      "hsCodePrefix": "2208",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Hong Kong spirits >30% ABV — 100% ad valorem on portion of value above HKD 200/litre. Wine and beer are 0% since 2008 (NOT in this row).",
+      "originCountryCode": null,
+      "program": "excise-alcohol",
+      "sourceUrl": "https://www.customs.gov.hk/en/trade_facilitation/dutiable/types/"
     },
     {
       "additionalRatePercent": "15.000",
