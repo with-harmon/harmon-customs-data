@@ -1,0 +1,1861 @@
+{
+  "generatedAt": "2026-05-19T02:26:50.247Z",
+  "label": "De-minimis thresholds",
+  "rowCount": 199,
+  "rows": [
+    {
+      "countryCode": "US",
+      "dutyThreshold": null,
+      "dutyThresholdCurrency": null,
+      "excludedOrigins": [],
+      "id": "US",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Section 321 commercial de minimis terminated by Executive Order effective August 29, 2025. All commercial shipments now require formal customs entry regardless of value — MFN duty, MPF, and HMF apply. Personal-use and bona-fide gift exemptions may still apply per CBP discretion but are not commercial e-commerce eligible.",
+      "sourceUrl": "https://www.whitehouse.gov/presidential-actions/2025/07/suspending-duty-free-de-minimis-treatment-for-all-countries/",
+      "vatThreshold": null,
+      "vatThresholdCurrency": null
+    },
+    {
+      "countryCode": "GB",
+      "dutyThreshold": "135.00",
+      "dutyThresholdCurrency": "GBP",
+      "id": "GB",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Post-Brexit: under £135 VAT is collected at point of sale by the seller (OMP rules). Customs duty waived under £135. No de-minimis for VAT — applies from £0.",
+      "sourceUrl": "https://www.gov.uk/guidance/vat-and-overseas-goods-sold-directly-to-customers-in-the-uk",
+      "vatThreshold": "0.00",
+      "vatThresholdCurrency": "GBP"
+    },
+    {
+      "countryCode": "EU",
+      "dutyThreshold": "150.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "EU",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "IOSS scheme since 2021: VAT collected at sale for shipments under €150. Duty exempt under €150.",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/customs-4/customs-procedures-import-and-export-0/customs-procedures/relief-import-duties_en",
+      "vatThreshold": "0.00",
+      "vatThresholdCurrency": "EUR"
+    },
+    {
+      "countryCode": "CA",
+      "dutyThreshold": "20.00",
+      "dutyThresholdCurrency": "CAD",
+      "id": "CA",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Default $20 CAD threshold. CUSMA-origin from US/Mexico: $150 duty / $40 tax thresholds.",
+      "sourceUrl": "https://www.cbsa-asfc.gc.ca/import/courier/lvs-efv/menu-eng.html",
+      "vatThreshold": "20.00",
+      "vatThresholdCurrency": "CAD"
+    },
+    {
+      "countryCode": "AU",
+      "dutyThreshold": "1000.00",
+      "dutyThresholdCurrency": "AUD",
+      "id": "AU",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Duty exempt under $1000 AUD; GST applies to all imports since July 2018 regardless of value.",
+      "sourceUrl": "https://www.abf.gov.au/importing-exporting-and-manufacturing/buying-online",
+      "vatThreshold": "0.00",
+      "vatThresholdCurrency": "AUD"
+    },
+    {
+      "countryCode": "NZ",
+      "dutyThreshold": "1000.00",
+      "dutyThresholdCurrency": "NZD",
+      "id": "NZ",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Duty exempt under $1000 NZD. GST collected at sale by offshore suppliers with > $60k NZD revenue.",
+      "sourceUrl": "https://www.customs.govt.nz/personal/duty-and-allowances/private-imports/",
+      "vatThreshold": "0.00",
+      "vatThresholdCurrency": "NZD"
+    },
+    {
+      "countryCode": "CH",
+      "dutyThreshold": "5.00",
+      "dutyThresholdCurrency": "CHF",
+      "id": "CH",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "VAT under 5 CHF effectively waived (de-minimis tax). Exemption tied to total VAT amount, not value.",
+      "sourceUrl": "https://www.bazg.admin.ch/bazg/en/home/information-individuals/travel-and-purchases--allowances-and-duty-free-limit/imports-into-switzerland.html",
+      "vatThreshold": "62.00",
+      "vatThresholdCurrency": "CHF"
+    },
+    {
+      "countryCode": "NO",
+      "dutyThreshold": "350.00",
+      "dutyThresholdCurrency": "NOK",
+      "id": "NO",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "VOEC scheme replaced 350 NOK threshold for VAT in 2020 — VAT now collected at sale by registered foreign sellers.",
+      "sourceUrl": "https://www.toll.no/en/services/internet-shopping/",
+      "vatThreshold": "0.00",
+      "vatThresholdCurrency": "NOK"
+    },
+    {
+      "countryCode": "SG",
+      "dutyThreshold": "400.00",
+      "dutyThresholdCurrency": "SGD",
+      "id": "SG",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Air/post imports under $400 SGD GST-exempt. GST 9% from 2024 above threshold.",
+      "sourceUrl": "https://www.customs.gov.sg/individuals/going-through-customs/import-procedures/",
+      "vatThreshold": "400.00",
+      "vatThresholdCurrency": "SGD"
+    },
+    {
+      "countryCode": "JP",
+      "dutyThreshold": "10000.00",
+      "dutyThresholdCurrency": "JPY",
+      "id": "JP",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Customs value (60% of retail) under ¥10,000 exempt from duty + consumption tax.",
+      "sourceUrl": "https://www.customs.go.jp/english/",
+      "vatThreshold": "10000.00",
+      "vatThresholdCurrency": "JPY"
+    },
+    {
+      "countryCode": "KR",
+      "dutyThreshold": "150.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "KR",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Personal import under $150 USD ($200 USD for goods from US under KORUS) exempt from duty/VAT.",
+      "sourceUrl": "https://unipass.customs.go.kr/csp/index.do",
+      "vatThreshold": "150.00",
+      "vatThresholdCurrency": "USD"
+    },
+    {
+      "countryCode": "MX",
+      "dutyThreshold": "50.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "MX",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Mexico SAT — courier informal entry under USD 50, simplified USD 50–1000. Above: formal entry.",
+      "sourceUrl": "https://www.gob.mx/sat"
+    },
+    {
+      "countryCode": "BR",
+      "dutyThreshold": "50.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "BR",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Brazil Receita Federal Remessa Conforme — USD 50 duty-free (since 2024-08; was USD 10 pre-2024). Above: 17% MCO + ICMS.",
+      "sourceUrl": "https://www.gov.br/receitafederal"
+    },
+    {
+      "countryCode": "IN",
+      "dutyThreshold": "100.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "IN",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "India Customs CIER — INR ~5000 gift, USD 100 commercial samples threshold. Above: IGST + BCD + AIDC.",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "AE",
+      "dutyThreshold": "270.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "AE",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "UAE Federal Customs — AED 1000 (~USD 272) personal duty-free. Commercial: 5% customs + 5% VAT.",
+      "sourceUrl": "https://www.fca.gov.ae/"
+    },
+    {
+      "countryCode": "SA",
+      "dutyThreshold": "266.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "SA",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Saudi Arabia ZATCA — SAR 1000 (~USD 266) personal courier. Commercial: 5% customs + 15% VAT.",
+      "sourceUrl": "https://zatca.gov.sa/"
+    },
+    {
+      "countryCode": "ID",
+      "dutyThreshold": "3.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "ID",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Indonesia DJBC — USD 3 commercial e-commerce duty/VAT threshold. One of the lowest globally.",
+      "sourceUrl": "https://www.beacukai.go.id/"
+    },
+    {
+      "countryCode": "MY",
+      "dutyThreshold": "119.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "MY",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Malaysia Royal Customs — MYR 500 (~USD 119) commercial threshold. Above: SST + duty.",
+      "sourceUrl": "https://www.customs.gov.my/"
+    },
+    {
+      "countryCode": "TH",
+      "dutyThreshold": "42.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "TH",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Thailand Customs — THB 1500 (~USD 42) gift / commercial threshold. Above: 7% VAT + duty.",
+      "sourceUrl": "https://www.customs.go.th/"
+    },
+    {
+      "countryCode": "VN",
+      "dutyThreshold": "41.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "VN",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Vietnam GDC — VND 1,000,000 (~USD 41) duty/VAT threshold. Above: 10% VAT + duty.",
+      "sourceUrl": "https://www.customs.gov.vn/"
+    },
+    {
+      "countryCode": "PH",
+      "dutyThreshold": "180.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "PH",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Philippines BOC — PHP 10,000 (~USD 180) duty-free. Above: 12% VAT + duty.",
+      "sourceUrl": "https://customs.gov.ph/"
+    },
+    {
+      "countryCode": "ZA",
+      "dutyThreshold": "29.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "ZA",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "South Africa SARS — ZAR 500 (~USD 29) duty-free informal entry. Above: 15% VAT + duty.",
+      "sourceUrl": "https://www.sars.gov.za/"
+    },
+    {
+      "countryCode": "TR",
+      "dutyThreshold": "33.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "TR",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Türkiye Ministry of Trade — EUR 30 (~USD 33) duty-free threshold. Above: 20% VAT + duty.",
+      "sourceUrl": "https://www.ticaret.gov.tr/"
+    },
+    {
+      "countryCode": "HK",
+      "dutyThreshold": null,
+      "dutyThresholdCurrency": null,
+      "id": "HK",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Hong Kong is a free port — no customs duty on imports. Excise items only (tobacco/alcohol/fuel).",
+      "sourceUrl": "https://www.customs.gov.hk/"
+    },
+    {
+      "countryCode": "IL",
+      "dutyThreshold": "75.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "IL",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Israel — USD 75 personal use de-minimis. Above: 17% VAT + duty + purchase tax (varies).",
+      "sourceUrl": "https://www.gov.il/en/departments/customs"
+    },
+    {
+      "countryCode": "IS",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "IS",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Iceland — VSK applies from first ISK; small consignment relief under EUR 22 historically but tightened.",
+      "sourceUrl": "https://www.skatturinn.is/english/"
+    },
+    {
+      "countryCode": "RU",
+      "dutyThreshold": "200.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "RU",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Russia EAEU — EUR 200 / 31kg duty-free personal threshold since 2022; commercial e-com 15% + EUR 2/kg above.",
+      "sourceUrl": "https://customs.gov.ru/"
+    },
+    {
+      "countryCode": "UA",
+      "dutyThreshold": "150.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "UA",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Ukraine — EUR 150 personal courier duty-free; VAT 20% + duty above.",
+      "sourceUrl": "https://customs.gov.ua/"
+    },
+    {
+      "countryCode": "BY",
+      "dutyThreshold": "200.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "BY",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Belarus EAEU member — same EUR 200 threshold as Russia.",
+      "sourceUrl": "http://www.gtk.gov.by/"
+    },
+    {
+      "countryCode": "KZ",
+      "dutyThreshold": "200.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "KZ",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Kazakhstan EAEU member — EUR 200 / 31kg threshold; VAT 12% + duty above.",
+      "sourceUrl": "https://kgd.gov.kz/"
+    },
+    {
+      "countryCode": "GE",
+      "dutyThreshold": "300.00",
+      "dutyThresholdCurrency": "GEL",
+      "id": "GE",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Georgia — GEL 300 (~USD 110) duty-free personal threshold.",
+      "sourceUrl": "https://www.rs.ge/"
+    },
+    {
+      "countryCode": "AM",
+      "dutyThreshold": "200.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "AM",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Armenia EAEU member — EUR 200 personal threshold.",
+      "sourceUrl": "https://www.src.am/"
+    },
+    {
+      "countryCode": "AZ",
+      "dutyThreshold": "300.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "AZ",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Azerbaijan — USD 300 (international post and courier) duty-free threshold.",
+      "sourceUrl": "https://customs.gov.az/"
+    },
+    {
+      "countryCode": "MD",
+      "dutyThreshold": "200.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "MD",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Moldova — EUR 200 personal threshold; VAT 20% above.",
+      "sourceUrl": "https://www.customs.gov.md/"
+    },
+    {
+      "countryCode": "AL",
+      "dutyThreshold": "22.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "AL",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Albania — EUR 22 low-value threshold; VAT 20% above.",
+      "sourceUrl": "https://www.dogana.gov.al/"
+    },
+    {
+      "countryCode": "MK",
+      "dutyThreshold": "22.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "MK",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "North Macedonia — EUR 22 low-value threshold.",
+      "sourceUrl": "https://www.customs.gov.mk/"
+    },
+    {
+      "countryCode": "BA",
+      "dutyThreshold": "300.00",
+      "dutyThresholdCurrency": "BAM",
+      "id": "BA",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Bosnia and Herzegovina — BAM 300 (~USD 165) personal threshold.",
+      "sourceUrl": "http://www.uino.gov.ba/"
+    },
+    {
+      "countryCode": "RS",
+      "dutyThreshold": "70.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "RS",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Serbia — EUR 70 personal threshold (raised from EUR 50 in 2023).",
+      "sourceUrl": "https://www.carina.rs/"
+    },
+    {
+      "countryCode": "EG",
+      "dutyThreshold": "150.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "EG",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Egypt — USD 150 personal courier threshold; VAT 14% + duty above.",
+      "sourceUrl": "https://www.customs.gov.eg/"
+    },
+    {
+      "countryCode": "MA",
+      "dutyThreshold": "1250.00",
+      "dutyThresholdCurrency": "MAD",
+      "id": "MA",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Morocco — MAD 1250 (~USD 125) personal threshold; VAT 20% + duty above.",
+      "sourceUrl": "https://www.douane.gov.ma/"
+    },
+    {
+      "countryCode": "TN",
+      "dutyThreshold": "1000.00",
+      "dutyThresholdCurrency": "TND",
+      "id": "TN",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Tunisia — TND 1000 (~USD 320) personal threshold; VAT 19% + duty above.",
+      "sourceUrl": "https://www.douane.gov.tn/"
+    },
+    {
+      "countryCode": "DZ",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "DZ",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Algeria — no commercial de-minimis; all imports require declaration.",
+      "sourceUrl": "https://www.douane.gov.dz/"
+    },
+    {
+      "countryCode": "JO",
+      "dutyThreshold": "150.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "JO",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Jordan — USD 150 personal threshold; GST 16% + duty above.",
+      "sourceUrl": "https://www.customs.gov.jo/"
+    },
+    {
+      "countryCode": "LB",
+      "dutyThreshold": "100.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "LB",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Lebanon — USD 100 personal threshold; VAT 11% + duty above.",
+      "sourceUrl": "https://www.customs.gov.lb/"
+    },
+    {
+      "countryCode": "QA",
+      "dutyThreshold": "3000.00",
+      "dutyThresholdCurrency": "QAR",
+      "id": "QA",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Qatar — QAR 3000 (~USD 824) personal courier threshold; customs 5% above.",
+      "sourceUrl": "https://www.customs.gov.qa/"
+    },
+    {
+      "countryCode": "KW",
+      "dutyThreshold": "100.00",
+      "dutyThresholdCurrency": "KWD",
+      "id": "KW",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Kuwait — KWD 100 (~USD 326) personal threshold; customs 5% above.",
+      "sourceUrl": "https://www.customs.gov.kw/"
+    },
+    {
+      "countryCode": "OM",
+      "dutyThreshold": "100.00",
+      "dutyThresholdCurrency": "OMR",
+      "id": "OM",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Oman — OMR 100 (~USD 260) personal threshold; customs 5% + VAT 5% above.",
+      "sourceUrl": "https://www.customs.gov.om/"
+    },
+    {
+      "countryCode": "BH",
+      "dutyThreshold": "300.00",
+      "dutyThresholdCurrency": "BHD",
+      "id": "BH",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Bahrain — BHD 300 (~USD 795) personal threshold; customs 5% + VAT 10% above.",
+      "sourceUrl": "https://www.customs.gov.bh/"
+    },
+    {
+      "countryCode": "NG",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "NG",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Nigeria — no formal de-minimis; all commercial imports require declaration. VAT 7.5% + duty.",
+      "sourceUrl": "https://www.customs.gov.ng/"
+    },
+    {
+      "countryCode": "KE",
+      "dutyThreshold": "5000.00",
+      "dutyThresholdCurrency": "KES",
+      "id": "KE",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Kenya — KES 5000 (~USD 35) personal threshold; VAT 16% + duty above.",
+      "sourceUrl": "https://www.kra.go.ke/"
+    },
+    {
+      "countryCode": "ET",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "ET",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Ethiopia — no de-minimis; all imports declared. VAT 15% + duty.",
+      "sourceUrl": "https://www.mor.gov.et/"
+    },
+    {
+      "countryCode": "GH",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "GH",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Ghana — no formal de-minimis; commercial imports declared. VAT 15% + duty.",
+      "sourceUrl": "https://gra.gov.gh/"
+    },
+    {
+      "countryCode": "TZ",
+      "dutyThreshold": "100.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "TZ",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Tanzania — USD 100 personal threshold for postal imports. VAT 18% above.",
+      "sourceUrl": "https://www.tra.go.tz/"
+    },
+    {
+      "countryCode": "UG",
+      "dutyThreshold": "30.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "UG",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Uganda — USD 30 personal courier threshold. VAT 18% + duty above.",
+      "sourceUrl": "https://www.ura.go.ug/"
+    },
+    {
+      "countryCode": "RW",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "RW",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Rwanda — no commercial de-minimis. VAT 18% + duty.",
+      "sourceUrl": "https://www.rra.gov.rw/"
+    },
+    {
+      "countryCode": "ZM",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "ZM",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Zambia — no formal de-minimis. VAT 16% + duty.",
+      "sourceUrl": "https://www.zra.org.zm/"
+    },
+    {
+      "countryCode": "ZW",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "ZW",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Zimbabwe — no de-minimis; complex import regime. VAT 15% + duty.",
+      "sourceUrl": "https://www.zimra.co.zw/"
+    },
+    {
+      "countryCode": "BW",
+      "dutyThreshold": "5000.00",
+      "dutyThresholdCurrency": "BWP",
+      "id": "BW",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Botswana SACU member — BWP 5000 (~USD 370) personal threshold.",
+      "sourceUrl": "https://www.burs.org.bw/"
+    },
+    {
+      "countryCode": "NA",
+      "dutyThreshold": "5000.00",
+      "dutyThresholdCurrency": "NAD",
+      "id": "NA",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Namibia SACU member — NAD 5000 (~USD 280) personal threshold.",
+      "sourceUrl": "https://www.namra.org.na/"
+    },
+    {
+      "countryCode": "MZ",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "MZ",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Mozambique — no formal de-minimis. VAT 17% + duty.",
+      "sourceUrl": "https://www.at.gov.mz/"
+    },
+    {
+      "countryCode": "MG",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "MG",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Madagascar — no formal de-minimis. VAT 20% + duty.",
+      "sourceUrl": "https://www.impots.mg/"
+    },
+    {
+      "countryCode": "MU",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "MU",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Mauritius — no de-minimis. VAT 15% + duty.",
+      "sourceUrl": "https://www.mra.mu/"
+    },
+    {
+      "countryCode": "AO",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "AO",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Angola — no formal de-minimis. VAT 14% + duty.",
+      "sourceUrl": "https://agt.minfin.gov.ao/"
+    },
+    {
+      "countryCode": "SN",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "SN",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Senegal WAEMU member — no de-minimis; CET 0–35% + VAT 18%.",
+      "sourceUrl": "https://www.dgid.sn/"
+    },
+    {
+      "countryCode": "CI",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "CI",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Côte d'Ivoire WAEMU member — no de-minimis; CET + VAT 18%.",
+      "sourceUrl": "https://www.dgi.gouv.ci/"
+    },
+    {
+      "countryCode": "CM",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "CM",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Cameroon CEMAC member — no de-minimis; CET + VAT 19.25%.",
+      "sourceUrl": "https://www.impots.cm/"
+    },
+    {
+      "countryCode": "AR",
+      "dutyThreshold": "1000.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "AR",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Argentina — USD 1000 personal threshold; Door-to-Door (Puerta a Puerta) scheme.",
+      "sourceUrl": "https://www.afip.gob.ar/"
+    },
+    {
+      "countryCode": "CL",
+      "dutyThreshold": "30.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "CL",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Chile — USD 30 duty-free threshold for postal/courier imports; VAT 19% + 6% duty above.",
+      "sourceUrl": "https://www.aduana.cl/"
+    },
+    {
+      "countryCode": "CO",
+      "dutyThreshold": "200.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "CO",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Colombia — USD 200 duty-free threshold (Trafico Postal). VAT 19% + duty above.",
+      "sourceUrl": "https://www.dian.gov.co/"
+    },
+    {
+      "countryCode": "PE",
+      "dutyThreshold": "200.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "PE",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Peru — USD 200 personal courier threshold. VAT 18% + duty above.",
+      "sourceUrl": "https://www.sunat.gob.pe/"
+    },
+    {
+      "countryCode": "EC",
+      "dutyThreshold": "400.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "EC",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Ecuador — USD 400 + 4kg category B duty-free threshold (4B). Above: 12% VAT + 5% Ad-Valorem.",
+      "sourceUrl": "https://www.aduana.gob.ec/"
+    },
+    {
+      "countryCode": "VE",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "VE",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Venezuela — complex import regime; effectively no de-minimis for commercial.",
+      "sourceUrl": "https://www.seniat.gob.ve/"
+    },
+    {
+      "countryCode": "BO",
+      "dutyThreshold": "1000.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "BO",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Bolivia — USD 1000 simplified import; VAT 13% + duty above.",
+      "sourceUrl": "https://www.impuestos.gob.bo/"
+    },
+    {
+      "countryCode": "PY",
+      "dutyThreshold": "1000.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "PY",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Paraguay Tourism Regime — USD 1000 personal threshold.",
+      "sourceUrl": "https://www.aduana.gov.py/"
+    },
+    {
+      "countryCode": "UY",
+      "dutyThreshold": "200.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "UY",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Uruguay Reglamento Couriers — USD 200 / 20kg duty-free 3x per person/year.",
+      "sourceUrl": "https://www.aduanas.gub.uy/"
+    },
+    {
+      "countryCode": "DO",
+      "dutyThreshold": "200.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "DO",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Dominican Republic — USD 200 duty-free threshold; ITBIS 18% + duty above.",
+      "sourceUrl": "https://www.dga.gov.do/"
+    },
+    {
+      "countryCode": "CR",
+      "dutyThreshold": "1000.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "CR",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Costa Rica — USD 1000 personal courier threshold (Trafico Postal Internacional).",
+      "sourceUrl": "https://www.hacienda.go.cr/"
+    },
+    {
+      "countryCode": "PA",
+      "dutyThreshold": "100.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "PA",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Panama — USD 100 commercial threshold; ITBMS 7% + duty above.",
+      "sourceUrl": "https://dgi.mef.gob.pa/"
+    },
+    {
+      "countryCode": "GT",
+      "dutyThreshold": "500.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "GT",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Guatemala — USD 500 personal courier threshold. IVA 12% + duty above.",
+      "sourceUrl": "https://portal.sat.gob.gt/"
+    },
+    {
+      "countryCode": "HN",
+      "dutyThreshold": "200.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "HN",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Honduras — USD 200 personal threshold. ISV 15% + duty above.",
+      "sourceUrl": "https://www.sar.gob.hn/"
+    },
+    {
+      "countryCode": "SV",
+      "dutyThreshold": "200.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "SV",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "El Salvador — USD 200 personal courier threshold. IVA 13% + duty above.",
+      "sourceUrl": "https://www.mh.gob.sv/"
+    },
+    {
+      "countryCode": "NI",
+      "dutyThreshold": "100.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "NI",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Nicaragua — USD 100 personal threshold. IVA 15% + duty above.",
+      "sourceUrl": "https://www.dgi.gob.ni/"
+    },
+    {
+      "countryCode": "JM",
+      "dutyThreshold": "50.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "JM",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Jamaica — USD 50 personal threshold; GCT 15% + duty above.",
+      "sourceUrl": "https://www.jacustoms.gov.jm/"
+    },
+    {
+      "countryCode": "TT",
+      "dutyThreshold": "20.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "TT",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Trinidad and Tobago — USD 20 personal threshold; VAT 12.5% + duty above.",
+      "sourceUrl": "https://www.customs.gov.tt/"
+    },
+    {
+      "countryCode": "HT",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "HT",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Haiti — no formal de-minimis. All imports declared.",
+      "sourceUrl": "https://www.douane.gouv.ht/"
+    },
+    {
+      "countryCode": "BS",
+      "dutyThreshold": "100.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "BS",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Bahamas — USD 100 personal threshold; VAT 10% + duty above.",
+      "sourceUrl": "https://www.bahamascustoms.gov.bs/"
+    },
+    {
+      "countryCode": "BB",
+      "dutyThreshold": "20.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "BB",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Barbados — USD 20 personal threshold; VAT 17.5% + duty above.",
+      "sourceUrl": "https://www.customs.gov.bb/"
+    },
+    {
+      "countryCode": "BZ",
+      "dutyThreshold": "100.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "BZ",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Belize — USD 100 personal threshold; GST 12.5% + duty above.",
+      "sourceUrl": "https://www.customs.gov.bz/"
+    },
+    {
+      "countryCode": "TW",
+      "dutyThreshold": "2000.00",
+      "dutyThresholdCurrency": "TWD",
+      "id": "TW",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Taiwan — TWD 2000 (~USD 63) duty-free postal threshold. Customs + VAT 5% above.",
+      "sourceUrl": "https://web.customs.gov.tw/"
+    },
+    {
+      "countryCode": "PK",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "PK",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Pakistan — no formal de-minimis; complex import regime. GST 18% + duty.",
+      "sourceUrl": "https://www.fbr.gov.pk/"
+    },
+    {
+      "countryCode": "BD",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "BD",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Bangladesh — no de-minimis; gifts under BDT 5000 exempt. VAT 15% + duty.",
+      "sourceUrl": "https://nbr.gov.bd/"
+    },
+    {
+      "countryCode": "LK",
+      "dutyThreshold": "100.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "LK",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Sri Lanka — USD 100 personal threshold; VAT 18% + duty above.",
+      "sourceUrl": "https://www.customs.gov.lk/"
+    },
+    {
+      "countryCode": "NP",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "NP",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Nepal — no formal de-minimis. VAT 13% + duty.",
+      "sourceUrl": "https://www.customs.gov.np/"
+    },
+    {
+      "countryCode": "MM",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "MM",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Myanmar — no formal de-minimis. Commercial tax 5% + duty.",
+      "sourceUrl": "https://www.customs.gov.mm/"
+    },
+    {
+      "countryCode": "KH",
+      "dutyThreshold": "50.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "KH",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Cambodia — USD 50 personal threshold; VAT 10% + duty above.",
+      "sourceUrl": "https://www.customs.gov.kh/"
+    },
+    {
+      "countryCode": "LA",
+      "dutyThreshold": "50.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "LA",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Laos — USD 50 personal threshold; VAT 7% + duty above.",
+      "sourceUrl": "https://www.laotradeportal.gov.la/"
+    },
+    {
+      "countryCode": "MN",
+      "dutyThreshold": "300.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "MN",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Mongolia — USD 300 personal courier threshold; VAT 10% + duty above.",
+      "sourceUrl": "https://en.customs.gov.mn/"
+    },
+    {
+      "countryCode": "BN",
+      "dutyThreshold": "400.00",
+      "dutyThresholdCurrency": "BND",
+      "id": "BN",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Brunei — BND 400 (~USD 295) personal threshold; no VAT.",
+      "sourceUrl": "https://www.customs.gov.bn/"
+    },
+    {
+      "countryCode": "MO",
+      "dutyThreshold": null,
+      "dutyThresholdCurrency": null,
+      "id": "MO",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Macao SAR — free port; no customs duty except on tobacco/alcohol/fuel/vehicles.",
+      "sourceUrl": "https://www.customs.gov.mo/"
+    },
+    {
+      "countryCode": "UZ",
+      "dutyThreshold": "200.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "UZ",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Uzbekistan — USD 200 personal threshold; VAT 12% + duty above.",
+      "sourceUrl": "https://customs.uz/"
+    },
+    {
+      "countryCode": "KG",
+      "dutyThreshold": "200.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "KG",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Kyrgyzstan EAEU member — EUR 200 personal threshold.",
+      "sourceUrl": "https://customs.gov.kg/"
+    },
+    {
+      "countryCode": "FJ",
+      "dutyThreshold": "400.00",
+      "dutyThresholdCurrency": "FJD",
+      "id": "FJ",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Fiji — FJD 400 (~USD 175) personal threshold; VAT 15% + duty above.",
+      "sourceUrl": "https://www.frcs.org.fj/"
+    },
+    {
+      "countryCode": "PG",
+      "dutyThreshold": "250.00",
+      "dutyThresholdCurrency": "PGK",
+      "id": "PG",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Papua New Guinea — PGK 250 (~USD 65) personal threshold; GST 10% + duty above.",
+      "sourceUrl": "https://www.customs.gov.pg/"
+    },
+    {
+      "countryCode": "SB",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "SB",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Solomon Islands — no formal de-minimis. GST 10% + duty.",
+      "sourceUrl": "https://www.solomonsird.gov.sb/"
+    },
+    {
+      "countryCode": "VU",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "VU",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Vanuatu — no de-minimis. VAT 15% + duty.",
+      "sourceUrl": "https://customsinlandrevenue.gov.vu/"
+    },
+    {
+      "countryCode": "WS",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "WS",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Samoa — no de-minimis. VAGST 15% + duty.",
+      "sourceUrl": "https://www.revenue.gov.ws/"
+    },
+    {
+      "countryCode": "TO",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "TO",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Tonga — no de-minimis. Consumption Tax 15% + duty.",
+      "sourceUrl": "https://www.revenue.gov.to/"
+    },
+    {
+      "countryCode": "NC",
+      "dutyThreshold": "20000.00",
+      "dutyThresholdCurrency": "XPF",
+      "id": "NC",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "New Caledonia — XPF 20,000 (~USD 175) personal threshold; TGC 11% + duty above.",
+      "sourceUrl": "https://www.douane.gouv.nc/"
+    },
+    {
+      "countryCode": "PF",
+      "dutyThreshold": "20000.00",
+      "dutyThresholdCurrency": "XPF",
+      "id": "PF",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "French Polynesia — XPF 20,000 (~USD 175) personal threshold; TVA 16% + duty above.",
+      "sourceUrl": "https://www.douane.gov.pf/"
+    },
+    {
+      "countryCode": "CN",
+      "dutyThreshold": "5000.00",
+      "dutyThresholdCurrency": "CNY",
+      "id": "CN",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Cross-Border E-Commerce (CBEC) regime: single transaction ≤ RMB 5,000 AND annual per-person ≤ RMB 26,000 are exempt from import tariffs; VAT + consumption tax levied at 30% discount. Above either limit → must clear as general trade goods. Annual quota resets 1 January. Postal personal imports have a separate RMB 1,000 informal threshold via China Post.",
+      "sourceUrl": "http://english.customs.gov.cn/Statics/cd6dbafa-c2c1-460a-a32f-bcc1b5b8d4b1.html",
+      "vatThreshold": "5000.00",
+      "vatThresholdCurrency": "CNY"
+    },
+    {
+      "countryCode": "AT",
+      "dutyThreshold": "150.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "AT",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Austria — EU IOSS: VAT (20% standard) collected at sale for shipments < €150. Duty exempt < €150. BMF customs portal handles enforcement.",
+      "sourceUrl": "https://www.bmf.gv.at/en/topics/customs/internet-trade.html",
+      "vatThreshold": "0.00",
+      "vatThresholdCurrency": "EUR"
+    },
+    {
+      "countryCode": "BG",
+      "dutyThreshold": "150.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "BG",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Bulgaria — EU IOSS: VAT (20% standard) at sale for < €150. Duty exempt < €150.",
+      "sourceUrl": "https://nra.bg/page?id=621",
+      "vatThreshold": "0.00",
+      "vatThresholdCurrency": "EUR"
+    },
+    {
+      "countryCode": "CY",
+      "dutyThreshold": "150.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "CY",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Cyprus — EU IOSS: VAT (19% standard) at sale for < €150. Duty exempt < €150.",
+      "sourceUrl": "https://www.mof.gov.cy/mof/customs/customs.nsf",
+      "vatThreshold": "0.00",
+      "vatThresholdCurrency": "EUR"
+    },
+    {
+      "countryCode": "CZ",
+      "dutyThreshold": "150.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "CZ",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Czechia — EU IOSS: VAT (21% standard) at sale for < €150. Duty exempt < €150.",
+      "sourceUrl": "https://www.celnisprava.cz/en",
+      "vatThreshold": "0.00",
+      "vatThresholdCurrency": "EUR"
+    },
+    {
+      "countryCode": "EE",
+      "dutyThreshold": "150.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "EE",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Estonia — EU IOSS: VAT (22% standard) at sale for < €150. Duty exempt < €150.",
+      "sourceUrl": "https://www.emta.ee/en",
+      "vatThreshold": "0.00",
+      "vatThresholdCurrency": "EUR"
+    },
+    {
+      "countryCode": "FI",
+      "dutyThreshold": "150.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "FI",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Finland — EU IOSS: VAT (25.5% standard from 2024-09) at sale for < €150. Duty exempt < €150.",
+      "sourceUrl": "https://tulli.fi/en/frontpage",
+      "vatThreshold": "0.00",
+      "vatThresholdCurrency": "EUR"
+    },
+    {
+      "countryCode": "HR",
+      "dutyThreshold": "150.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "HR",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Croatia — EU IOSS: VAT (25% standard) at sale for < €150. Duty exempt < €150. Eurozone member since 2023.",
+      "sourceUrl": "https://carina.gov.hr/",
+      "vatThreshold": "0.00",
+      "vatThresholdCurrency": "EUR"
+    },
+    {
+      "countryCode": "HU",
+      "dutyThreshold": "150.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "HU",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Hungary — EU IOSS: VAT (27% standard, EU's highest) at sale for < €150. Duty exempt < €150.",
+      "sourceUrl": "https://nav.gov.hu/en",
+      "vatThreshold": "0.00",
+      "vatThresholdCurrency": "EUR"
+    },
+    {
+      "countryCode": "LT",
+      "dutyThreshold": "150.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "LT",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Lithuania — EU IOSS: VAT (21% standard) at sale for < €150. Duty exempt < €150.",
+      "sourceUrl": "https://www.lrmuitine.lt/web/guest/en",
+      "vatThreshold": "0.00",
+      "vatThresholdCurrency": "EUR"
+    },
+    {
+      "countryCode": "LV",
+      "dutyThreshold": "150.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "LV",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Latvia — EU IOSS: VAT (21% standard) at sale for < €150. Duty exempt < €150.",
+      "sourceUrl": "https://www.vid.gov.lv/en",
+      "vatThreshold": "0.00",
+      "vatThresholdCurrency": "EUR"
+    },
+    {
+      "countryCode": "MT",
+      "dutyThreshold": "150.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "MT",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Malta — EU IOSS: VAT (18% standard) at sale for < €150. Duty exempt < €150.",
+      "sourceUrl": "https://customs.gov.mt/",
+      "vatThreshold": "0.00",
+      "vatThresholdCurrency": "EUR"
+    },
+    {
+      "countryCode": "PL",
+      "dutyThreshold": "150.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "PL",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Poland — EU IOSS: VAT (23% standard) at sale for < €150. Duty exempt < €150.",
+      "sourceUrl": "https://www.gov.pl/web/finanse/customs",
+      "vatThreshold": "0.00",
+      "vatThresholdCurrency": "EUR"
+    },
+    {
+      "countryCode": "SE",
+      "dutyThreshold": "150.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "SE",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Sweden — EU IOSS: VAT (25% standard) at sale for < €150. Duty exempt < €150. Not Eurozone (SEK).",
+      "sourceUrl": "https://www.tullverket.se/en",
+      "vatThreshold": "0.00",
+      "vatThresholdCurrency": "EUR"
+    },
+    {
+      "countryCode": "SI",
+      "dutyThreshold": "150.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "SI",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Slovenia — EU IOSS: VAT (22% standard) at sale for < €150. Duty exempt < €150.",
+      "sourceUrl": "https://www.fu.gov.si/en/",
+      "vatThreshold": "0.00",
+      "vatThresholdCurrency": "EUR"
+    },
+    {
+      "countryCode": "SK",
+      "dutyThreshold": "150.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "SK",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Slovakia — EU IOSS: VAT (23% standard from 2025-01) at sale for < €150. Duty exempt < €150.",
+      "sourceUrl": "https://www.financnasprava.sk/en/home",
+      "vatThreshold": "0.00",
+      "vatThresholdCurrency": "EUR"
+    },
+    {
+      "countryCode": "AG",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "AG",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Antigua and Barbuda — no commercial de-minimis. ABST (sales tax) 15% + CET duty from first dollar. Traveller personal exemption USD 50 not applicable to e-commerce.",
+      "sourceUrl": "https://customs.gov.ag/"
+    },
+    {
+      "countryCode": "DM",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "DM",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Dominica — no commercial de-minimis. VAT 15% + CARICOM CET duty from first dollar.",
+      "sourceUrl": "https://customs.gov.dm/"
+    },
+    {
+      "countryCode": "GD",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "GD",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Grenada — no commercial de-minimis. VAT 15% + CARICOM CET duty from first dollar.",
+      "sourceUrl": "https://www.grenadacustoms.com/"
+    },
+    {
+      "countryCode": "KN",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "KN",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "St Kitts and Nevis — no commercial de-minimis. VAT 17% + CARICOM CET duty from first dollar.",
+      "sourceUrl": "https://www.skncustoms.com/"
+    },
+    {
+      "countryCode": "LC",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "LC",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "St Lucia — no de-minimis: duty + 12.5% VAT always apply (per Zonos market guide, confirmed by SLU Customs). Personal allowance for travellers separate.",
+      "sourceUrl": "https://customs.gov.lc/"
+    },
+    {
+      "countryCode": "VC",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "VC",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "St Vincent and the Grenadines — no commercial de-minimis. VAT 16% + CARICOM CET duty from first dollar.",
+      "sourceUrl": "https://www.customs.gov.vc/"
+    },
+    {
+      "countryCode": "SR",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "SR",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Suriname — no commercial de-minimis. VAT 10% (from 2023, replaced BTW) + CARICOM-aligned CET duty from first dollar.",
+      "sourceUrl": "https://www.douane.gov.sr/"
+    },
+    {
+      "countryCode": "GY",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "GY",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Guyana — no commercial de-minimis. VAT 14% + CARICOM CET duty from first dollar.",
+      "sourceUrl": "https://www.gra.gov.gy/"
+    },
+    {
+      "countryCode": "LS",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "LS",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Lesotho — SACU member, inherits ZA pattern: zero de-minimis. VAT 15% + SACU CET duty from first dollar.",
+      "sourceUrl": "https://www.lra.org.ls/"
+    },
+    {
+      "countryCode": "SZ",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "SZ",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Eswatini — SACU member, inherits ZA pattern: zero de-minimis. VAT 15% + SACU CET duty from first dollar.",
+      "sourceUrl": "https://www.sra.org.sz/"
+    },
+    {
+      "countryCode": "CV",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "CV",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Cabo Verde — no commercial de-minimis. IVA 15% + duty from first escudo. Goods declared via DGCI.",
+      "sourceUrl": "https://portondinosilhas.gov.cv/"
+    },
+    {
+      "countryCode": "SC",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "SC",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Seychelles — no commercial de-minimis. VAT 15% + duty from first rupee. SRC handles enforcement.",
+      "sourceUrl": "https://www.src.gov.sc/"
+    },
+    {
+      "countryCode": "DJ",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "DJ",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Djibouti — no commercial de-minimis. VAT 10% + duty from first franc.",
+      "sourceUrl": "https://www.douanes.dj/"
+    },
+    {
+      "countryCode": "ER",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "ER",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Eritrea — no commercial de-minimis; all imports require declaration. Import restrictions extensive per Ministry of Trade and Industry.",
+      "sourceUrl": "https://shabait.com/"
+    },
+    {
+      "countryCode": "GM",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "GM",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Gambia — no commercial de-minimis. VAT 15% + ECOWAS CET duty from first dalasi. GRA handles enforcement.",
+      "sourceUrl": "https://www.gra.gm/"
+    },
+    {
+      "countryCode": "GW",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "GW",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Guinea-Bissau — UEMOA + ECOWAS member. No commercial de-minimis. VAT/duty from first franc via Direção-Geral das Alfândegas.",
+      "sourceUrl": "https://www.alfandegasgb.gov.gw/"
+    },
+    {
+      "countryCode": "KM",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "KM",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Comoros — no commercial de-minimis. Consumption tax + duty applied via AGID (general administration of taxes).",
+      "sourceUrl": "https://www.beit-salam.km/"
+    },
+    {
+      "countryCode": "LR",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "LR",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Liberia — no commercial de-minimis. GST 10% + ECOWAS CET duty from first dollar. LRA handles enforcement.",
+      "sourceUrl": "https://www.lra.gov.lr/"
+    },
+    {
+      "countryCode": "MW",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "MW",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Malawi — no commercial de-minimis. VAT 16.5% + duty from first kwacha via MRA.",
+      "sourceUrl": "https://www.mra.mw/"
+    },
+    {
+      "countryCode": "SL",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "SL",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Sierra Leone — no commercial de-minimis. GST 15% + ECOWAS CET duty from first leone via NRA.",
+      "sourceUrl": "https://www.nra.gov.sl/"
+    },
+    {
+      "countryCode": "ST",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "ST",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "São Tomé and Príncipe — no commercial de-minimis. VAT (from 2023) + duty from first dobra via AGT customs administration.",
+      "sourceUrl": "https://www.agt.st/"
+    },
+    {
+      "countryCode": "AD",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "AD",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Andorra — not in EU customs union but has special customs arrangement. General Indirect Tax (IGI) 4.5%. No commercial de-minimis for imports; declaration required from EUR 0.",
+      "sourceUrl": "https://www.duana.ad/"
+    },
+    {
+      "countryCode": "MC",
+      "dutyThreshold": "150.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "MC",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Monaco — in EU customs territory via France. EU de-minimis applies (€150 duty / €0 VAT under IOSS). VAT 20% French standard.",
+      "sourceUrl": "https://en.gouv.mc/Government-Institutions/The-Institutions/Customs",
+      "vatThreshold": "0.00",
+      "vatThresholdCurrency": "EUR"
+    },
+    {
+      "countryCode": "SM",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "SM",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "San Marino — customs union with EU since 1991. Imports from outside EU+SM subject to Italian customs treatment; from EU subject to SM monophasic tax. No e-commerce de-minimis distinct from EU rules.",
+      "sourceUrl": "https://www.gov.sm/it/Pubblica-Amministrazione/Dipartimenti-e-Uffici-Pubblici/Ufficio-di-Stato-Tributario"
+    },
+    {
+      "countryCode": "VA",
+      "dutyThreshold": null,
+      "dutyThresholdCurrency": null,
+      "id": "VA",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Vatican City — sovereign territory inside Italy. Effectively rides Italian customs for any commercial flow; no published commercial de-minimis. Verified absent.",
+      "sourceUrl": "https://www.vaticanstate.va/"
+    },
+    {
+      "countryCode": "LI",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "CHF",
+      "id": "LI",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Liechtenstein — Swiss customs union. Applies Swiss thresholds: VAT collected when amount < CHF 5 (i.e. when value × 8.1% < CHF 5 → goods value under ~CHF 62). No duty de-minimis distinct from Switzerland.",
+      "sourceUrl": "https://www.llv.li/inhalt/118291/amtsstellen/zoll",
+      "vatThreshold": "62.00",
+      "vatThresholdCurrency": "CHF"
+    },
+    {
+      "countryCode": "GI",
+      "dutyThreshold": null,
+      "dutyThresholdCurrency": null,
+      "id": "GI",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Gibraltar — outside EU customs union since Brexit. No VAT (uses Import Duty regime); commercial de-minimis not published as a single threshold. Customs declaration required.",
+      "sourceUrl": "https://www.gibraltar.gov.gi/customs"
+    },
+    {
+      "countryCode": "FO",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "DKK",
+      "id": "FO",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Faroe Islands — outside EU customs territory despite Danish realm. VAT (MVG) 25%; e-commerce de-minimis DKK 300 for VAT.",
+      "sourceUrl": "https://www.taks.fo/",
+      "vatThreshold": "300.00",
+      "vatThresholdCurrency": "DKK"
+    },
+    {
+      "countryCode": "GL",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "DKK",
+      "id": "GL",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Greenland — outside EU customs territory. Duty + import surcharge from first krone; no general de-minimis. Skattestyrelsen administers.",
+      "sourceUrl": "https://aka.gl/"
+    },
+    {
+      "countryCode": "KI",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "KI",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Kiribati — no commercial de-minimis. Customs and excise duty from first AUD per Customs Act 2005.",
+      "sourceUrl": "https://www.mfed.gov.ki/"
+    },
+    {
+      "countryCode": "FM",
+      "dutyThreshold": null,
+      "dutyThresholdCurrency": null,
+      "id": "FM",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Federated States of Micronesia — Compact of Free Association with US. Commercial de-minimis not separately published.",
+      "sourceUrl": "https://customs.gov.fm/"
+    },
+    {
+      "countryCode": "MH",
+      "dutyThreshold": null,
+      "dutyThresholdCurrency": null,
+      "id": "MH",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Marshall Islands — Compact of Free Association with US. Import duty regime; no published e-commerce de-minimis.",
+      "sourceUrl": "https://www.rmicustoms.gov.mh/"
+    },
+    {
+      "countryCode": "PW",
+      "dutyThreshold": null,
+      "dutyThresholdCurrency": null,
+      "id": "PW",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Palau — Compact of Free Association with US. Customs duty + import tax; no e-commerce de-minimis published.",
+      "sourceUrl": "https://www.palaugov.pw/"
+    },
+    {
+      "countryCode": "NR",
+      "dutyThreshold": null,
+      "dutyThresholdCurrency": null,
+      "id": "NR",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Nauru — small-state customs regime; no published commercial de-minimis.",
+      "sourceUrl": "https://www.naurugov.nr/"
+    },
+    {
+      "countryCode": "TV",
+      "dutyThreshold": null,
+      "dutyThresholdCurrency": null,
+      "id": "TV",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Tuvalu — small-state customs; no published commercial de-minimis.",
+      "sourceUrl": "https://www.tuvalu.tv/"
+    },
+    {
+      "countryCode": "CK",
+      "dutyThreshold": null,
+      "dutyThresholdCurrency": null,
+      "id": "CK",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Cook Islands — self-governing in free association with NZ. VAT 15% from first NZD; duty regime separate.",
+      "sourceUrl": "https://www.mfem.gov.ck/"
+    },
+    {
+      "countryCode": "NU",
+      "dutyThreshold": null,
+      "dutyThresholdCurrency": null,
+      "id": "NU",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Niue — self-governing in free association with NZ. Small-island customs regime; no published commercial de-minimis.",
+      "sourceUrl": "https://www.gov.nu/"
+    },
+    {
+      "countryCode": "BJ",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "BJ",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Benin — ECOWAS CET + VAT 18% from first CFA franc. No commercial de-minimis. DGDDI administers.",
+      "sourceUrl": "https://www.douanes.bj/"
+    },
+    {
+      "countryCode": "BF",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "BF",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Burkina Faso — UEMOA + ECOWAS CET. VAT 18% + duty from first franc. No commercial de-minimis.",
+      "sourceUrl": "https://www.douanes.bf/"
+    },
+    {
+      "countryCode": "BI",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "BI",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Burundi — EAC CET + VAT 18% from first franc. No commercial de-minimis. OBR administers.",
+      "sourceUrl": "https://www.obr.bi/"
+    },
+    {
+      "countryCode": "CD",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "CD",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Democratic Republic of the Congo — VAT 16% + duty from first franc congolais. No commercial de-minimis. DGDA administers.",
+      "sourceUrl": "https://www.douane.gouv.cd/"
+    },
+    {
+      "countryCode": "CG",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "CG",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Republic of the Congo — CEMAC CET + VAT 18% from first CFA franc. No commercial de-minimis.",
+      "sourceUrl": "https://www.douanes.cg/"
+    },
+    {
+      "countryCode": "CF",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "CF",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Central African Republic — CEMAC CET + VAT 19% from first CFA franc. No commercial de-minimis.",
+      "sourceUrl": "https://www.minfi-rca.com/"
+    },
+    {
+      "countryCode": "GA",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "GA",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Gabon — CEMAC CET + VAT 18% from first CFA franc. No commercial de-minimis. DGDDI administers.",
+      "sourceUrl": "https://www.douanes.ga/"
+    },
+    {
+      "countryCode": "GN",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "GN",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Guinea — ECOWAS CET + VAT 18% from first GNF. No commercial de-minimis. DGD administers.",
+      "sourceUrl": "https://www.douanes.gov.gn/"
+    },
+    {
+      "countryCode": "GQ",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "GQ",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Equatorial Guinea — CEMAC CET + VAT 15% from first CFA franc. No commercial de-minimis.",
+      "sourceUrl": "https://www.guineaecuatorialpress.com/"
+    },
+    {
+      "countryCode": "ML",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "ML",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Mali — UEMOA + ECOWAS CET. VAT 18% + duty from first CFA franc. No commercial de-minimis.",
+      "sourceUrl": "https://www.douanes.gouv.ml/"
+    },
+    {
+      "countryCode": "MR",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "MR",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Mauritania — TEC ouguiya + VAT 16% from first UM. No commercial de-minimis. DGD administers.",
+      "sourceUrl": "https://www.douanes.gov.mr/"
+    },
+    {
+      "countryCode": "NE",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "NE",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Niger — UEMOA + ECOWAS CET. VAT 19% + duty from first CFA franc. No commercial de-minimis.",
+      "sourceUrl": "https://www.douanes.gouv.ne/"
+    },
+    {
+      "countryCode": "SD",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "SD",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Sudan — sanctions-affected customs regime (US sanctions partially eased 2017, conflict-disrupted since 2023). VAT 17% + duty nominally apply from first SDG.",
+      "sourceUrl": "https://customs.gov.sd/"
+    },
+    {
+      "countryCode": "SS",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "SS",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "South Sudan — EAC observer; customs in development. Duty + VAT from first SSP. No published de-minimis.",
+      "sourceUrl": "https://www.customs.gov.ss/"
+    },
+    {
+      "countryCode": "SO",
+      "dutyThreshold": null,
+      "dutyThresholdCurrency": null,
+      "id": "SO",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Somalia — customs administration limited outside Mogadishu. No published commercial de-minimis.",
+      "sourceUrl": "https://customs.gov.so/"
+    },
+    {
+      "countryCode": "TD",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "TD",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Chad — CEMAC CET + VAT 18% from first CFA franc. No commercial de-minimis.",
+      "sourceUrl": "https://www.douanes.td/"
+    },
+    {
+      "countryCode": "TG",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "TG",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Togo — UEMOA + ECOWAS CET. VAT 18% + duty from first CFA franc. No commercial de-minimis. OTR administers.",
+      "sourceUrl": "https://www.otr.tg/"
+    },
+    {
+      "countryCode": "IQ",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "IQ",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Iraq — General Commission of Customs. Duty + sales tax from first IQD; reconstruction-tax surcharge 5%. No published e-commerce de-minimis.",
+      "sourceUrl": "https://customs.mof.gov.iq/"
+    },
+    {
+      "countryCode": "YE",
+      "dutyThreshold": null,
+      "dutyThresholdCurrency": null,
+      "id": "YE",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Yemen — customs administration divided between de facto authorities; no consistent published de-minimis.",
+      "sourceUrl": "https://www.customs.gov.ye/"
+    },
+    {
+      "countryCode": "SY",
+      "dutyThreshold": null,
+      "dutyThresholdCurrency": null,
+      "id": "SY",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Syria — sanctions-affected customs. No reliable published commercial de-minimis.",
+      "sourceUrl": "https://customs.gov.sy/"
+    },
+    {
+      "countryCode": "PS",
+      "dutyThreshold": null,
+      "dutyThresholdCurrency": null,
+      "id": "PS",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Palestinian territories — customs revenue collected by Israel under Paris Protocol. Imports follow Israeli tariff schedules; ILS de-minimis applies in practice.",
+      "sourceUrl": "https://www.pmof.ps/"
+    },
+    {
+      "countryCode": "LY",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "LY",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Libya — duty + custom service fee from first LYD. No published e-commerce de-minimis.",
+      "sourceUrl": "https://customs.gov.ly/"
+    },
+    {
+      "countryCode": "AF",
+      "dutyThreshold": null,
+      "dutyThresholdCurrency": null,
+      "id": "AF",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Afghanistan — customs administration unstable since 2021. No reliable published de-minimis.",
+      "sourceUrl": "https://customs.gov.af/"
+    },
+    {
+      "countryCode": "TJ",
+      "dutyThreshold": "200.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "TJ",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Tajikistan — CSTO member, observer to EAEU. De-minimis USD 200 / 5kg per shipment for personal-use mail order; commercial subject to full tariff.",
+      "sourceUrl": "https://www.customs.tj/"
+    },
+    {
+      "countryCode": "TM",
+      "dutyThreshold": "200.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "TM",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Turkmenistan — personal-use mail-order de-minimis USD 200; commercial shipments from first manat via Turkmen Customs Service.",
+      "sourceUrl": "https://www.customs.gov.tm/"
+    },
+    {
+      "countryCode": "RS",
+      "dutyThreshold": "70.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "RS",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Serbia — €70 customs duty de-minimis for personal-use postal/courier shipments; VAT 20% applies separately. Commercial: full duty + VAT.",
+      "sourceUrl": "https://www.carina.rs/"
+    },
+    {
+      "countryCode": "ME",
+      "dutyThreshold": "75.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "ME",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Montenegro — €75 customs duty de-minimis for personal-use postal shipments; VAT 21% applies separately.",
+      "sourceUrl": "https://www.upravacarina.gov.me/"
+    },
+    {
+      "countryCode": "XK",
+      "dutyThreshold": "22.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "XK",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Kosovo — €22 customs de-minimis for personal-use postal shipments; commercial subject to full duty + VAT 18%.",
+      "sourceUrl": "https://dogana.rks-gov.net/"
+    },
+    {
+      "countryCode": "AW",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "AWG",
+      "id": "AW",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Aruba — kingdom-of-Netherlands constituent country with own customs. Import duty + BBO turnover tax from first florin.",
+      "sourceUrl": "https://www.douane.aw/"
+    },
+    {
+      "countryCode": "CW",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "ANG",
+      "id": "CW",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Curaçao — kingdom-of-Netherlands constituent country. Import duty + OB sales tax from first guilder.",
+      "sourceUrl": "https://www.douane.cw/"
+    },
+    {
+      "countryCode": "SX",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "ANG",
+      "id": "SX",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Sint Maarten — kingdom-of-Netherlands constituent country. Import duty + TOT sales tax from first guilder.",
+      "sourceUrl": "https://www.sintmaartengov.org/"
+    },
+    {
+      "countryCode": "PR",
+      "dutyThreshold": "800.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "PR",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Puerto Rico — US customs territory; pre-EO-2025 Section 321 de-minimis applied. As of 2025-08-29 Section 321 terminated; commercial shipments subject to formal entry from first dollar.",
+      "sourceUrl": "https://www.cbp.gov/border-security/ports-entry/located-puerto-rico"
+    },
+    {
+      "countryCode": "CU",
+      "dutyThreshold": null,
+      "dutyThresholdCurrency": null,
+      "id": "CU",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Cuba — US sanctioned. Commercial e-commerce with Cuba is restricted under OFAC CACR 31 CFR 515. No relevant de-minimis for US-origin trade.",
+      "sourceUrl": "https://www.aduana.gob.cu/"
+    },
+    {
+      "countryCode": "BT",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "BTN",
+      "id": "BT",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Bhutan — sales tax (GST 7%) + duty from first ngultrum. No commercial de-minimis. Department of Revenue & Customs.",
+      "sourceUrl": "https://www.drc.gov.bt/"
+    },
+    {
+      "countryCode": "MV",
+      "dutyThreshold": "1000.00",
+      "dutyThresholdCurrency": "MVR",
+      "id": "MV",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Maldives — MVR 1,000 personal-use postal de-minimis (~USD 65). Commercial: import duty from first rufiyaa.",
+      "sourceUrl": "https://www.customs.gov.mv/"
+    },
+    {
+      "countryCode": "TL",
+      "dutyThreshold": "0.00",
+      "dutyThresholdCurrency": "USD",
+      "id": "TL",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Timor-Leste — import duty 2.5% (general) or 5%-200% (specific HS) + sales tax 2.5% from first USD. No commercial de-minimis.",
+      "sourceUrl": "https://www.aduaneira.gov.tl/"
+    },
+    {
+      "countryCode": "RO",
+      "dutyThreshold": "150.00",
+      "dutyThresholdCurrency": "EUR",
+      "id": "RO",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "notes": "Romania — EU member, follows IOSS de-minimis (€150 duty / €0 VAT under IOSS) per EU rules.",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/customs-4/customs-procedures-import-and-export-0/customs-procedures/relief-import-duties_en",
+      "vatThreshold": "0.00",
+      "vatThresholdCurrency": "EUR"
+    }
+  ]
+}

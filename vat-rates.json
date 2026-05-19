@@ -1,0 +1,3230 @@
+{
+  "generatedAt": "2026-05-19T02:26:50.247Z",
+  "label": "VAT / sales-tax rates",
+  "rowCount": 382,
+  "rows": [
+    {
+      "countryCode": "GB",
+      "description": "UK VAT standard rate",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "20.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.gov.uk/guidance/rates-of-vat-on-different-goods-and-services"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "GB",
+      "description": "UK VAT reduced rate — domestic fuel, sanitary, children car seats",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.gov.uk/guidance/rates-of-vat-on-different-goods-and-services"
+    },
+    {
+      "appliesToHsPrefix": "4901",
+      "countryCode": "GB",
+      "description": "UK zero-rated — printed books",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "zero",
+      "sourceUrl": "https://www.gov.uk/guidance/rates-of-vat-on-different-goods-and-services"
+    },
+    {
+      "appliesToHsPrefix": "4902",
+      "countryCode": "GB",
+      "description": "UK zero-rated — newspapers, journals",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "zero",
+      "sourceUrl": "https://www.gov.uk/guidance/rates-of-vat-on-different-goods-and-services"
+    },
+    {
+      "appliesToHsPrefix": "6111",
+      "countryCode": "GB",
+      "description": "UK zero-rated — babies' garments",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "zero",
+      "sourceUrl": "https://www.gov.uk/guidance/rates-of-vat-on-different-goods-and-services"
+    },
+    {
+      "appliesToHsPrefix": "6209",
+      "countryCode": "GB",
+      "description": "UK zero-rated — babies' woven garments",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "zero",
+      "sourceUrl": "https://www.gov.uk/guidance/rates-of-vat-on-different-goods-and-services"
+    },
+    {
+      "countryCode": "DE",
+      "description": "Germany VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "19.000",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "0",
+      "countryCode": "DE",
+      "description": "Germany VAT 7% — food (ch 01-22 ex confectionery)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "49",
+      "countryCode": "DE",
+      "description": "Germany VAT 7% — books, newspapers",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "FR",
+      "description": "France TVA standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "20.000",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "0",
+      "countryCode": "FR",
+      "description": "France TVA 5.5% — food",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.500",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "49",
+      "countryCode": "FR",
+      "description": "France TVA 5.5% — books",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.500",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "FR",
+      "description": "France TVA 10% — restaurants, transport, repairs",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "IT",
+      "description": "Italy IVA standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "22.000",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "0",
+      "countryCode": "IT",
+      "description": "Italy IVA 4% — essential food",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "4.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "49",
+      "countryCode": "IT",
+      "description": "Italy IVA 4% — books, e-books",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "4.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "IT",
+      "description": "Italy IVA 10% — restaurants, tourism",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "ES",
+      "description": "Spain IVA standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "21.000",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "0",
+      "countryCode": "ES",
+      "description": "Spain IVA 4% — essential food",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "4.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "49",
+      "countryCode": "ES",
+      "description": "Spain IVA 4% — books",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "4.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "ES",
+      "description": "Spain IVA 10% — non-essential food, transport",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "NL",
+      "description": "Netherlands BTW standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "21.000",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "0",
+      "countryCode": "NL",
+      "description": "Netherlands BTW 9% — food",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "49",
+      "countryCode": "NL",
+      "description": "Netherlands BTW 9% — books",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "BE",
+      "description": "Belgium VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "21.000",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "0",
+      "countryCode": "BE",
+      "description": "Belgium VAT 6% — food, water",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "49",
+      "countryCode": "BE",
+      "description": "Belgium VAT 6% — books",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "BE",
+      "description": "Belgium VAT 12% — restaurants, fuel",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "12.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "AT",
+      "description": "Austria VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "20.000",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "0",
+      "countryCode": "AT",
+      "description": "Austria VAT 10% — food, books",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "AT",
+      "description": "Austria VAT 13% — domestic flights, cut flowers",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "13.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "PL",
+      "description": "Poland VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "23.000",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "0",
+      "countryCode": "PL",
+      "description": "Poland VAT 5% — basic food, books",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "PL",
+      "description": "Poland VAT 8% — restaurants, hotels, pharma",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "8.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "SE",
+      "description": "Sweden VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "25.000",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "0",
+      "countryCode": "SE",
+      "description": "Sweden VAT 12% — food, restaurants",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "12.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "49",
+      "countryCode": "SE",
+      "description": "Sweden VAT 6% — books, transport",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "DK",
+      "description": "Denmark VAT standard (no reduced rates — flat 25%)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "25.000",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "FI",
+      "description": "Finland VAT standard (raised from 24% Sep-2024)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "25.500",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "0",
+      "countryCode": "FI",
+      "description": "Finland VAT 14% — food, restaurants",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "14.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "49",
+      "countryCode": "FI",
+      "description": "Finland VAT 10% — books, transport, pharma",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "IE",
+      "description": "Ireland VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "23.000",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "IE",
+      "description": "Ireland VAT 13.5% — services, construction",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "13.500",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "IE",
+      "description": "Ireland VAT 9% — newspapers, e-books, hairdressing",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "0",
+      "countryCode": "IE",
+      "description": "Ireland zero-rated — most food (ch 01-22)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "zero",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "6111",
+      "countryCode": "IE",
+      "description": "Ireland zero-rated — children's clothing/footwear",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "zero",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "6209",
+      "countryCode": "IE",
+      "description": "Ireland zero-rated — children's woven garments",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "zero",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "4901",
+      "countryCode": "IE",
+      "description": "Ireland zero-rated — printed books",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "zero",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "PT",
+      "description": "Portugal IVA standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "23.000",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "0",
+      "countryCode": "PT",
+      "description": "Portugal IVA 6% — essential food, pharma",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "PT",
+      "description": "Portugal IVA 13% — restaurants, certain food",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "13.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "GR",
+      "description": "Greece VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "24.000",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "49",
+      "countryCode": "GR",
+      "description": "Greece VAT 6% — books, pharma",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "0",
+      "countryCode": "GR",
+      "description": "Greece VAT 13% — food, hotels",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "13.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "HU",
+      "description": "Hungary VAT standard (highest in EU)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "27.000",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "0",
+      "countryCode": "HU",
+      "description": "Hungary VAT 18% — dairy",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "18.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "49",
+      "countryCode": "HU",
+      "description": "Hungary VAT 5% — books, pharma",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "CZ",
+      "description": "Czech Republic VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "21.000",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "0",
+      "countryCode": "CZ",
+      "description": "Czech Republic VAT 12% — food, books",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "12.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "RO",
+      "description": "Romania VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "19.000",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "0",
+      "countryCode": "RO",
+      "description": "Romania VAT 9% — food, pharma, books",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "RO",
+      "description": "Romania VAT 5% — certain books, social housing",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "BG",
+      "description": "Bulgaria VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "20.000",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "BG",
+      "description": "Bulgaria VAT 9% — hotels",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "HR",
+      "description": "Croatia PDV standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "25.000",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "HR",
+      "description": "Croatia PDV 13% — tourism, food",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "13.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "49",
+      "countryCode": "HR",
+      "description": "Croatia PDV 5% — books, pharma",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "SK",
+      "description": "Slovakia VAT standard (raised Jan-2025)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "23.000",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "SK",
+      "description": "Slovakia VAT 5% — books, restaurants",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "SI",
+      "description": "Slovenia DDV standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "22.000",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "SI",
+      "description": "Slovenia DDV 9.5% — food, books",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "LU",
+      "description": "Luxembourg VAT standard (lowest in EU)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "17.000",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "49",
+      "countryCode": "LU",
+      "description": "Luxembourg VAT 3% — books, food",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "3.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "LU",
+      "description": "Luxembourg VAT 8% — wine, cleaning",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "8.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "LT",
+      "description": "Lithuania VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "21.000",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "LT",
+      "description": "Lithuania VAT 9% — books, hotels",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "LT",
+      "description": "Lithuania VAT 5% — pharma",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "LV",
+      "description": "Latvia VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "21.000",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "LV",
+      "description": "Latvia VAT 12% — pharma, books",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "12.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "LV",
+      "description": "Latvia VAT 5% — fruit, vegetables",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "EE",
+      "description": "Estonia VAT standard (raised Jul-2025)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "24.000",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": "49",
+      "countryCode": "EE",
+      "description": "Estonia VAT 9% — books, pharma",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "CY",
+      "description": "Cyprus VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "19.000",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "CY",
+      "description": "Cyprus VAT 5% — food, books, pharma",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "CY",
+      "description": "Cyprus VAT 9% — restaurants, hotels",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "MT",
+      "description": "Malta VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "18.000",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "MT",
+      "description": "Malta VAT 5% — books, confectionery, electricity",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "EU",
+      "description": "EU average — use country-specific where known",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "21.000",
+      "rateType": "standard",
+      "sourceUrl": "https://taxation-customs.ec.europa.eu/taxation/vat/vat-rates-applied-eu-member-states_en"
+    },
+    {
+      "countryCode": "CA",
+      "description": "Canada GST 5% federal — HST 13-15% in ON/NS/NB/PEI/NL",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses.html"
+    },
+    {
+      "appliesToHsPrefix": "49",
+      "countryCode": "CA",
+      "description": "Canada GST 0% — printed books, basic groceries (zero-rated)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses.html"
+    },
+    {
+      "countryCode": "US",
+      "description": "United States — no federal VAT (sales tax is state-level, not collected at import)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.cbp.gov/"
+    },
+    {
+      "countryCode": "MX",
+      "description": "Mexico IVA standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "16.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.gob.mx/sat"
+    },
+    {
+      "appliesToHsPrefix": "0",
+      "countryCode": "MX",
+      "description": "Mexico IVA 0% — basic food, medicines (zero-rated)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.gob.mx/sat"
+    },
+    {
+      "countryCode": "BR",
+      "description": "Brazil ICMS — varies 17-25% by state, this is approximate weighted average",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "17.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.gov.br/receitafederal"
+    },
+    {
+      "countryCode": "AR",
+      "description": "Argentina IVA standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "21.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.afip.gob.ar/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "AR",
+      "description": "Argentina IVA 10.5% — food, books, transport",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.500",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.afip.gob.ar/"
+    },
+    {
+      "countryCode": "CL",
+      "description": "Chile IVA standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "19.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.sii.cl/"
+    },
+    {
+      "countryCode": "CO",
+      "description": "Colombia IVA standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "19.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.dian.gov.co/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "CO",
+      "description": "Colombia IVA 5% — pharma, certain food",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.dian.gov.co/"
+    },
+    {
+      "countryCode": "PE",
+      "description": "Peru IGV standard (incl. 2% municipal)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "18.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.sunat.gob.pe/"
+    },
+    {
+      "countryCode": "UY",
+      "description": "Uruguay IVA standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "22.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.dgi.gub.uy/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "UY",
+      "description": "Uruguay IVA 10% — food, pharma",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.dgi.gub.uy/"
+    },
+    {
+      "countryCode": "AU",
+      "description": "Australia GST",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.ato.gov.au/"
+    },
+    {
+      "appliesToHsPrefix": "0",
+      "countryCode": "AU",
+      "description": "Australia GST 0% — basic food, health, education (GST-free)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.ato.gov.au/"
+    },
+    {
+      "countryCode": "NZ",
+      "description": "New Zealand GST (no reduced rates)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.ird.govt.nz/"
+    },
+    {
+      "countryCode": "JP",
+      "description": "Japan consumption tax standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.nta.go.jp/english/"
+    },
+    {
+      "appliesToHsPrefix": "0",
+      "countryCode": "JP",
+      "description": "Japan consumption tax 8% — food (excl. eat-in), newspapers",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "8.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.nta.go.jp/english/"
+    },
+    {
+      "countryCode": "KR",
+      "description": "South Korea VAT (single rate)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.nts.go.kr/"
+    },
+    {
+      "countryCode": "CN",
+      "description": "China VAT standard 13%",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "13.000",
+      "rateType": "standard",
+      "sourceUrl": "http://www.chinatax.gov.cn/"
+    },
+    {
+      "appliesToHsPrefix": "0",
+      "countryCode": "CN",
+      "description": "China VAT 9% — agricultural, books, utilities",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "reduced",
+      "sourceUrl": "http://www.chinatax.gov.cn/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "CN",
+      "description": "China VAT 6% — services, finance",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "reduced",
+      "sourceUrl": "http://www.chinatax.gov.cn/"
+    },
+    {
+      "countryCode": "HK",
+      "description": "Hong Kong — no VAT/GST",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.ird.gov.hk/"
+    },
+    {
+      "countryCode": "TW",
+      "description": "Taiwan business tax (VAT)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.etax.nat.gov.tw/"
+    },
+    {
+      "countryCode": "SG",
+      "description": "Singapore GST (raised Jan-2024)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.iras.gov.sg/"
+    },
+    {
+      "countryCode": "MY",
+      "description": "Malaysia Sales Tax — varies 5-10% by category; service tax 8%",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.customs.gov.my/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "MY",
+      "description": "Malaysia Sales Tax 5% — basic food, building materials",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.customs.gov.my/"
+    },
+    {
+      "countryCode": "TH",
+      "description": "Thailand VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.rd.go.th/english/"
+    },
+    {
+      "countryCode": "VN",
+      "description": "Vietnam VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.customs.gov.vn/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "VN",
+      "description": "Vietnam VAT 8% — covid-era reduced rate extended through 2025",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "8.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.customs.gov.vn/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "VN",
+      "description": "Vietnam VAT 5% — food, pharma, agricultural",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.customs.gov.vn/"
+    },
+    {
+      "countryCode": "PH",
+      "description": "Philippines VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "12.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.bir.gov.ph/"
+    },
+    {
+      "countryCode": "ID",
+      "description": "Indonesia PPN VAT standard (raised Apr-2022; further to 12% planned)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "11.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.pajak.go.id/"
+    },
+    {
+      "countryCode": "IN",
+      "description": "India IGST standard rate",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "18.000",
+      "rateType": "standard",
+      "sourceUrl": "https://gstcouncil.gov.in/"
+    },
+    {
+      "appliesToHsPrefix": "30",
+      "countryCode": "IN",
+      "description": "India IGST 5% — pharma (ch 30)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://gstcouncil.gov.in/"
+    },
+    {
+      "appliesToHsPrefix": "61",
+      "countryCode": "IN",
+      "description": "India IGST 5% — apparel ≤ ₹1000 / piece (ch 61 knitted)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://gstcouncil.gov.in/"
+    },
+    {
+      "appliesToHsPrefix": "62",
+      "countryCode": "IN",
+      "description": "India IGST 5% — apparel ≤ ₹1000 / piece (ch 62 woven)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://gstcouncil.gov.in/"
+    },
+    {
+      "appliesToHsPrefix": "64",
+      "countryCode": "IN",
+      "description": "India IGST 5% — footwear ≤ ₹1000 / pair (ch 64)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://gstcouncil.gov.in/"
+    },
+    {
+      "appliesToHsPrefix": "49",
+      "countryCode": "IN",
+      "description": "India IGST 12% — printed books (ch 49)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "12.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://gstcouncil.gov.in/"
+    },
+    {
+      "appliesToHsPrefix": "8703",
+      "countryCode": "IN",
+      "description": "India IGST 28% — motor cars + 1-22% cess",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "28.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://gstcouncil.gov.in/"
+    },
+    {
+      "appliesToHsPrefix": "2402",
+      "countryCode": "IN",
+      "description": "India IGST 28% — tobacco + cess",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "28.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://gstcouncil.gov.in/"
+    },
+    {
+      "countryCode": "AE",
+      "description": "UAE VAT (single rate)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.tax.gov.ae/"
+    },
+    {
+      "countryCode": "SA",
+      "description": "Saudi Arabia VAT (raised to 15% Jul-2020)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://zatca.gov.sa/"
+    },
+    {
+      "countryCode": "BH",
+      "description": "Bahrain VAT (raised from 5% Jan-2022)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.nbr.gov.bh/"
+    },
+    {
+      "countryCode": "OM",
+      "description": "Oman VAT (introduced Apr-2021)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "standard",
+      "sourceUrl": "https://tms.taxoman.gov.om/"
+    },
+    {
+      "countryCode": "QA",
+      "description": "Qatar — no VAT (planned introduction pending)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.gta.gov.qa/"
+    },
+    {
+      "countryCode": "KW",
+      "description": "Kuwait — no VAT (planned introduction pending)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.mof.gov.kw/"
+    },
+    {
+      "countryCode": "ZA",
+      "description": "South Africa VAT",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.sars.gov.za/"
+    },
+    {
+      "appliesToHsPrefix": "0",
+      "countryCode": "ZA",
+      "description": "South Africa zero-rated — basic food, illuminating paraffin",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.sars.gov.za/"
+    },
+    {
+      "countryCode": "EG",
+      "description": "Egypt VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "14.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.eta.gov.eg/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "EG",
+      "description": "Egypt VAT 5% — machinery",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.eta.gov.eg/"
+    },
+    {
+      "countryCode": "NG",
+      "description": "Nigeria VAT (raised from 5% Feb-2020)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "7.500",
+      "rateType": "standard",
+      "sourceUrl": "https://www.firs.gov.ng/"
+    },
+    {
+      "countryCode": "KE",
+      "description": "Kenya VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "16.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.kra.go.ke/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "KE",
+      "description": "Kenya VAT 8% — fuel",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "8.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.kra.go.ke/"
+    },
+    {
+      "countryCode": "MA",
+      "description": "Morocco TVA standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "20.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.tax.gov.ma/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "MA",
+      "description": "Morocco TVA 10% — banking, hotels",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.tax.gov.ma/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "MA",
+      "description": "Morocco TVA 7% — utilities, pharma",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.tax.gov.ma/"
+    },
+    {
+      "countryCode": "IL",
+      "description": "Israel VAT (single rate; small reductions on tourism)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "17.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.gov.il/en/departments/israel_tax_authority"
+    },
+    {
+      "countryCode": "TR",
+      "description": "Türkiye KDV standard (raised from 18% Jul-2023)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "20.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.gib.gov.tr/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "TR",
+      "description": "Türkiye KDV 10% — restaurants, certain food",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.gib.gov.tr/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "TR",
+      "description": "Türkiye KDV 1% — agricultural, books, journals",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "1.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.gib.gov.tr/"
+    },
+    {
+      "countryCode": "CH",
+      "description": "Switzerland VAT (raised Jan-2024)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "8.100",
+      "rateType": "standard",
+      "sourceUrl": "https://www.estv.admin.ch/"
+    },
+    {
+      "appliesToHsPrefix": "0",
+      "countryCode": "CH",
+      "description": "Switzerland VAT 2.6% — food, books, pharma, animals",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "2.600",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.estv.admin.ch/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "CH",
+      "description": "Switzerland VAT 3.8% — accommodation",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "3.800",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.estv.admin.ch/"
+    },
+    {
+      "countryCode": "NO",
+      "description": "Norway MVA standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "25.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.skatteetaten.no/"
+    },
+    {
+      "appliesToHsPrefix": "0",
+      "countryCode": "NO",
+      "description": "Norway MVA 15% — food",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.skatteetaten.no/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "NO",
+      "description": "Norway MVA 12% — transport, culture",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "12.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.skatteetaten.no/"
+    },
+    {
+      "countryCode": "IS",
+      "description": "Iceland VSK standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "24.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.skatturinn.is/english/"
+    },
+    {
+      "appliesToHsPrefix": "0",
+      "countryCode": "IS",
+      "description": "Iceland VSK 11% — food, books, pharma",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "11.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.skatturinn.is/english/"
+    },
+    {
+      "countryCode": "UA",
+      "description": "Ukraine VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "20.000",
+      "rateType": "standard",
+      "sourceUrl": "https://tax.gov.ua/"
+    },
+    {
+      "appliesToHsPrefix": "30",
+      "countryCode": "UA",
+      "description": "Ukraine VAT 7% — pharma",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://tax.gov.ua/"
+    },
+    {
+      "countryCode": "RU",
+      "description": "Russia VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "20.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.nalog.gov.ru/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "RU",
+      "description": "Russia VAT 10% — food, children's goods, books, pharma",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.nalog.gov.ru/"
+    },
+    {
+      "countryCode": "RS",
+      "description": "Serbia PDV standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "20.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.purs.gov.rs/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "RS",
+      "description": "Serbia PDV 10% — basic food, pharma",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.purs.gov.rs/"
+    },
+    {
+      "countryCode": "IL",
+      "description": "Israel VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "17.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.gov.il/en/departments/israel_tax_authority"
+    },
+    {
+      "countryCode": "PK",
+      "description": "Pakistan GST standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "18.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.fbr.gov.pk/"
+    },
+    {
+      "countryCode": "BD",
+      "description": "Bangladesh VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://nbr.gov.bd/"
+    },
+    {
+      "countryCode": "ET",
+      "description": "Ethiopia VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.mor.gov.et/"
+    },
+    {
+      "countryCode": "AZ",
+      "description": "Azerbaijan VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "18.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.taxes.gov.az/en/"
+    },
+    {
+      "countryCode": "BY",
+      "description": "Belarus VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "20.000",
+      "rateType": "standard",
+      "sourceUrl": "http://www.nalog.gov.by/"
+    },
+    {
+      "countryCode": "KZ",
+      "description": "Kazakhstan VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "12.000",
+      "rateType": "standard",
+      "sourceUrl": "https://kgd.gov.kz/"
+    },
+    {
+      "countryCode": "GE",
+      "description": "Georgia VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "18.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.rs.ge/en"
+    },
+    {
+      "countryCode": "DO",
+      "description": "Dominican Republic ITBIS standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "18.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.dgii.gov.do/"
+    },
+    {
+      "countryCode": "ZM",
+      "description": "Zambia VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "16.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.zra.org.zm/"
+    },
+    {
+      "countryCode": "BO",
+      "description": "Bolivia VAT (IVA) standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "13.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.impuestos.gob.bo/"
+    },
+    {
+      "countryCode": "TZ",
+      "description": "Tanzania VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "18.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.tra.go.tz/"
+    },
+    {
+      "countryCode": "UG",
+      "description": "Uganda VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "18.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.ura.go.ug/"
+    },
+    {
+      "countryCode": "VE",
+      "description": "Venezuela IVA standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "16.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.seniat.gob.ve/"
+    },
+    {
+      "countryCode": "LA",
+      "description": "Laos VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "standard",
+      "sourceUrl": "https://laotradeportal.gov.la/"
+    },
+    {
+      "countryCode": "KH",
+      "description": "Cambodia VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.tax.gov.kh/"
+    },
+    {
+      "countryCode": "MM",
+      "description": "Myanmar commercial tax standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.ird.gov.mm/"
+    },
+    {
+      "countryCode": "MN",
+      "description": "Mongolia VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "standard",
+      "sourceUrl": "https://en.mta.mn/"
+    },
+    {
+      "countryCode": "MU",
+      "description": "Mauritius VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.mra.mu/"
+    },
+    {
+      "countryCode": "MA",
+      "description": "Morocco VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "20.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.tax.gov.ma/"
+    },
+    {
+      "countryCode": "DZ",
+      "description": "Algeria VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "19.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.mfdgi.gov.dz/"
+    },
+    {
+      "countryCode": "TN",
+      "description": "Tunisia VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "19.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.impots.finances.gov.tn/"
+    },
+    {
+      "countryCode": "GH",
+      "description": "Ghana VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://gra.gov.gh/"
+    },
+    {
+      "countryCode": "CI",
+      "description": "Côte d'Ivoire VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "18.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.dgi.gouv.ci/"
+    },
+    {
+      "countryCode": "SN",
+      "description": "Senegal VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "18.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.dgid.sn/"
+    },
+    {
+      "countryCode": "CM",
+      "description": "Cameroon VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "19.250",
+      "rateType": "standard",
+      "sourceUrl": "https://www.impots.cm/"
+    },
+    {
+      "countryCode": "MZ",
+      "description": "Mozambique VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "16.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.at.gov.mz/"
+    },
+    {
+      "countryCode": "MG",
+      "description": "Madagascar VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "20.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.impots.mg/"
+    },
+    {
+      "countryCode": "AO",
+      "description": "Angola VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "14.000",
+      "rateType": "standard",
+      "sourceUrl": "https://agt.minfin.gov.ao/"
+    },
+    {
+      "countryCode": "ZW",
+      "description": "Zimbabwe VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.zimra.co.zw/"
+    },
+    {
+      "countryCode": "BW",
+      "description": "Botswana VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "14.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.burs.org.bw/"
+    },
+    {
+      "countryCode": "NA",
+      "description": "Namibia VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.namra.org.na/"
+    },
+    {
+      "countryCode": "LK",
+      "description": "Sri Lanka VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "18.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.ird.gov.lk/"
+    },
+    {
+      "countryCode": "NP",
+      "description": "Nepal VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "13.000",
+      "rateType": "standard",
+      "sourceUrl": "https://ird.gov.np/"
+    },
+    {
+      "countryCode": "MD",
+      "description": "Moldova VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "20.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.fisc.md/"
+    },
+    {
+      "countryCode": "AM",
+      "description": "Armenia VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "20.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.src.am/"
+    },
+    {
+      "countryCode": "UZ",
+      "description": "Uzbekistan VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "12.000",
+      "rateType": "standard",
+      "sourceUrl": "https://soliq.uz/"
+    },
+    {
+      "countryCode": "KG",
+      "description": "Kyrgyzstan VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "12.000",
+      "rateType": "standard",
+      "sourceUrl": "https://sti.gov.kg/"
+    },
+    {
+      "countryCode": "LB",
+      "description": "Lebanon VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "11.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.finance.gov.lb/"
+    },
+    {
+      "countryCode": "JO",
+      "description": "Jordan general sales tax standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "16.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.istd.gov.jo/"
+    },
+    {
+      "countryCode": "PA",
+      "description": "Panama ITBMS standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "standard",
+      "sourceUrl": "https://dgi.mef.gob.pa/"
+    },
+    {
+      "countryCode": "CR",
+      "description": "Costa Rica VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "13.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.hacienda.go.cr/"
+    },
+    {
+      "countryCode": "GT",
+      "description": "Guatemala IVA standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "12.000",
+      "rateType": "standard",
+      "sourceUrl": "https://portal.sat.gob.gt/"
+    },
+    {
+      "countryCode": "HN",
+      "description": "Honduras ISV standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.sar.gob.hn/"
+    },
+    {
+      "countryCode": "SV",
+      "description": "El Salvador IVA standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "13.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.mh.gob.sv/"
+    },
+    {
+      "countryCode": "NI",
+      "description": "Nicaragua IVA standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.dgi.gob.ni/"
+    },
+    {
+      "countryCode": "JM",
+      "description": "Jamaica GCT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.taxadmin.gov.jm/"
+    },
+    {
+      "countryCode": "TT",
+      "description": "Trinidad and Tobago VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "12.500",
+      "rateType": "standard",
+      "sourceUrl": "https://www.ird.gov.tt/"
+    },
+    {
+      "countryCode": "EC",
+      "description": "Ecuador IVA standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "12.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.sri.gob.ec/"
+    },
+    {
+      "countryCode": "PY",
+      "description": "Paraguay IVA standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.set.gov.py/"
+    },
+    {
+      "appliesToHsPrefix": "4901",
+      "countryCode": "DE",
+      "description": "Germany 7% — books",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.bzst.de/"
+    },
+    {
+      "appliesToHsPrefix": "4902",
+      "countryCode": "DE",
+      "description": "Germany 7% — newspapers",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.bzst.de/"
+    },
+    {
+      "appliesToHsPrefix": "01",
+      "countryCode": "DE",
+      "description": "Germany 7% — food (Chapter 01-23 generally)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.bzst.de/"
+    },
+    {
+      "appliesToHsPrefix": "30",
+      "countryCode": "DE",
+      "description": "Germany 7% — pharmaceuticals (specific products only)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.bzst.de/"
+    },
+    {
+      "appliesToHsPrefix": "4901",
+      "countryCode": "FR",
+      "description": "France 5.5% — books",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.500",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.impots.gouv.fr/"
+    },
+    {
+      "appliesToHsPrefix": "4902",
+      "countryCode": "FR",
+      "description": "France 5.5% — newspapers",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.500",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.impots.gouv.fr/"
+    },
+    {
+      "appliesToHsPrefix": "01",
+      "countryCode": "FR",
+      "description": "France 5.5% — basic food (essential)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.500",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.impots.gouv.fr/"
+    },
+    {
+      "appliesToHsPrefix": "30",
+      "countryCode": "FR",
+      "description": "France 2.1% — reimbursable pharmaceuticals",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "2.100",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.impots.gouv.fr/"
+    },
+    {
+      "appliesToHsPrefix": "9619",
+      "countryCode": "FR",
+      "description": "France 10% — feminine hygiene (5.5% from 2024)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.impots.gouv.fr/"
+    },
+    {
+      "appliesToHsPrefix": "4901",
+      "countryCode": "IT",
+      "description": "Italy 4% — books",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "4.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.agenziaentrate.gov.it/"
+    },
+    {
+      "appliesToHsPrefix": "01",
+      "countryCode": "IT",
+      "description": "Italy 4% — basic food (bread, milk, pasta)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "4.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.agenziaentrate.gov.it/"
+    },
+    {
+      "appliesToHsPrefix": "30",
+      "countryCode": "IT",
+      "description": "Italy 10% — pharmaceuticals",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.agenziaentrate.gov.it/"
+    },
+    {
+      "appliesToHsPrefix": "9619",
+      "countryCode": "IT",
+      "description": "Italy 5% — sanitary products",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.agenziaentrate.gov.it/"
+    },
+    {
+      "appliesToHsPrefix": "4901",
+      "countryCode": "ES",
+      "description": "Spain 4% — books",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "4.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.agenciatributaria.gob.es/"
+    },
+    {
+      "appliesToHsPrefix": "01",
+      "countryCode": "ES",
+      "description": "Spain 4% — basic food",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "4.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.agenciatributaria.gob.es/"
+    },
+    {
+      "appliesToHsPrefix": "30",
+      "countryCode": "ES",
+      "description": "Spain 10% — pharma",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.agenciatributaria.gob.es/"
+    },
+    {
+      "appliesToHsPrefix": "9619",
+      "countryCode": "ES",
+      "description": "Spain 0% — feminine hygiene (effective 2023)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.agenciatributaria.gob.es/"
+    },
+    {
+      "appliesToHsPrefix": "4901",
+      "countryCode": "NL",
+      "description": "Netherlands 9% — books",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.belastingdienst.nl/"
+    },
+    {
+      "appliesToHsPrefix": "01",
+      "countryCode": "NL",
+      "description": "Netherlands 9% — food",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.belastingdienst.nl/"
+    },
+    {
+      "appliesToHsPrefix": "30",
+      "countryCode": "NL",
+      "description": "Netherlands 9% — pharma",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.belastingdienst.nl/"
+    },
+    {
+      "appliesToHsPrefix": "4901",
+      "countryCode": "BE",
+      "description": "Belgium 6% — books",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://finances.belgium.be/"
+    },
+    {
+      "appliesToHsPrefix": "01",
+      "countryCode": "BE",
+      "description": "Belgium 6% — food",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://finances.belgium.be/"
+    },
+    {
+      "appliesToHsPrefix": "30",
+      "countryCode": "BE",
+      "description": "Belgium 6% — pharma",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://finances.belgium.be/"
+    },
+    {
+      "appliesToHsPrefix": "4901",
+      "countryCode": "SE",
+      "description": "Sweden 6% — books",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.skatteverket.se/"
+    },
+    {
+      "appliesToHsPrefix": "4902",
+      "countryCode": "SE",
+      "description": "Sweden 6% — newspapers",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.skatteverket.se/"
+    },
+    {
+      "appliesToHsPrefix": "01",
+      "countryCode": "SE",
+      "description": "Sweden 12% — food",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "12.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.skatteverket.se/"
+    },
+    {
+      "appliesToHsPrefix": "4901",
+      "countryCode": "PL",
+      "description": "Poland 5% — books",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.gov.pl/web/finanse"
+    },
+    {
+      "appliesToHsPrefix": "01",
+      "countryCode": "PL",
+      "description": "Poland 5% — basic food",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.gov.pl/web/finanse"
+    },
+    {
+      "appliesToHsPrefix": "30",
+      "countryCode": "PL",
+      "description": "Poland 8% — pharma",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "8.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.gov.pl/web/finanse"
+    },
+    {
+      "appliesToHsPrefix": "4901",
+      "countryCode": "AT",
+      "description": "Austria 10% — books",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.bmf.gv.at/"
+    },
+    {
+      "appliesToHsPrefix": "01",
+      "countryCode": "AT",
+      "description": "Austria 10% — food",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.bmf.gv.at/"
+    },
+    {
+      "appliesToHsPrefix": "30",
+      "countryCode": "AT",
+      "description": "Austria 10% — pharma",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.bmf.gv.at/"
+    },
+    {
+      "appliesToHsPrefix": "4901",
+      "countryCode": "PT",
+      "description": "Portugal 6% — books",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://info.portaldasfinancas.gov.pt/"
+    },
+    {
+      "appliesToHsPrefix": "01",
+      "countryCode": "PT",
+      "description": "Portugal 6% — essential food",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://info.portaldasfinancas.gov.pt/"
+    },
+    {
+      "appliesToHsPrefix": "30",
+      "countryCode": "PT",
+      "description": "Portugal 6% — pharma",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://info.portaldasfinancas.gov.pt/"
+    },
+    {
+      "appliesToHsPrefix": "4902",
+      "countryCode": "DK",
+      "description": "Denmark 0% — newspapers (limited to subscriptions)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "zero",
+      "sourceUrl": "https://www.skat.dk/"
+    },
+    {
+      "appliesToHsPrefix": "4901",
+      "countryCode": "GR",
+      "description": "Greece 6% — books",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.gsis.gr/"
+    },
+    {
+      "appliesToHsPrefix": "01",
+      "countryCode": "GR",
+      "description": "Greece 13% — food",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "13.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.gsis.gr/"
+    },
+    {
+      "appliesToHsPrefix": "30",
+      "countryCode": "GR",
+      "description": "Greece 6% — pharma",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.gsis.gr/"
+    },
+    {
+      "appliesToHsPrefix": "4901",
+      "countryCode": "CZ",
+      "description": "Czechia 12% — books (was 10%, 2024 consolidation)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "12.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.financnisprava.cz/"
+    },
+    {
+      "appliesToHsPrefix": "01",
+      "countryCode": "CZ",
+      "description": "Czechia 12% — food",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "12.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.financnisprava.cz/"
+    },
+    {
+      "appliesToHsPrefix": "4901",
+      "countryCode": "HU",
+      "description": "Hungary 5% — books",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.nav.gov.hu/"
+    },
+    {
+      "appliesToHsPrefix": "30",
+      "countryCode": "HU",
+      "description": "Hungary 5% — pharma",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.nav.gov.hu/"
+    },
+    {
+      "appliesToHsPrefix": "01",
+      "countryCode": "HU",
+      "description": "Hungary 5% — basic food (milk, eggs, poultry)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.nav.gov.hu/"
+    },
+    {
+      "appliesToHsPrefix": "4901",
+      "countryCode": "RO",
+      "description": "Romania 5% — books",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.anaf.ro/"
+    },
+    {
+      "appliesToHsPrefix": "01",
+      "countryCode": "RO",
+      "description": "Romania 9% — food",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.anaf.ro/"
+    },
+    {
+      "appliesToHsPrefix": "30",
+      "countryCode": "RO",
+      "description": "Romania 9% — pharma",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.anaf.ro/"
+    },
+    {
+      "appliesToHsPrefix": "61",
+      "countryCode": "IE",
+      "description": "Ireland 0% — children's clothing/footwear (under specific sizing)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "zero",
+      "sourceUrl": "https://www.revenue.ie/"
+    },
+    {
+      "appliesToHsPrefix": "4901",
+      "countryCode": "FI",
+      "description": "Finland 10% — books",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.vero.fi/"
+    },
+    {
+      "appliesToHsPrefix": "01",
+      "countryCode": "FI",
+      "description": "Finland 14% — food",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "14.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.vero.fi/"
+    },
+    {
+      "countryCode": "AL",
+      "description": "Albania VAT (TVSh) standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "20.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.tatime.gov.al/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "AL",
+      "description": "Albania TVSh 6% — accommodation services",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.tatime.gov.al/"
+    },
+    {
+      "countryCode": "BA",
+      "description": "Bosnia and Herzegovina VAT (PDV) standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "17.000",
+      "rateType": "standard",
+      "sourceUrl": "http://www.uino.gov.ba/"
+    },
+    {
+      "countryCode": "MK",
+      "description": "North Macedonia VAT (DDV) standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "18.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.ujp.gov.mk/"
+    },
+    {
+      "appliesToHsPrefix": "01",
+      "countryCode": "MK",
+      "description": "North Macedonia DDV 5% — food, books, pharma",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.ujp.gov.mk/"
+    },
+    {
+      "countryCode": "BN",
+      "description": "Brunei — no VAT/GST",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.mofe.gov.bn/"
+    },
+    {
+      "countryCode": "MO",
+      "description": "Macao SAR — no general VAT (excise on specific goods only)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.dsf.gov.mo/"
+    },
+    {
+      "countryCode": "AG",
+      "description": "Antigua and Barbuda — ABST (sales tax) standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://customs.gov.ag/"
+    },
+    {
+      "countryCode": "BB",
+      "description": "Barbados VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "17.500",
+      "rateType": "standard",
+      "sourceUrl": "https://www.bra.gov.bb/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "BB",
+      "description": "Barbados VAT 10% — accommodation",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.bra.gov.bb/"
+    },
+    {
+      "countryCode": "BS",
+      "description": "Bahamas VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "standard",
+      "sourceUrl": "https://inlandrevenue.finance.gov.bs/"
+    },
+    {
+      "countryCode": "BZ",
+      "description": "Belize GST standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "12.500",
+      "rateType": "standard",
+      "sourceUrl": "https://gst.bz/"
+    },
+    {
+      "countryCode": "DM",
+      "description": "Dominica VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://customs.gov.dm/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "DM",
+      "description": "Dominica VAT 10% — accommodation",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://customs.gov.dm/"
+    },
+    {
+      "countryCode": "GD",
+      "description": "Grenada VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.gov.gd/ird/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "GD",
+      "description": "Grenada VAT 10% — hotel accommodation",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.gov.gd/ird/"
+    },
+    {
+      "countryCode": "GY",
+      "description": "Guyana VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "14.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.gra.gov.gy/"
+    },
+    {
+      "countryCode": "HT",
+      "description": "Haiti TCA (turnover tax) standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.dgi.gouv.ht/"
+    },
+    {
+      "countryCode": "KN",
+      "description": "St Kitts and Nevis VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "17.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.skncustoms.com/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "KN",
+      "description": "St Kitts and Nevis VAT 10% — accommodation",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.skncustoms.com/"
+    },
+    {
+      "countryCode": "LC",
+      "description": "St Lucia VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "12.500",
+      "rateType": "standard",
+      "sourceUrl": "https://customs.gov.lc/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "LC",
+      "description": "St Lucia VAT 10% — accommodation",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://customs.gov.lc/"
+    },
+    {
+      "countryCode": "SR",
+      "description": "Suriname VAT standard (replaced BTW Jan-2023)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.douane.gov.sr/"
+    },
+    {
+      "countryCode": "VC",
+      "description": "St Vincent and the Grenadines VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "16.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.customs.gov.vc/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "VC",
+      "description": "St Vincent VAT 11% — hotel accommodation",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "11.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.customs.gov.vc/"
+    },
+    {
+      "countryCode": "FJ",
+      "description": "Fiji VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.frcs.org.fj/"
+    },
+    {
+      "countryCode": "NC",
+      "description": "New Caledonia TGC general rate (replaced TGI 2018)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "11.000",
+      "rateType": "standard",
+      "sourceUrl": "https://dsf.gouv.nc/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "NC",
+      "description": "New Caledonia TGC 6% — reduced rate",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://dsf.gouv.nc/"
+    },
+    {
+      "countryCode": "PF",
+      "description": "French Polynesia TVA standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "16.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.impot-polynesie.gov.pf/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "PF",
+      "description": "French Polynesia TVA 13% — intermediate",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "13.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.impot-polynesie.gov.pf/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "PF",
+      "description": "French Polynesia TVA 5% — reduced rate",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.impot-polynesie.gov.pf/"
+    },
+    {
+      "countryCode": "PG",
+      "description": "Papua New Guinea GST standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.irc.gov.pg/"
+    },
+    {
+      "countryCode": "SB",
+      "description": "Solomon Islands — Goods Tax standard (sales tax)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.ird.gov.sb/"
+    },
+    {
+      "countryCode": "TO",
+      "description": "Tonga Consumption Tax standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.revenue.gov.to/"
+    },
+    {
+      "countryCode": "VU",
+      "description": "Vanuatu VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://customsinlandrevenue.gov.vu/"
+    },
+    {
+      "countryCode": "WS",
+      "description": "Samoa VAGST standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.revenue.gov.ws/"
+    },
+    {
+      "countryCode": "CV",
+      "description": "Cabo Verde IVA standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://portondinosilhas.gov.cv/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "CV",
+      "description": "Cabo Verde IVA 8% — tourism",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "8.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://portondinosilhas.gov.cv/"
+    },
+    {
+      "countryCode": "DJ",
+      "description": "Djibouti TVA standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.douanes.dj/"
+    },
+    {
+      "countryCode": "ER",
+      "description": "Eritrea sales tax standard (limited coverage)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "standard",
+      "sourceUrl": "https://shabait.com/"
+    },
+    {
+      "countryCode": "GM",
+      "description": "Gambia VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.gra.gm/"
+    },
+    {
+      "countryCode": "GW",
+      "description": "Guinea-Bissau IVA standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "17.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.alfandegasgb.gov.gw/"
+    },
+    {
+      "countryCode": "KM",
+      "description": "Comoros consumption tax standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.beit-salam.km/"
+    },
+    {
+      "countryCode": "LR",
+      "description": "Liberia GST standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.lra.gov.lr/"
+    },
+    {
+      "countryCode": "LS",
+      "description": "Lesotho VAT standard (SACU rate)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.lra.org.ls/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "LS",
+      "description": "Lesotho VAT 9% — fuel",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.lra.org.ls/"
+    },
+    {
+      "appliesToHsPrefix": "01",
+      "countryCode": "LS",
+      "description": "Lesotho VAT 0% — basic food (zero-rated)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "zero",
+      "sourceUrl": "https://www.lra.org.ls/"
+    },
+    {
+      "countryCode": "MW",
+      "description": "Malawi VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "16.500",
+      "rateType": "standard",
+      "sourceUrl": "https://www.mra.mw/"
+    },
+    {
+      "countryCode": "RW",
+      "description": "Rwanda VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "18.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.rra.gov.rw/"
+    },
+    {
+      "countryCode": "SC",
+      "description": "Seychelles VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.src.gov.sc/"
+    },
+    {
+      "countryCode": "SL",
+      "description": "Sierra Leone GST standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.nra.gov.sl/"
+    },
+    {
+      "countryCode": "ST",
+      "description": "São Tomé and Príncipe IVA standard (from 2023)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.agt.st/"
+    },
+    {
+      "countryCode": "SZ",
+      "description": "Eswatini VAT standard (SACU rate)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.sra.org.sz/"
+    },
+    {
+      "countryCode": "BR",
+      "description": "Brazil ICMS standard (most-common state rate); IPI + PIS + COFINS apply separately",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "17.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.gov.br/receitafederal/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "BR",
+      "description": "Brazil ICMS reduced (basic food / construction inputs in some states)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "12.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.gov.br/receitafederal/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "BR",
+      "description": "Brazil ICMS reduced (basic-basket / interstate-Norte/Nordeste destinations)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.gov.br/receitafederal/"
+    },
+    {
+      "countryCode": "CA",
+      "description": "Canada federal GST standard; provincial HST/PST stack on top per province",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses.html"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "CA",
+      "description": "Canada GST/HST zero-rated (basic groceries, prescription drugs, exports)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses.html"
+    },
+    {
+      "countryCode": "ID",
+      "description": "Indonesia PPN (VAT) standard — increased to 11% April 2022, scheduled to 12% from 2025",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "11.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.pajak.go.id/"
+    },
+    {
+      "appliesToHsPrefix": "01",
+      "countryCode": "ID",
+      "description": "Indonesia PPN 0% — exports + certain basic goods",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "zero",
+      "sourceUrl": "https://www.pajak.go.id/"
+    },
+    {
+      "countryCode": "MY",
+      "description": "Malaysia SST (Sales Tax) standard rate; service tax 6%/8% separate. GST repealed 2018.",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "standard",
+      "sourceUrl": "https://mysst.customs.gov.my/"
+    },
+    {
+      "countryCode": "US",
+      "description": "United States — no federal VAT; state sales taxes apply via us-sales-tax.seed.ts",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.taxadmin.org/state-tax-agencies"
+    },
+    {
+      "countryCode": "AD",
+      "description": "Andorra IGI (General Indirect Tax) standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "4.500",
+      "rateType": "standard",
+      "sourceUrl": "https://www.impostos.ad/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "AD",
+      "description": "Andorra IGI 9.5% — special rate (banking, financial services)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.impostos.ad/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "AD",
+      "description": "Andorra IGI 1% — reduced (food, books, medical)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "1.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.impostos.ad/"
+    },
+    {
+      "countryCode": "MC",
+      "description": "Monaco TVA — applies French rate (Monaco in FR fiscal territory)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "20.000",
+      "rateType": "standard",
+      "sourceUrl": "https://en.gouv.mc/"
+    },
+    {
+      "countryCode": "SM",
+      "description": "San Marino — monophase tax (Imposta Monofase) replaces VAT; 17% on most imports; effective rate varies",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.gov.sm/"
+    },
+    {
+      "countryCode": "VA",
+      "description": "Vatican City — no national VAT; rides Italian customs for commercial flows",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.vaticanstate.va/"
+    },
+    {
+      "countryCode": "LI",
+      "description": "Liechtenstein MWST — Swiss customs union, mirrors Swiss VAT rate",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "8.100",
+      "rateType": "standard",
+      "sourceUrl": "https://www.llv.li/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "LI",
+      "description": "Liechtenstein MWST 2.6% — food, books, medicines (mirrors CH)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "2.600",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.llv.li/"
+    },
+    {
+      "countryCode": "GI",
+      "description": "Gibraltar — no VAT; uses Import Duty regime instead",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.gibraltar.gov.gi/"
+    },
+    {
+      "countryCode": "FO",
+      "description": "Faroe Islands MVG (VAT) standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "25.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.taks.fo/"
+    },
+    {
+      "countryCode": "GL",
+      "description": "Greenland — no general VAT; duty + import surcharge from first DKK",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "standard",
+      "sourceUrl": "https://aka.gl/"
+    },
+    {
+      "countryCode": "BJ",
+      "description": "Benin TVA standard (UEMOA rate)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "18.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.douanes.bj/"
+    },
+    {
+      "countryCode": "BF",
+      "description": "Burkina Faso TVA standard (UEMOA rate)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "18.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.douanes.bf/"
+    },
+    {
+      "countryCode": "BI",
+      "description": "Burundi TVA standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "18.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.obr.bi/"
+    },
+    {
+      "countryCode": "CD",
+      "description": "DRC TVA standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "16.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.douane.gouv.cd/"
+    },
+    {
+      "countryCode": "CG",
+      "description": "Republic of the Congo TVA standard (CEMAC rate)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "18.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.douanes.cg/"
+    },
+    {
+      "countryCode": "CF",
+      "description": "Central African Republic TVA standard (CEMAC)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "19.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.minfi-rca.com/"
+    },
+    {
+      "countryCode": "GA",
+      "description": "Gabon TVA standard (CEMAC)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "18.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.douanes.ga/"
+    },
+    {
+      "countryCode": "GN",
+      "description": "Guinea TVA standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "18.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.douanes.gov.gn/"
+    },
+    {
+      "countryCode": "GQ",
+      "description": "Equatorial Guinea IVA standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.guineaecuatorialpress.com/"
+    },
+    {
+      "countryCode": "ML",
+      "description": "Mali TVA standard (UEMOA)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "18.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.douanes.gouv.ml/"
+    },
+    {
+      "countryCode": "MR",
+      "description": "Mauritania TVA standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "16.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.douanes.gov.mr/"
+    },
+    {
+      "countryCode": "NE",
+      "description": "Niger TVA standard (UEMOA)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "19.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.douanes.gouv.ne/"
+    },
+    {
+      "countryCode": "SD",
+      "description": "Sudan VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "17.000",
+      "rateType": "standard",
+      "sourceUrl": "https://customs.gov.sd/"
+    },
+    {
+      "countryCode": "SS",
+      "description": "South Sudan VAT standard (limited published guidance)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "18.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.customs.gov.ss/"
+    },
+    {
+      "countryCode": "TD",
+      "description": "Chad TVA standard (CEMAC)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "18.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.douanes.td/"
+    },
+    {
+      "countryCode": "TG",
+      "description": "Togo TVA standard (UEMOA)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "18.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.otr.tg/"
+    },
+    {
+      "countryCode": "IQ",
+      "description": "Iraq — no VAT; sales tax (10% mobile, 15% petrol) + reconstruction tax 5% on imports",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "standard",
+      "sourceUrl": "https://customs.mof.gov.iq/"
+    },
+    {
+      "countryCode": "YE",
+      "description": "Yemen general sales tax standard (administration disrupted)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.customs.gov.ye/"
+    },
+    {
+      "countryCode": "SY",
+      "description": "Syria — no general VAT; consumption tax on specific categories",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "standard",
+      "sourceUrl": "https://customs.gov.sy/"
+    },
+    {
+      "countryCode": "LY",
+      "description": "Libya — no VAT; selective consumption taxes apply",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "standard",
+      "sourceUrl": "https://customs.gov.ly/"
+    },
+    {
+      "countryCode": "AF",
+      "description": "Afghanistan BRT (business receipts tax) standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "standard",
+      "sourceUrl": "https://customs.gov.af/"
+    },
+    {
+      "countryCode": "TJ",
+      "description": "Tajikistan VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "14.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.customs.tj/"
+    },
+    {
+      "countryCode": "TM",
+      "description": "Turkmenistan VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.customs.gov.tm/"
+    },
+    {
+      "countryCode": "RS",
+      "description": "Serbia PDV (VAT) standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "20.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.carina.rs/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "RS",
+      "description": "Serbia PDV 10% — reduced (food, books, medicines)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.carina.rs/"
+    },
+    {
+      "countryCode": "ME",
+      "description": "Montenegro PDV standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "21.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.upravacarina.gov.me/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "ME",
+      "description": "Montenegro PDV 7% — reduced (food, medicines)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://www.upravacarina.gov.me/"
+    },
+    {
+      "countryCode": "XK",
+      "description": "Kosovo VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "18.000",
+      "rateType": "standard",
+      "sourceUrl": "https://dogana.rks-gov.net/"
+    },
+    {
+      "appliesToHsPrefix": null,
+      "countryCode": "XK",
+      "description": "Kosovo VAT 8% — reduced (food, medicines, books)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "8.000",
+      "rateType": "reduced",
+      "sourceUrl": "https://dogana.rks-gov.net/"
+    },
+    {
+      "countryCode": "AW",
+      "description": "Aruba BBO (turnover tax) standard rate",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.douane.aw/"
+    },
+    {
+      "countryCode": "CW",
+      "description": "Curaçao OB (sales tax) standard rate",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.douane.cw/"
+    },
+    {
+      "countryCode": "SX",
+      "description": "Sint Maarten TOT (turnover tax) standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.sintmaartengov.org/"
+    },
+    {
+      "countryCode": "PR",
+      "description": "Puerto Rico IVU (sales + use tax) standard — municipal 1% + commonwealth 10.5%",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "11.500",
+      "rateType": "standard",
+      "sourceUrl": "https://hacienda.pr.gov/"
+    },
+    {
+      "countryCode": "KI",
+      "description": "Kiribati — no VAT/GST; import duty regime",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.mfed.gov.ki/"
+    },
+    {
+      "countryCode": "FM",
+      "description": "Federated States of Micronesia — no general VAT; state import taxes vary",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "standard",
+      "sourceUrl": "https://customs.gov.fm/"
+    },
+    {
+      "countryCode": "MH",
+      "description": "Marshall Islands — no VAT; import duty regime",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.rmicustoms.gov.mh/"
+    },
+    {
+      "countryCode": "PW",
+      "description": "Palau PGST (goods + services tax) standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "10.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.palaugov.pw/"
+    },
+    {
+      "countryCode": "NR",
+      "description": "Nauru — no VAT; duty + excise on imports",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.naurugov.nr/"
+    },
+    {
+      "countryCode": "TV",
+      "description": "Tuvalu — no VAT; small-state customs regime",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.tuvalu.tv/"
+    },
+    {
+      "countryCode": "CK",
+      "description": "Cook Islands VAT standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "15.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.mfem.gov.ck/"
+    },
+    {
+      "countryCode": "NU",
+      "description": "Niue consumption tax standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "12.500",
+      "rateType": "standard",
+      "sourceUrl": "https://www.gov.nu/"
+    },
+    {
+      "countryCode": "BT",
+      "description": "Bhutan GST standard",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.drc.gov.bt/"
+    },
+    {
+      "countryCode": "MV",
+      "description": "Maldives TGST (tourism goods + services tax) tourism rate; GGST 8% general",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "16.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.customs.gov.mv/"
+    },
+    {
+      "countryCode": "TL",
+      "description": "Timor-Leste sales tax standard (2.5% on imports)",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "2.500",
+      "rateType": "standard",
+      "sourceUrl": "https://www.aduaneira.gov.tl/"
+    },
+    {
+      "countryCode": "CU",
+      "description": "Cuba — no general VAT for foreign-trade purposes; sales tax 10% on retail. US sanctions block most commercial flows.",
+      "lastVerifiedAt": "2026-05-13T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "standard",
+      "sourceUrl": "https://www.aduana.gob.cu/"
+    }
+  ]
+}

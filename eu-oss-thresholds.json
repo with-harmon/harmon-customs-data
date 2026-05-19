@@ -1,0 +1,277 @@
+{
+  "generatedAt": "2026-05-19T02:26:50.247Z",
+  "label": "EU OSS distance-selling thresholds",
+  "rowCount": 27,
+  "rows": [
+    {
+      "annualThresholdEur": "10000.00",
+      "countryCode": "AT",
+      "effectiveFrom": "2021-07-01T00:00:00.000Z",
+      "lastVerifiedAt": "2026-05-18T00:00:00.000Z",
+      "notes": "Austria — EU OSS union scheme. Standard 20% applies above €10,000 EU-wide threshold.",
+      "ossScheme": "union",
+      "sourceUrl": "https://www.bmf.gv.at/themen/steuern/oss-ioss.html",
+      "standardVatPercent": "20.00"
+    },
+    {
+      "annualThresholdEur": "10000.00",
+      "countryCode": "BE",
+      "effectiveFrom": "2021-07-01T00:00:00.000Z",
+      "lastVerifiedAt": "2026-05-18T00:00:00.000Z",
+      "notes": "Belgium — EU OSS union scheme.",
+      "ossScheme": "union",
+      "sourceUrl": "https://finances.belgium.be/fr/entreprises/tva/declaration/oss-ioss",
+      "standardVatPercent": "21.00"
+    },
+    {
+      "annualThresholdEur": "10000.00",
+      "countryCode": "BG",
+      "effectiveFrom": "2021-07-01T00:00:00.000Z",
+      "lastVerifiedAt": "2026-05-18T00:00:00.000Z",
+      "notes": "Bulgaria — EU OSS union scheme.",
+      "ossScheme": "union",
+      "sourceUrl": "https://nra.bg/page?id=621",
+      "standardVatPercent": "20.00"
+    },
+    {
+      "annualThresholdEur": "10000.00",
+      "countryCode": "HR",
+      "effectiveFrom": "2021-07-01T00:00:00.000Z",
+      "lastVerifiedAt": "2026-05-18T00:00:00.000Z",
+      "notes": "Croatia — EU OSS union scheme. Eurozone since 2023.",
+      "ossScheme": "union",
+      "sourceUrl": "https://carina.gov.hr/",
+      "standardVatPercent": "25.00"
+    },
+    {
+      "annualThresholdEur": "10000.00",
+      "countryCode": "CY",
+      "effectiveFrom": "2021-07-01T00:00:00.000Z",
+      "lastVerifiedAt": "2026-05-18T00:00:00.000Z",
+      "notes": "Cyprus — EU OSS union scheme.",
+      "ossScheme": "union",
+      "sourceUrl": "https://www.mof.gov.cy/mof/tax/taxdep.nsf",
+      "standardVatPercent": "19.00"
+    },
+    {
+      "annualThresholdEur": "10000.00",
+      "countryCode": "CZ",
+      "effectiveFrom": "2021-07-01T00:00:00.000Z",
+      "lastVerifiedAt": "2026-05-18T00:00:00.000Z",
+      "notes": "Czechia — EU OSS union scheme.",
+      "ossScheme": "union",
+      "sourceUrl": "https://www.financnisprava.cz/cs/mezinarodni-spoluprace/mezinarodni-spoluprace-a-dph/oss",
+      "standardVatPercent": "21.00"
+    },
+    {
+      "annualThresholdEur": "10000.00",
+      "countryCode": "DK",
+      "effectiveFrom": "2021-07-01T00:00:00.000Z",
+      "lastVerifiedAt": "2026-05-18T00:00:00.000Z",
+      "notes": "Denmark — EU OSS union scheme. No reduced rates (flat 25%).",
+      "ossScheme": "union",
+      "sourceUrl": "https://skat.dk/en-us/erhverv/moms/one-stop-shop-oss-ioss",
+      "standardVatPercent": "25.00"
+    },
+    {
+      "annualThresholdEur": "10000.00",
+      "countryCode": "EE",
+      "effectiveFrom": "2021-07-01T00:00:00.000Z",
+      "lastVerifiedAt": "2026-05-18T00:00:00.000Z",
+      "notes": "Estonia — EU OSS union scheme. Standard raised 20→22% in 2024.",
+      "ossScheme": "union",
+      "sourceUrl": "https://www.emta.ee/en/business-client/customs-trade-goods/vat-cross-border-trade/oss",
+      "standardVatPercent": "22.00"
+    },
+    {
+      "annualThresholdEur": "10000.00",
+      "countryCode": "FI",
+      "effectiveFrom": "2021-07-01T00:00:00.000Z",
+      "lastVerifiedAt": "2026-05-18T00:00:00.000Z",
+      "notes": "Finland — EU OSS union scheme. Standard raised 24→25.5% in 2024-09.",
+      "ossScheme": "union",
+      "sourceUrl": "https://tulli.fi/en/business/vat/oss-and-ioss",
+      "standardVatPercent": "25.50"
+    },
+    {
+      "annualThresholdEur": "10000.00",
+      "countryCode": "FR",
+      "effectiveFrom": "2021-07-01T00:00:00.000Z",
+      "lastVerifiedAt": "2026-05-18T00:00:00.000Z",
+      "notes": "France — EU OSS union scheme.",
+      "ossScheme": "union",
+      "sourceUrl": "https://www.impots.gouv.fr/portail/professionnel/oss-guichet-unique",
+      "standardVatPercent": "20.00"
+    },
+    {
+      "annualThresholdEur": "10000.00",
+      "countryCode": "DE",
+      "effectiveFrom": "2021-07-01T00:00:00.000Z",
+      "lastVerifiedAt": "2026-05-18T00:00:00.000Z",
+      "notes": "Germany — EU OSS union scheme.",
+      "ossScheme": "union",
+      "sourceUrl": "https://www.bzst.de/EN/Businesses/oss/oss_node.html",
+      "standardVatPercent": "19.00"
+    },
+    {
+      "annualThresholdEur": "10000.00",
+      "countryCode": "GR",
+      "effectiveFrom": "2021-07-01T00:00:00.000Z",
+      "lastVerifiedAt": "2026-05-18T00:00:00.000Z",
+      "notes": "Greece — EU OSS union scheme.",
+      "ossScheme": "union",
+      "sourceUrl": "https://www.aade.gr/en/businesses/distance-selling-goods-oss",
+      "standardVatPercent": "24.00"
+    },
+    {
+      "annualThresholdEur": "10000.00",
+      "countryCode": "HU",
+      "effectiveFrom": "2021-07-01T00:00:00.000Z",
+      "lastVerifiedAt": "2026-05-18T00:00:00.000Z",
+      "notes": "Hungary — EU OSS union scheme. EU's highest standard VAT.",
+      "ossScheme": "union",
+      "sourceUrl": "https://nav.gov.hu/en/oss",
+      "standardVatPercent": "27.00"
+    },
+    {
+      "annualThresholdEur": "10000.00",
+      "countryCode": "IE",
+      "effectiveFrom": "2021-07-01T00:00:00.000Z",
+      "lastVerifiedAt": "2026-05-18T00:00:00.000Z",
+      "notes": "Ireland — EU OSS union scheme.",
+      "ossScheme": "union",
+      "sourceUrl": "https://www.revenue.ie/en/vat/oss/index.aspx",
+      "standardVatPercent": "23.00"
+    },
+    {
+      "annualThresholdEur": "10000.00",
+      "countryCode": "IT",
+      "effectiveFrom": "2021-07-01T00:00:00.000Z",
+      "lastVerifiedAt": "2026-05-18T00:00:00.000Z",
+      "notes": "Italy — EU OSS union scheme.",
+      "ossScheme": "union",
+      "sourceUrl": "https://www.agenziaentrate.gov.it/portale/oss",
+      "standardVatPercent": "22.00"
+    },
+    {
+      "annualThresholdEur": "10000.00",
+      "countryCode": "LV",
+      "effectiveFrom": "2021-07-01T00:00:00.000Z",
+      "lastVerifiedAt": "2026-05-18T00:00:00.000Z",
+      "notes": "Latvia — EU OSS union scheme.",
+      "ossScheme": "union",
+      "sourceUrl": "https://www.vid.gov.lv/en/oss",
+      "standardVatPercent": "21.00"
+    },
+    {
+      "annualThresholdEur": "10000.00",
+      "countryCode": "LT",
+      "effectiveFrom": "2021-07-01T00:00:00.000Z",
+      "lastVerifiedAt": "2026-05-18T00:00:00.000Z",
+      "notes": "Lithuania — EU OSS union scheme.",
+      "ossScheme": "union",
+      "sourceUrl": "https://www.lrmuitine.lt/web/guest/en",
+      "standardVatPercent": "21.00"
+    },
+    {
+      "annualThresholdEur": "10000.00",
+      "countryCode": "LU",
+      "effectiveFrom": "2021-07-01T00:00:00.000Z",
+      "lastVerifiedAt": "2026-05-18T00:00:00.000Z",
+      "notes": "Luxembourg — EU OSS union scheme. EU's lowest standard VAT.",
+      "ossScheme": "union",
+      "sourceUrl": "https://pfi.public.lu/fr/tva-internet/oss-ioss.html",
+      "standardVatPercent": "17.00"
+    },
+    {
+      "annualThresholdEur": "10000.00",
+      "countryCode": "MT",
+      "effectiveFrom": "2021-07-01T00:00:00.000Z",
+      "lastVerifiedAt": "2026-05-18T00:00:00.000Z",
+      "notes": "Malta — EU OSS union scheme.",
+      "ossScheme": "union",
+      "sourceUrl": "https://cfr.gov.mt/en/eServices/Pages/OSS-IOSS.aspx",
+      "standardVatPercent": "18.00"
+    },
+    {
+      "annualThresholdEur": "10000.00",
+      "countryCode": "NL",
+      "effectiveFrom": "2021-07-01T00:00:00.000Z",
+      "lastVerifiedAt": "2026-05-18T00:00:00.000Z",
+      "notes": "Netherlands — EU OSS union scheme.",
+      "ossScheme": "union",
+      "sourceUrl": "https://www.belastingdienst.nl/wps/wcm/connect/en/vat/vat",
+      "standardVatPercent": "21.00"
+    },
+    {
+      "annualThresholdEur": "10000.00",
+      "countryCode": "PL",
+      "effectiveFrom": "2021-07-01T00:00:00.000Z",
+      "lastVerifiedAt": "2026-05-18T00:00:00.000Z",
+      "notes": "Poland — EU OSS union scheme.",
+      "ossScheme": "union",
+      "sourceUrl": "https://www.gov.pl/web/finanse/oss",
+      "standardVatPercent": "23.00"
+    },
+    {
+      "annualThresholdEur": "10000.00",
+      "countryCode": "PT",
+      "effectiveFrom": "2021-07-01T00:00:00.000Z",
+      "lastVerifiedAt": "2026-05-18T00:00:00.000Z",
+      "notes": "Portugal — EU OSS union scheme.",
+      "ossScheme": "union",
+      "sourceUrl": "https://info.portaldasfinancas.gov.pt/pt/IVA/oss",
+      "standardVatPercent": "23.00"
+    },
+    {
+      "annualThresholdEur": "10000.00",
+      "countryCode": "RO",
+      "effectiveFrom": "2021-07-01T00:00:00.000Z",
+      "lastVerifiedAt": "2026-05-18T00:00:00.000Z",
+      "notes": "Romania — EU OSS union scheme.",
+      "ossScheme": "union",
+      "sourceUrl": "https://www.anaf.ro/anaf/internet/ANAF/servicii_online/inreg_inreg_oss",
+      "standardVatPercent": "19.00"
+    },
+    {
+      "annualThresholdEur": "10000.00",
+      "countryCode": "SK",
+      "effectiveFrom": "2021-07-01T00:00:00.000Z",
+      "lastVerifiedAt": "2026-05-18T00:00:00.000Z",
+      "notes": "Slovakia — EU OSS union scheme. Standard raised 20→23% from 2025-01.",
+      "ossScheme": "union",
+      "sourceUrl": "https://www.financnasprava.sk/en/individuals/oss",
+      "standardVatPercent": "23.00"
+    },
+    {
+      "annualThresholdEur": "10000.00",
+      "countryCode": "SI",
+      "effectiveFrom": "2021-07-01T00:00:00.000Z",
+      "lastVerifiedAt": "2026-05-18T00:00:00.000Z",
+      "notes": "Slovenia — EU OSS union scheme.",
+      "ossScheme": "union",
+      "sourceUrl": "https://www.fu.gov.si/en/business_events/oss/",
+      "standardVatPercent": "22.00"
+    },
+    {
+      "annualThresholdEur": "10000.00",
+      "countryCode": "ES",
+      "effectiveFrom": "2021-07-01T00:00:00.000Z",
+      "lastVerifiedAt": "2026-05-18T00:00:00.000Z",
+      "notes": "Spain — EU OSS union scheme.",
+      "ossScheme": "union",
+      "sourceUrl": "https://sede.agenciatributaria.gob.es/Sede/iva/oss-ioss.html",
+      "standardVatPercent": "21.00"
+    },
+    {
+      "annualThresholdEur": "10000.00",
+      "countryCode": "SE",
+      "effectiveFrom": "2021-07-01T00:00:00.000Z",
+      "lastVerifiedAt": "2026-05-18T00:00:00.000Z",
+      "notes": "Sweden — EU OSS union scheme. Not Eurozone (SEK).",
+      "ossScheme": "union",
+      "sourceUrl": "https://www.skatteverket.se/oss",
+      "standardVatPercent": "25.00"
+    }
+  ]
+}

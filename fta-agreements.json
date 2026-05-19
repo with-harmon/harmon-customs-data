@@ -1,0 +1,607 @@
+{
+  "generatedAt": "2026-05-19T02:26:50.247Z",
+  "label": "FTA agreement registry",
+  "rowCount": 41,
+  "rows": [
+    {
+      "documentUrl": "https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement",
+      "id": "usmca",
+      "inForceFrom": "2020-07-01T00:00:00.000Z",
+      "name": "USMCA / CUSMA / T-MEC",
+      "notes": "Trilateral. Replaces NAFTA. Origin claim via Certification of Origin.",
+      "parties": [
+        "US",
+        "CA",
+        "MX"
+      ]
+    },
+    {
+      "documentUrl": "https://ec.europa.eu/info/strategy/relations-non-eu-countries/agreements-non-eu-countries/eu-uk-trade-and-cooperation-agreement_en",
+      "id": "eu-uk-tca",
+      "inForceFrom": "2021-01-01T00:00:00.000Z",
+      "name": "EU-UK Trade and Cooperation Agreement",
+      "notes": "Zero-tariff if UK or EU origin and proven via statement on origin.",
+      "parties": [
+        "EU",
+        "GB"
+      ]
+    },
+    {
+      "documentUrl": "https://www.dfat.gov.au/trade/agreements/in-force/cptpp",
+      "id": "cptpp",
+      "inForceFrom": "2018-12-30T00:00:00.000Z",
+      "name": "CPTPP (Comprehensive and Progressive Trans-Pacific Partnership)",
+      "notes": "12 parties. UK acceded December 2024. Staged tariff elimination — most lines at 0% by 2026 for original parties.",
+      "parties": [
+        "AU",
+        "BN",
+        "CA",
+        "CL",
+        "JP",
+        "MY",
+        "MX",
+        "NZ",
+        "PE",
+        "SG",
+        "VN",
+        "GB"
+      ]
+    },
+    {
+      "documentUrl": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/japan/eu-japan-agreement_en",
+      "id": "eu-japan-epa",
+      "inForceFrom": "2019-02-01T00:00:00.000Z",
+      "name": "EU-Japan Economic Partnership Agreement",
+      "notes": "~99% of trade duty-free at full implementation. Apparel, leather, footwear free from entry into force.",
+      "parties": [
+        "EU",
+        "JP"
+      ]
+    },
+    {
+      "documentUrl": "https://www.gov.uk/government/collections/uk-japan-comprehensive-economic-partnership-agreement",
+      "id": "uk-japan-cepa",
+      "inForceFrom": "2021-01-01T00:00:00.000Z",
+      "name": "UK-Japan Comprehensive Economic Partnership Agreement",
+      "notes": "Replicates EU-Japan EPA. Free trade on most industrial goods; agriculture subject to TRQs.",
+      "parties": [
+        "GB",
+        "JP"
+      ]
+    },
+    {
+      "documentUrl": "https://ustr.gov/trade-agreements/free-trade-agreements/korus-fta",
+      "id": "korus",
+      "inForceFrom": "2012-03-15T00:00:00.000Z",
+      "name": "Korea-US Free Trade Agreement (KORUS)",
+      "notes": "Fully phased in — nearly all goods at 0%. Origin claim via self-certification.",
+      "parties": [
+        "US",
+        "KR"
+      ]
+    },
+    {
+      "documentUrl": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/south-korea_en",
+      "id": "eu-korea-fta",
+      "inForceFrom": "2011-07-01T00:00:00.000Z",
+      "name": "EU-Korea Free Trade Agreement",
+      "notes": "Industrial goods duty-free; phased elimination on agriculture mostly complete.",
+      "parties": [
+        "EU",
+        "KR"
+      ]
+    },
+    {
+      "documentUrl": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/canada/eu-canada-agreement_en",
+      "id": "eu-canada-ceta",
+      "inForceFrom": "2017-09-21T00:00:00.000Z",
+      "name": "EU-Canada Comprehensive Economic and Trade Agreement (CETA)",
+      "notes": "98% of tariff lines duty-free. Origin via exporter statement on commercial invoice.",
+      "parties": [
+        "EU",
+        "CA"
+      ]
+    },
+    {
+      "documentUrl": "https://www.gov.uk/government/collections/uk-australia-free-trade-agreement",
+      "id": "uk-australia-fta",
+      "inForceFrom": "2023-05-31T00:00:00.000Z",
+      "name": "UK-Australia Free Trade Agreement",
+      "notes": "Post-Brexit bilateral. Tariffs eliminated on entry into force for most industrial goods.",
+      "parties": [
+        "GB",
+        "AU"
+      ]
+    },
+    {
+      "documentUrl": "https://www.gov.uk/government/collections/uk-new-zealand-free-trade-agreement",
+      "id": "uk-nz-fta",
+      "inForceFrom": "2023-05-31T00:00:00.000Z",
+      "name": "UK-New Zealand Free Trade Agreement",
+      "notes": "Tariffs eliminated on entry into force for most goods.",
+      "parties": [
+        "GB",
+        "NZ"
+      ]
+    },
+    {
+      "documentUrl": "https://www.dfat.gov.au/trade/agreements/in-force/rcep",
+      "id": "rcep",
+      "inForceFrom": "2022-01-01T00:00:00.000Z",
+      "name": "Regional Comprehensive Economic Partnership",
+      "notes": "ASEAN+5. Phased tariff reductions over 20 years. Most industrial goods at 0% by 2026 for major parties.",
+      "parties": [
+        "AU",
+        "BN",
+        "KH",
+        "CN",
+        "ID",
+        "JP",
+        "KR",
+        "LA",
+        "MY",
+        "MM",
+        "NZ",
+        "PH",
+        "SG",
+        "TH",
+        "VN"
+      ]
+    },
+    {
+      "documentUrl": "https://au-afcfta.org/",
+      "id": "afcfta",
+      "inForceFrom": "2021-01-01T00:00:00.000Z",
+      "name": "African Continental Free Trade Area",
+      "notes": "54 AU member states. Trading under preferences since 2021; tariff offers + rules of origin schedules being progressively published. Eritrea not party.",
+      "parties": [
+        "DZ",
+        "AO",
+        "BJ",
+        "BW",
+        "BF",
+        "BI",
+        "CM",
+        "CV",
+        "CF",
+        "TD",
+        "KM",
+        "CD",
+        "CG",
+        "CI",
+        "DJ",
+        "EG",
+        "GQ",
+        "SZ",
+        "ET",
+        "GA",
+        "GM",
+        "GH",
+        "GN",
+        "GW",
+        "KE",
+        "LS",
+        "LR",
+        "LY",
+        "MG",
+        "MW",
+        "ML",
+        "MR",
+        "MU",
+        "MA",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "RW",
+        "ST",
+        "SN",
+        "SC",
+        "SL",
+        "SO",
+        "ZA",
+        "SS",
+        "SD",
+        "TZ",
+        "TG",
+        "TN",
+        "UG",
+        "ZM",
+        "ZW"
+      ]
+    },
+    {
+      "documentUrl": "https://www.efta.int/",
+      "id": "efta",
+      "inForceFrom": "1960-05-03T00:00:00.000Z",
+      "name": "European Free Trade Association",
+      "notes": "Free movement of industrial goods + processed agriculture between members. EFTA also has 30+ third-country FTAs (see efta-* entries).",
+      "parties": [
+        "IS",
+        "LI",
+        "NO",
+        "CH"
+      ]
+    },
+    {
+      "documentUrl": "https://www.efta.int/free-trade/free-trade-agreements/singapore",
+      "id": "efta-singapore",
+      "inForceFrom": "2003-01-01T00:00:00.000Z",
+      "name": "EFTA-Singapore FTA",
+      "notes": "Industrial goods duty-free.",
+      "parties": [
+        "IS",
+        "LI",
+        "NO",
+        "CH",
+        "SG"
+      ]
+    },
+    {
+      "documentUrl": "https://www.efta.int/free-trade/free-trade-agreements/hong-kong",
+      "id": "efta-hk",
+      "inForceFrom": "2012-10-01T00:00:00.000Z",
+      "name": "EFTA-Hong Kong FTA",
+      "notes": "Industrial goods duty-free; fish + agriculture limited.",
+      "parties": [
+        "IS",
+        "LI",
+        "NO",
+        "CH",
+        "HK"
+      ]
+    },
+    {
+      "documentUrl": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/vietnam/eu-vietnam-agreement_en",
+      "id": "eu-vietnam-evfta",
+      "inForceFrom": "2020-08-01T00:00:00.000Z",
+      "name": "EU-Vietnam Free Trade Agreement (EVFTA)",
+      "notes": "Phased elimination of 99% of tariffs over 7-10 years. Apparel + footwear duty-free from entry into force for most lines.",
+      "parties": [
+        "EU",
+        "VN"
+      ]
+    },
+    {
+      "documentUrl": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/singapore/eu-singapore-agreement_en",
+      "id": "eu-singapore-eusfta",
+      "inForceFrom": "2019-11-21T00:00:00.000Z",
+      "name": "EU-Singapore Free Trade Agreement (EUSFTA)",
+      "notes": "All tariffs eliminated by 2024 (5-year phase-in from EIF).",
+      "parties": [
+        "EU",
+        "SG"
+      ]
+    },
+    {
+      "documentUrl": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/new-zealand/eu-new-zealand-agreement_en",
+      "id": "eu-new-zealand-fta",
+      "inForceFrom": "2024-05-01T00:00:00.000Z",
+      "name": "EU-New Zealand FTA",
+      "notes": "All EU import duties on NZ industrial + ~91% of agriculture eliminated from EIF.",
+      "parties": [
+        "EU",
+        "NZ"
+      ]
+    },
+    {
+      "documentUrl": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/mexico/eu-mexico-agreement_en",
+      "id": "eu-mexico-fta-modernised",
+      "inForceFrom": "2025-01-01T00:00:00.000Z",
+      "name": "EU-Mexico Global Agreement (Modernised)",
+      "notes": "Modernised in 2024; replaces 2000 agreement. Pending ratification in some EU member states.",
+      "parties": [
+        "EU",
+        "MX"
+      ]
+    },
+    {
+      "documentUrl": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/mercosur/eu-mercosur-agreement_en",
+      "id": "eu-mercosur",
+      "inForceFrom": "2025-12-06T00:00:00.000Z",
+      "name": "EU-Mercosur Partnership Agreement",
+      "notes": "Signed December 2024; provisional application from late 2025 pending ratification. 91% of tariffs eliminated at full implementation.",
+      "parties": [
+        "EU",
+        "AR",
+        "BR",
+        "PY",
+        "UY"
+      ]
+    },
+    {
+      "documentUrl": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/chile/eu-chile-agreement_en",
+      "id": "eu-chile-modernised",
+      "inForceFrom": "2024-02-01T00:00:00.000Z",
+      "name": "EU-Chile Advanced Framework Agreement",
+      "notes": "Modernises 2003 agreement. ~99.9% of EU exports to Chile duty-free.",
+      "parties": [
+        "EU",
+        "CL"
+      ]
+    },
+    {
+      "documentUrl": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/ukraine/eu-ukraine-association-agreement_en",
+      "id": "eu-ukraine-dcfta",
+      "inForceFrom": "2016-01-01T00:00:00.000Z",
+      "name": "EU-Ukraine Deep and Comprehensive FTA",
+      "notes": "DCFTA portion of the EU-Ukraine Association Agreement. Most tariffs eliminated; EU-side autonomous trade measures extended through 2025.",
+      "parties": [
+        "EU",
+        "UA"
+      ]
+    },
+    {
+      "documentUrl": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/moldova/eu-moldova-association-agreement_en",
+      "id": "eu-moldova-dcfta",
+      "inForceFrom": "2016-07-01T00:00:00.000Z",
+      "name": "EU-Moldova DCFTA",
+      "notes": "Most tariffs eliminated.",
+      "parties": [
+        "EU",
+        "MD"
+      ]
+    },
+    {
+      "documentUrl": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/georgia/eu-georgia-association-agreement_en",
+      "id": "eu-georgia-dcfta",
+      "inForceFrom": "2016-07-01T00:00:00.000Z",
+      "name": "EU-Georgia DCFTA",
+      "notes": "Most tariffs eliminated.",
+      "parties": [
+        "EU",
+        "GE"
+      ]
+    },
+    {
+      "documentUrl": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/turkiye/eu-turkiye-agreement_en",
+      "id": "eu-turkey-customs-union",
+      "inForceFrom": "1996-01-01T00:00:00.000Z",
+      "name": "EU-Turkey Customs Union",
+      "notes": "Customs union covering industrial goods + processed agriculture. Agriculture + services not included.",
+      "parties": [
+        "EU",
+        "TR"
+      ]
+    },
+    {
+      "documentUrl": "https://www.gov.uk/government/publications/uk-accession-to-the-comprehensive-and-progressive-agreement-for-trans-pacific-partnership-cptpp",
+      "id": "uk-cptpp",
+      "inForceFrom": "2024-12-15T00:00:00.000Z",
+      "name": "UK accession to CPTPP",
+      "notes": "UK acceded December 2024. Tariff schedules per party — most industrial at 0%.",
+      "parties": [
+        "GB",
+        "AU",
+        "BN",
+        "CA",
+        "CL",
+        "JP",
+        "MY",
+        "MX",
+        "NZ",
+        "PE",
+        "SG",
+        "VN"
+      ]
+    },
+    {
+      "documentUrl": "https://www.gov.uk/government/collections/uk-korea-trade-agreement",
+      "id": "uk-korea-fta",
+      "inForceFrom": "2021-01-01T00:00:00.000Z",
+      "name": "UK-Korea Trade Agreement (continuity)",
+      "notes": "Continuity of EU-Korea FTA terms; bilateral upgrade in negotiation 2024-2026.",
+      "parties": [
+        "GB",
+        "KR"
+      ]
+    },
+    {
+      "documentUrl": "https://www.gov.uk/government/collections/uk-switzerland-trade-agreement",
+      "id": "uk-switzerland-fta",
+      "inForceFrom": "2021-01-01T00:00:00.000Z",
+      "name": "UK-Switzerland Trade Agreement (continuity)",
+      "notes": "Continuity of EU-Switzerland bilateral terms; modernisation underway 2025-2026.",
+      "parties": [
+        "GB",
+        "CH"
+      ]
+    },
+    {
+      "documentUrl": "https://www.gov.uk/government/collections/uk-singapore-digital-economy-agreement",
+      "id": "uk-singapore-dea",
+      "inForceFrom": "2022-06-14T00:00:00.000Z",
+      "name": "UK-Singapore Digital Economy Agreement",
+      "notes": "Digital trade overlay to the goods-FTA. Goods covered by UK-Singapore FTA (continuity).",
+      "parties": [
+        "GB",
+        "SG"
+      ]
+    },
+    {
+      "documentUrl": "https://www.gov.uk/government/collections/uk-india-trade-deal",
+      "id": "uk-india-fta",
+      "inForceFrom": "2025-07-24T00:00:00.000Z",
+      "name": "UK-India Comprehensive Economic and Trade Agreement",
+      "notes": "Signed July 2025; phased tariff reductions over 10 years on most lines. Whisky + textiles primary wins.",
+      "parties": [
+        "GB",
+        "IN"
+      ]
+    },
+    {
+      "documentUrl": "https://www.gcc-sg.org/en-us/",
+      "id": "gcc-customs-union",
+      "inForceFrom": "2003-01-01T00:00:00.000Z",
+      "name": "Gulf Cooperation Council Customs Union",
+      "notes": "Common external tariff (5% on most goods); free movement of GCC-origin goods within union.",
+      "parties": [
+        "SA",
+        "AE",
+        "KW",
+        "BH",
+        "QA",
+        "OM"
+      ]
+    },
+    {
+      "documentUrl": "https://eaeunion.org/",
+      "id": "eaeu",
+      "inForceFrom": "2015-01-01T00:00:00.000Z",
+      "name": "Eurasian Economic Union",
+      "notes": "Common external tariff. Sanctions distortions (Russia 2022+) limit practical e-commerce use to non-sanctioned categories.",
+      "parties": [
+        "RU",
+        "BY",
+        "KZ",
+        "KG",
+        "AM"
+      ]
+    },
+    {
+      "documentUrl": "https://alianzapacifico.net/",
+      "id": "pacific-alliance",
+      "inForceFrom": "2016-05-01T00:00:00.000Z",
+      "name": "Pacific Alliance",
+      "notes": "92% of goods duty-free between members; phased elimination of remainder by 2030.",
+      "parties": [
+        "CL",
+        "CO",
+        "MX",
+        "PE"
+      ]
+    },
+    {
+      "documentUrl": "https://asean.org/our-communities/economic-community/asean-free-trade-area-afta/",
+      "id": "asean-afta",
+      "inForceFrom": "1993-01-28T00:00:00.000Z",
+      "name": "ASEAN Free Trade Area (AFTA)",
+      "notes": "Common Effective Preferential Tariff: ~99% of intra-ASEAN trade at 0% for ASEAN-6, phased for CLMV.",
+      "parties": [
+        "BN",
+        "KH",
+        "ID",
+        "LA",
+        "MY",
+        "MM",
+        "PH",
+        "SG",
+        "TH",
+        "VN"
+      ]
+    },
+    {
+      "documentUrl": "https://fta.mofcom.gov.cn/topic/enasean.shtml",
+      "id": "asean-china",
+      "inForceFrom": "2010-01-01T00:00:00.000Z",
+      "name": "ASEAN-China FTA",
+      "notes": "Upgrade 3.0 signed 2024. Most goods duty-free.",
+      "parties": [
+        "BN",
+        "KH",
+        "ID",
+        "LA",
+        "MY",
+        "MM",
+        "PH",
+        "SG",
+        "TH",
+        "VN",
+        "CN"
+      ]
+    },
+    {
+      "documentUrl": "https://www.fta.go.kr/eng/",
+      "id": "asean-korea",
+      "inForceFrom": "2010-01-01T00:00:00.000Z",
+      "name": "ASEAN-Korea FTA",
+      "notes": "Most goods duty-free; sensitive lists vary by party.",
+      "parties": [
+        "BN",
+        "KH",
+        "ID",
+        "LA",
+        "MY",
+        "MM",
+        "PH",
+        "SG",
+        "TH",
+        "VN",
+        "KR"
+      ]
+    },
+    {
+      "documentUrl": "https://commerce.gov.in/international-trade/trade-agreements/",
+      "id": "asean-india",
+      "inForceFrom": "2010-01-01T00:00:00.000Z",
+      "name": "ASEAN-India FTA",
+      "notes": "Review of goods agreement underway. ~75% of intra-FTA lines at 0%; exclusions list per party.",
+      "parties": [
+        "BN",
+        "KH",
+        "ID",
+        "LA",
+        "MY",
+        "MM",
+        "PH",
+        "SG",
+        "TH",
+        "VN",
+        "IN"
+      ]
+    },
+    {
+      "documentUrl": "https://www.mofa.go.jp/policy/economy/fta/asean.html",
+      "id": "asean-japan",
+      "inForceFrom": "2008-12-01T00:00:00.000Z",
+      "name": "ASEAN-Japan Comprehensive Economic Partnership",
+      "notes": "Most industrial goods duty-free; phased for agriculture.",
+      "parties": [
+        "BN",
+        "KH",
+        "ID",
+        "LA",
+        "MY",
+        "MM",
+        "PH",
+        "SG",
+        "TH",
+        "VN",
+        "JP"
+      ]
+    },
+    {
+      "documentUrl": "https://ustr.gov/trade-agreements/free-trade-agreements/australian-fta",
+      "id": "us-australia-fta",
+      "inForceFrom": "2005-01-01T00:00:00.000Z",
+      "name": "Australia-United States Free Trade Agreement",
+      "notes": "Most goods duty-free at entry into force.",
+      "parties": [
+        "US",
+        "AU"
+      ]
+    },
+    {
+      "documentUrl": "https://ustr.gov/trade-agreements/free-trade-agreements/singapore-fta",
+      "id": "us-singapore-fta",
+      "inForceFrom": "2004-01-01T00:00:00.000Z",
+      "name": "United States-Singapore Free Trade Agreement",
+      "notes": "All originating goods duty-free.",
+      "parties": [
+        "US",
+        "SG"
+      ]
+    },
+    {
+      "documentUrl": "https://ustr.gov/trade-agreements/free-trade-agreements/israel-fta",
+      "id": "us-israel-fta",
+      "inForceFrom": "1985-09-01T00:00:00.000Z",
+      "name": "United States-Israel Free Trade Agreement",
+      "notes": "US's first FTA; all originating goods duty-free.",
+      "parties": [
+        "US",
+        "IL"
+      ]
+    }
+  ]
+}

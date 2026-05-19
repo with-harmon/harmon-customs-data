@@ -1,0 +1,1535 @@
+{
+  "generatedAt": "2026-05-19T02:26:50.247Z",
+  "label": "US state + metro sales-tax rates",
+  "rowCount": 191,
+  "rows": [
+    {
+      "countryCode": "US-DE",
+      "description": "US DE state sales tax | mpf=N | sstgb=N | NOMAD — no state or local sales tax",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "state",
+      "sourceUrl": "https://revenue.delaware.gov/"
+    },
+    {
+      "countryCode": "US-MT",
+      "description": "US MT state sales tax | mpf=N | sstgb=N | NOMAD — no state or local sales tax",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "state",
+      "sourceUrl": "https://mtrevenue.gov/"
+    },
+    {
+      "countryCode": "US-NH",
+      "description": "US NH state sales tax | mpf=N | sstgb=N | NOMAD — no state or local sales tax",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.revenue.nh.gov/"
+    },
+    {
+      "countryCode": "US-OR",
+      "description": "US OR state sales tax | mpf=N | sstgb=N | NOMAD — no state sales tax (but corporate activity tax exists)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.oregon.gov/dor/"
+    },
+    {
+      "countryCode": "US-AK",
+      "description": "US AK state sales tax | nexus_usd=100000 | nexus_tx=200 | mpf=Y | sstgb=N | NOMAD for state, but localities (e.g. Juneau, Wasilla) charge sales tax. Alaska Remote Sellers Sales Tax Commission handles for participating localities.",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "state",
+      "sourceUrl": "https://arsstc.org/"
+    },
+    {
+      "countryCode": "US-AK",
+      "description": "US AK avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "1.820",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-AL",
+      "description": "US AL state sales tax | nexus_usd=250000 | mpf=Y | sstgb=N | Simplified Sellers Use Tax (SSUT) is a flat 8% option for remote sellers",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "4.000",
+      "rateType": "state",
+      "sourceUrl": "https://revenue.alabama.gov/"
+    },
+    {
+      "countryCode": "US-AL",
+      "description": "US AL avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "5.290",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-AZ",
+      "description": "US AZ state sales tax | nexus_usd=100000 | mpf=Y | sstgb=N",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "5.600",
+      "rateType": "state",
+      "sourceUrl": "https://azdor.gov/"
+    },
+    {
+      "countryCode": "US-AZ",
+      "description": "US AZ avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "2.770",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-AR",
+      "description": "US AR state sales tax | nexus_usd=100000 | nexus_tx=200 | mpf=Y | sstgb=Y",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.500",
+      "rateType": "state",
+      "sourceUrl": "https://www.dfa.arkansas.gov/"
+    },
+    {
+      "countryCode": "US-AR",
+      "description": "US AR avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "2.940",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-CA",
+      "description": "US CA state sales tax | nexus_usd=500000 | mpf=Y | sstgb=N | District tax adds 0.10%–2.50% on top of statewide rate; some districts compound",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.250",
+      "rateType": "state",
+      "sourceUrl": "https://www.cdtfa.ca.gov/"
+    },
+    {
+      "countryCode": "US-CA",
+      "description": "US CA avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "1.435",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-CO",
+      "description": "US CO state sales tax | nexus_usd=100000 | mpf=Y | sstgb=N | Home-rule cities self-administer — 71+ cities with their own tax. Use SUTS for remote-seller filing.",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "2.900",
+      "rateType": "state",
+      "sourceUrl": "https://tax.colorado.gov/"
+    },
+    {
+      "countryCode": "US-CO",
+      "description": "US CO avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "4.860",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-CT",
+      "description": "US CT state sales tax | nexus_usd=100000 | nexus_tx=200 | mpf=Y | sstgb=N",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.350",
+      "rateType": "state",
+      "sourceUrl": "https://portal.ct.gov/drs"
+    },
+    {
+      "countryCode": "US-DC",
+      "description": "US DC state sales tax | nexus_usd=100000 | nexus_tx=200 | mpf=Y | sstgb=N",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "state",
+      "sourceUrl": "https://otr.cfo.dc.gov/"
+    },
+    {
+      "countryCode": "US-FL",
+      "description": "US FL state sales tax | nexus_usd=100000 | mpf=Y | sstgb=N",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "state",
+      "sourceUrl": "https://floridarevenue.com/"
+    },
+    {
+      "countryCode": "US-FL",
+      "description": "US FL avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "1.020",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-GA",
+      "description": "US GA state sales tax | nexus_usd=100000 | nexus_tx=200 | mpf=Y | sstgb=Y",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "4.000",
+      "rateType": "state",
+      "sourceUrl": "https://dor.georgia.gov/"
+    },
+    {
+      "countryCode": "US-GA",
+      "description": "US GA avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "3.380",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-HI",
+      "description": "US HI state sales tax | nexus_usd=100000 | nexus_tx=200 | mpf=Y | sstgb=N | General Excise Tax (GET), not pure sales tax — applies to gross income at seller-pays semantics",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "4.000",
+      "rateType": "state",
+      "sourceUrl": "https://tax.hawaii.gov/"
+    },
+    {
+      "countryCode": "US-HI",
+      "description": "US HI avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "0.500",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-ID",
+      "description": "US ID state sales tax | nexus_usd=100000 | mpf=Y | sstgb=N",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "state",
+      "sourceUrl": "https://tax.idaho.gov/"
+    },
+    {
+      "countryCode": "US-ID",
+      "description": "US ID avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "0.030",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-IL",
+      "description": "US IL state sales tax | nexus_usd=100000 | nexus_tx=200 | mpf=Y | sstgb=N",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.250",
+      "rateType": "state",
+      "sourceUrl": "https://tax.illinois.gov/"
+    },
+    {
+      "countryCode": "US-IL",
+      "description": "US IL avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "2.610",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-IN",
+      "description": "US IN state sales tax | nexus_usd=100000 | nexus_tx=200 | mpf=Y | sstgb=Y",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.in.gov/dor/"
+    },
+    {
+      "countryCode": "US-IA",
+      "description": "US IA state sales tax | nexus_usd=100000 | mpf=Y | sstgb=Y",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "state",
+      "sourceUrl": "https://tax.iowa.gov/"
+    },
+    {
+      "countryCode": "US-IA",
+      "description": "US IA avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "0.940",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-KS",
+      "description": "US KS state sales tax | nexus_usd=100000 | mpf=Y | sstgb=Y",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.500",
+      "rateType": "state",
+      "sourceUrl": "https://www.ksrevenue.gov/"
+    },
+    {
+      "countryCode": "US-KS",
+      "description": "US KS avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "2.220",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-KY",
+      "description": "US KY state sales tax | nexus_usd=100000 | nexus_tx=200 | mpf=Y | sstgb=Y",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "state",
+      "sourceUrl": "https://revenue.ky.gov/"
+    },
+    {
+      "countryCode": "US-LA",
+      "description": "US LA state sales tax | nexus_usd=100000 | nexus_tx=200 | mpf=Y | sstgb=N | Parishes self-administer; LDR provides a centralized remote-seller portal",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "4.450",
+      "rateType": "state",
+      "sourceUrl": "https://revenue.louisiana.gov/"
+    },
+    {
+      "countryCode": "US-LA",
+      "description": "US LA avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "5.100",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-ME",
+      "description": "US ME state sales tax | nexus_usd=100000 | nexus_tx=200 | mpf=Y | sstgb=N",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "5.500",
+      "rateType": "state",
+      "sourceUrl": "https://www.maine.gov/revenue/"
+    },
+    {
+      "countryCode": "US-MD",
+      "description": "US MD state sales tax | nexus_usd=100000 | nexus_tx=200 | mpf=Y | sstgb=N",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.marylandtaxes.gov/"
+    },
+    {
+      "countryCode": "US-MA",
+      "description": "US MA state sales tax | nexus_usd=100000 | mpf=Y | sstgb=N",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.250",
+      "rateType": "state",
+      "sourceUrl": "https://www.mass.gov/dor"
+    },
+    {
+      "countryCode": "US-MI",
+      "description": "US MI state sales tax | nexus_usd=100000 | nexus_tx=200 | mpf=Y | sstgb=Y",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.michigan.gov/treasury"
+    },
+    {
+      "countryCode": "US-MN",
+      "description": "US MN state sales tax | nexus_usd=100000 | nexus_tx=200 | mpf=Y | sstgb=Y",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.875",
+      "rateType": "state",
+      "sourceUrl": "https://www.revenue.state.mn.us/"
+    },
+    {
+      "countryCode": "US-MN",
+      "description": "US MN avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "1.230",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-MS",
+      "description": "US MS state sales tax | nexus_usd=250000 | mpf=Y | sstgb=N",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.dor.ms.gov/"
+    },
+    {
+      "countryCode": "US-MS",
+      "description": "US MS avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "0.070",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-MO",
+      "description": "US MO state sales tax | nexus_usd=100000 | mpf=Y | sstgb=N",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "4.225",
+      "rateType": "state",
+      "sourceUrl": "https://dor.mo.gov/"
+    },
+    {
+      "countryCode": "US-MO",
+      "description": "US MO avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "4.090",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-NE",
+      "description": "US NE state sales tax | nexus_usd=100000 | nexus_tx=200 | mpf=Y | sstgb=Y",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "5.500",
+      "rateType": "state",
+      "sourceUrl": "https://revenue.nebraska.gov/"
+    },
+    {
+      "countryCode": "US-NE",
+      "description": "US NE avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "1.450",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-NV",
+      "description": "US NV state sales tax | nexus_usd=100000 | nexus_tx=200 | mpf=Y | sstgb=Y",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.850",
+      "rateType": "state",
+      "sourceUrl": "https://tax.nv.gov/"
+    },
+    {
+      "countryCode": "US-NV",
+      "description": "US NV avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "1.380",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-NJ",
+      "description": "US NJ state sales tax | nexus_usd=100000 | nexus_tx=200 | mpf=Y | sstgb=Y | Urban Enterprise Zones charge 3.3125%, slightly negative avg local impact",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.625",
+      "rateType": "state",
+      "sourceUrl": "https://www.state.nj.us/treasury/taxation/"
+    },
+    {
+      "countryCode": "US-NJ",
+      "description": "US NJ avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "-0.020",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-NM",
+      "description": "US NM state sales tax | nexus_usd=100000 | mpf=Y | sstgb=N | Gross Receipts Tax (GRT) — origin-based for in-state, destination-based for remote",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.tax.newmexico.gov/"
+    },
+    {
+      "countryCode": "US-NM",
+      "description": "US NM avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "2.690",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-NY",
+      "description": "US NY state sales tax | nexus_usd=500000 | nexus_tx=100 | mpf=Y | sstgb=N | Higher threshold ($500k) AND >100 transactions both required",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "4.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.tax.ny.gov/"
+    },
+    {
+      "countryCode": "US-NY",
+      "description": "US NY avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "4.530",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-NC",
+      "description": "US NC state sales tax | nexus_usd=100000 | nexus_tx=200 | mpf=Y | sstgb=Y",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "4.750",
+      "rateType": "state",
+      "sourceUrl": "https://www.ncdor.gov/"
+    },
+    {
+      "countryCode": "US-NC",
+      "description": "US NC avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "2.250",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-ND",
+      "description": "US ND state sales tax | nexus_usd=100000 | mpf=Y | sstgb=Y",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.tax.nd.gov/"
+    },
+    {
+      "countryCode": "US-ND",
+      "description": "US ND avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "1.960",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-OH",
+      "description": "US OH state sales tax | nexus_usd=100000 | nexus_tx=200 | mpf=Y | sstgb=Y",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "5.750",
+      "rateType": "state",
+      "sourceUrl": "https://tax.ohio.gov/"
+    },
+    {
+      "countryCode": "US-OH",
+      "description": "US OH avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "1.480",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-OK",
+      "description": "US OK state sales tax | nexus_usd=100000 | mpf=Y | sstgb=Y",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "4.500",
+      "rateType": "state",
+      "sourceUrl": "https://oklahoma.gov/tax.html"
+    },
+    {
+      "countryCode": "US-OK",
+      "description": "US OK avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "4.490",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-PA",
+      "description": "US PA state sales tax | nexus_usd=100000 | mpf=Y | sstgb=N",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.revenue.pa.gov/"
+    },
+    {
+      "countryCode": "US-PA",
+      "description": "US PA avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "0.340",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-RI",
+      "description": "US RI state sales tax | nexus_usd=100000 | nexus_tx=200 | mpf=Y | sstgb=Y",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "state",
+      "sourceUrl": "https://tax.ri.gov/"
+    },
+    {
+      "countryCode": "US-SC",
+      "description": "US SC state sales tax | nexus_usd=100000 | mpf=Y | sstgb=N",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "state",
+      "sourceUrl": "https://dor.sc.gov/"
+    },
+    {
+      "countryCode": "US-SC",
+      "description": "US SC avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "1.460",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-SD",
+      "description": "US SD state sales tax | nexus_usd=100000 | nexus_tx=200 | mpf=Y | sstgb=Y | Wayfair v. South Dakota — the case that started destination-based nexus",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "4.500",
+      "rateType": "state",
+      "sourceUrl": "https://dor.sd.gov/"
+    },
+    {
+      "countryCode": "US-SD",
+      "description": "US SD avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "1.910",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-TN",
+      "description": "US TN state sales tax | nexus_usd=100000 | mpf=Y | sstgb=Y",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.tn.gov/revenue.html"
+    },
+    {
+      "countryCode": "US-TN",
+      "description": "US TN avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "2.550",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-TX",
+      "description": "US TX state sales tax | nexus_usd=500000 | mpf=Y | sstgb=N",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.250",
+      "rateType": "state",
+      "sourceUrl": "https://comptroller.texas.gov/"
+    },
+    {
+      "countryCode": "US-TX",
+      "description": "US TX avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "1.940",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-UT",
+      "description": "US UT state sales tax | nexus_usd=100000 | nexus_tx=200 | mpf=Y | sstgb=Y",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "4.850",
+      "rateType": "state",
+      "sourceUrl": "https://tax.utah.gov/"
+    },
+    {
+      "countryCode": "US-UT",
+      "description": "US UT avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "1.250",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-VT",
+      "description": "US VT state sales tax | nexus_usd=100000 | nexus_tx=200 | mpf=Y | sstgb=Y",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "state",
+      "sourceUrl": "https://tax.vermont.gov/"
+    },
+    {
+      "countryCode": "US-VT",
+      "description": "US VT avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "0.360",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-VA",
+      "description": "US VA state sales tax | nexus_usd=100000 | nexus_tx=200 | mpf=Y | sstgb=N",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "4.300",
+      "rateType": "state",
+      "sourceUrl": "https://www.tax.virginia.gov/"
+    },
+    {
+      "countryCode": "US-VA",
+      "description": "US VA avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "1.450",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-WA",
+      "description": "US WA state sales tax | nexus_usd=100000 | mpf=Y | sstgb=Y",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.500",
+      "rateType": "state",
+      "sourceUrl": "https://dor.wa.gov/"
+    },
+    {
+      "countryCode": "US-WA",
+      "description": "US WA avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "2.730",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-WV",
+      "description": "US WV state sales tax | nexus_usd=100000 | nexus_tx=200 | mpf=Y | sstgb=Y",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "state",
+      "sourceUrl": "https://tax.wv.gov/"
+    },
+    {
+      "countryCode": "US-WV",
+      "description": "US WV avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "0.540",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-WI",
+      "description": "US WI state sales tax | nexus_usd=100000 | mpf=Y | sstgb=Y",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.revenue.wi.gov/"
+    },
+    {
+      "countryCode": "US-WI",
+      "description": "US WI avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "0.430",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-WY",
+      "description": "US WY state sales tax | nexus_usd=100000 | nexus_tx=200 | mpf=Y | sstgb=Y",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "4.000",
+      "rateType": "state",
+      "sourceUrl": "https://revenue.wyo.gov/"
+    },
+    {
+      "countryCode": "US-WY",
+      "description": "US WY avg local surtax (Tax Foundation 2024)",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "1.440",
+      "rateType": "avg_local",
+      "sourceUrl": "https://www.streamlinedsalestax.org/"
+    },
+    {
+      "countryCode": "US-CA-LAX",
+      "description": "US Los Angeles (CA) metro combined sales tax | CA 7.25 + LA county 2.25 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-SFO",
+      "description": "US San Francisco (CA) metro combined sales tax | CA 7.25 + SF county 1.375 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.625",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-SJC",
+      "description": "US San Jose (CA) metro combined sales tax | CA 7.25 + Santa Clara 2.125 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.375",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-SAN",
+      "description": "US San Diego (CA) metro combined sales tax | CA 7.25 + SD county 0.5 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.750",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-OAK",
+      "description": "US Oakland (CA) metro combined sales tax | CA 7.25 + Alameda 3.0 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "10.250",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-SAC",
+      "description": "US Sacramento (CA) metro combined sales tax | CA 7.25 + Sacramento county 1.5 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.750",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-NY-NYC",
+      "description": "US New York City (NY) metro combined sales tax | NY 4.0 + NYC 4.5 + MCTD 0.375 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.875",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/srtsd.htm"
+    },
+    {
+      "countryCode": "US-NY-BUF",
+      "description": "US Buffalo (NY) metro combined sales tax | NY 4.0 + Erie county 4.75 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.750",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/srtsd.htm"
+    },
+    {
+      "countryCode": "US-NY-ROC",
+      "description": "US Rochester (NY) metro combined sales tax | NY 4.0 + Monroe county 4.0 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/srtsd.htm"
+    },
+    {
+      "countryCode": "US-TX-HOU",
+      "description": "US Houston (TX) metro combined sales tax | TX 6.25 + Houston 1.0 + Metro Transit 1.0 (cap) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
+    },
+    {
+      "countryCode": "US-TX-DAL",
+      "description": "US Dallas (TX) metro combined sales tax | TX 6.25 + Dallas 1.0 + DART 1.0 (cap) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
+    },
+    {
+      "countryCode": "US-TX-AUS",
+      "description": "US Austin (TX) metro combined sales tax | TX 6.25 + Austin 1.0 + Cap Metro 1.0 (cap) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
+    },
+    {
+      "countryCode": "US-TX-SAT",
+      "description": "US San Antonio (TX) metro combined sales tax | TX 6.25 + SA 1.125 + VIA 0.5 + ATD 0.25 + county 0.125 (cap) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
+    },
+    {
+      "countryCode": "US-TX-FTW",
+      "description": "US Fort Worth (TX) metro combined sales tax | TX 6.25 + Fort Worth 1.0 + The T 0.5 + Crime District 0.5 (cap) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/"
+    },
+    {
+      "countryCode": "US-FL-MIA",
+      "description": "US Miami (FL) metro combined sales tax | FL 6.0 + Miami-Dade 1.0 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sales_tax.aspx"
+    },
+    {
+      "countryCode": "US-FL-TPA",
+      "description": "US Tampa (FL) metro combined sales tax | FL 6.0 + Hillsborough 1.5 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.500",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sales_tax.aspx"
+    },
+    {
+      "countryCode": "US-FL-MCO",
+      "description": "US Orlando (FL) metro combined sales tax | FL 6.0 + Orange 0.5 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.500",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sales_tax.aspx"
+    },
+    {
+      "countryCode": "US-FL-JAX",
+      "description": "US Jacksonville (FL) metro combined sales tax | FL 6.0 + Duval 1.5 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.500",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sales_tax.aspx"
+    },
+    {
+      "countryCode": "US-FL-FLL",
+      "description": "US Fort Lauderdale (FL) metro combined sales tax | FL 6.0 + Broward 1.0 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sales_tax.aspx"
+    },
+    {
+      "countryCode": "US-IL-CHI",
+      "description": "US Chicago (IL) metro combined sales tax | IL 6.25 + Cook 1.75 + Chicago 1.25 + RTA 1.0 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "10.250",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://tax.illinois.gov/"
+    },
+    {
+      "countryCode": "US-IL-AUR",
+      "description": "US Aurora (IL) metro combined sales tax | IL 6.25 + Kane county 0.25 + Aurora 1.75 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://tax.illinois.gov/"
+    },
+    {
+      "countryCode": "US-PA-PHL",
+      "description": "US Philadelphia (PA) metro combined sales tax | PA 6.0 + Philadelphia 2.0 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.revenue.pa.gov/"
+    },
+    {
+      "countryCode": "US-PA-PIT",
+      "description": "US Pittsburgh (PA) metro combined sales tax | PA 6.0 + Allegheny 1.0 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.revenue.pa.gov/"
+    },
+    {
+      "countryCode": "US-OH-CMH",
+      "description": "US Columbus (OH) metro combined sales tax | OH 5.75 + Franklin county 1.25 + COTA 0.5 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.500",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://tax.ohio.gov/"
+    },
+    {
+      "countryCode": "US-OH-CLE",
+      "description": "US Cleveland (OH) metro combined sales tax | OH 5.75 + Cuyahoga 2.25 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://tax.ohio.gov/"
+    },
+    {
+      "countryCode": "US-OH-CVG",
+      "description": "US Cincinnati (OH) metro combined sales tax | OH 5.75 + Hamilton 1.05 + 1.0 transit | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.800",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://tax.ohio.gov/"
+    },
+    {
+      "countryCode": "US-GA-ATL",
+      "description": "US Atlanta (GA) metro combined sales tax | GA 4.0 + Fulton 3.0 + Atlanta 1.5 + MARTA 0.4 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.900",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://dor.georgia.gov/"
+    },
+    {
+      "countryCode": "US-NC-CLT",
+      "description": "US Charlotte (NC) metro combined sales tax | NC 4.75 + Mecklenburg 2.0 + transit 0.5 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.250",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.ncdor.gov/"
+    },
+    {
+      "countryCode": "US-NC-RDU",
+      "description": "US Raleigh (NC) metro combined sales tax | NC 4.75 + Wake 2.0 + transit 0.5 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.250",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.ncdor.gov/"
+    },
+    {
+      "countryCode": "US-WA-SEA",
+      "description": "US Seattle (WA) metro combined sales tax | WA 6.5 + King county + Seattle + RTA + TBD = 10.35 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "10.350",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://dor.wa.gov/"
+    },
+    {
+      "countryCode": "US-WA-TAC",
+      "description": "US Tacoma (WA) metro combined sales tax | WA 6.5 + Pierce + Tacoma + Sound Transit = 10.3 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "10.300",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://dor.wa.gov/"
+    },
+    {
+      "countryCode": "US-MI-DTW",
+      "description": "US Detroit (MI) metro combined sales tax | MI 6.0 (state-only; MI prohibits local sales taxes) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.michigan.gov/taxes"
+    },
+    {
+      "countryCode": "US-MA-BOS",
+      "description": "US Boston (MA) metro combined sales tax | MA 6.25 (state-only; MA prohibits local general sales taxes) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.250",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.mass.gov/dor"
+    },
+    {
+      "countryCode": "US-TN-BNA",
+      "description": "US Nashville (TN) metro combined sales tax | TN 7.0 + Davidson 2.25 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.250",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.tn.gov/revenue.html"
+    },
+    {
+      "countryCode": "US-TN-MEM",
+      "description": "US Memphis (TN) metro combined sales tax | TN 7.0 + Shelby 2.25 + Memphis 0.5 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.750",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.tn.gov/revenue.html"
+    },
+    {
+      "countryCode": "US-VA-RIC",
+      "description": "US Richmond (VA) metro combined sales tax | VA 5.3 + Richmond 0.7 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.tax.virginia.gov/"
+    },
+    {
+      "countryCode": "US-VA-ORF",
+      "description": "US Norfolk / Virginia Beach (VA) metro combined sales tax | VA 5.3 + Hampton Roads 0.7 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.tax.virginia.gov/"
+    },
+    {
+      "countryCode": "US-MN-MSP",
+      "description": "US Minneapolis (MN) metro combined sales tax | MN 6.875 + Minneapolis 0.5 + Hennepin 0.15 + transit 0.5 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.025",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.revenue.state.mn.us/"
+    },
+    {
+      "countryCode": "US-IN-IND",
+      "description": "US Indianapolis (IN) metro combined sales tax | IN 7.0 (state-only; IN prohibits local general sales taxes) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.in.gov/dor/"
+    },
+    {
+      "countryCode": "US-WI-MKE",
+      "description": "US Milwaukee (WI) metro combined sales tax | WI 5.0 + Milwaukee 0.5 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "5.500",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.revenue.wi.gov/"
+    },
+    {
+      "countryCode": "US-MO-MCI",
+      "description": "US Kansas City (MO) metro combined sales tax | MO 4.225 + Jackson county 1.375 + KCMO 3.0 + special districts 1.375 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.975",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://dor.mo.gov/"
+    },
+    {
+      "countryCode": "US-MO-STL",
+      "description": "US St. Louis (MO) metro combined sales tax | MO 4.225 + St. Louis city 5.454 (no county; city is independent) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.679",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://dor.mo.gov/"
+    },
+    {
+      "countryCode": "US-CO-DEN",
+      "description": "US Denver (CO) metro combined sales tax | CO 2.9 + Denver 4.81 + RTD 1.0 + cultural 0.1 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.810",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://tax.colorado.gov/"
+    },
+    {
+      "countryCode": "US-NV-LAS",
+      "description": "US Las Vegas (NV) metro combined sales tax | NV 6.85 + Clark county 1.525 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.375",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://tax.nv.gov/"
+    },
+    {
+      "countryCode": "US-NV-RNO",
+      "description": "US Reno (NV) metro combined sales tax | NV 6.85 + Washoe county 1.415 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.265",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://tax.nv.gov/"
+    },
+    {
+      "countryCode": "US-AZ-PHX",
+      "description": "US Phoenix (AZ) metro combined sales tax | AZ 5.6 + Maricopa 0.7 + Phoenix 2.3 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.600",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://azdor.gov/"
+    },
+    {
+      "countryCode": "US-AZ-TUS",
+      "description": "US Tucson (AZ) metro combined sales tax | AZ 5.6 + Pima 0.5 + Tucson 2.6 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.700",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://azdor.gov/"
+    },
+    {
+      "countryCode": "US-LA-MSY",
+      "description": "US New Orleans (LA) metro combined sales tax | LA 4.45 + Orleans Parish 5.0 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.450",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://revenue.louisiana.gov/"
+    },
+    {
+      "countryCode": "US-OK-OKC",
+      "description": "US Oklahoma City (OK) metro combined sales tax | OK 4.5 + Oklahoma county 0.125 + OKC 4.0 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.625",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://oklahoma.gov/tax.html"
+    },
+    {
+      "countryCode": "US-MD-BWI",
+      "description": "US Baltimore (MD) metro combined sales tax | MD 6.0 (state-only; MD prohibits local sales taxes) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.marylandtaxes.gov/"
+    },
+    {
+      "countryCode": "US-DC-DCA",
+      "description": "US Washington DC (DC) metro combined sales tax | DC 6.0 (no state; District-level rate) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://otr.cfo.dc.gov/"
+    },
+    {
+      "countryCode": "US-CA-LGB",
+      "description": "US Long Beach (CA) metro combined sales tax | CA 7.25 + LA county 2.25 + Long Beach 0.75 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "10.250",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/"
+    },
+    {
+      "countryCode": "US-CA-ANA",
+      "description": "US Anaheim (CA) metro combined sales tax | CA 7.25 + Orange county 0.5 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.750",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/"
+    },
+    {
+      "countryCode": "US-CA-BFL",
+      "description": "US Bakersfield (CA) metro combined sales tax | CA 7.25 + Kern 1.0 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/"
+    },
+    {
+      "countryCode": "US-CA-FAT",
+      "description": "US Fresno (CA) metro combined sales tax | CA 7.25 + Fresno 1.1 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.350",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/"
+    },
+    {
+      "countryCode": "US-CA-SNA",
+      "description": "US Santa Ana (CA) metro combined sales tax | CA 7.25 + Orange 0.5 + city 1.5 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.250",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/"
+    },
+    {
+      "countryCode": "US-NY-SYR",
+      "description": "US Syracuse (NY) metro combined sales tax | NY 4.0 + Onondaga 4.0 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.tax.ny.gov/"
+    },
+    {
+      "countryCode": "US-NY-ALB",
+      "description": "US Albany (NY) metro combined sales tax | NY 4.0 + Albany county 4.0 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.tax.ny.gov/"
+    },
+    {
+      "countryCode": "US-TX-ELP",
+      "description": "US El Paso (TX) metro combined sales tax | TX 6.25 + El Paso city/county/transit (cap) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://comptroller.texas.gov/"
+    },
+    {
+      "countryCode": "US-TX-PSP",
+      "description": "US Plano (TX) metro combined sales tax | TX 6.25 + Plano + DART (cap) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://comptroller.texas.gov/"
+    },
+    {
+      "countryCode": "US-TX-ARL",
+      "description": "US Arlington (TX) metro combined sales tax | TX 6.25 + Arlington 1.0 + special 0.75 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://comptroller.texas.gov/"
+    },
+    {
+      "countryCode": "US-TX-CRP",
+      "description": "US Corpus Christi (TX) metro combined sales tax | TX 6.25 + Nueces/city/transit (cap) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://comptroller.texas.gov/"
+    },
+    {
+      "countryCode": "US-FL-PBI",
+      "description": "US West Palm Beach (FL) metro combined sales tax | FL 6.0 + Palm Beach 1.0 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://floridarevenue.com/"
+    },
+    {
+      "countryCode": "US-FL-SRQ",
+      "description": "US Sarasota (FL) metro combined sales tax | FL 6.0 + Sarasota 1.0 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://floridarevenue.com/"
+    },
+    {
+      "countryCode": "US-FL-GNV",
+      "description": "US Gainesville (FL) metro combined sales tax | FL 6.0 + Alachua 1.5 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.500",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://floridarevenue.com/"
+    },
+    {
+      "countryCode": "US-NC-GSO",
+      "description": "US Greensboro (NC) metro combined sales tax | NC 4.75 + Guilford 2.0 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.750",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.ncdor.gov/"
+    },
+    {
+      "countryCode": "US-NC-DUR",
+      "description": "US Durham (NC) metro combined sales tax | NC 4.75 + Durham 2.0 + transit 0.5 + meals 0.25 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.500",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.ncdor.gov/"
+    },
+    {
+      "countryCode": "US-PA-ABE",
+      "description": "US Allentown (PA) metro combined sales tax | PA 6.0 (state-only outside Phila/Allegheny) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.revenue.pa.gov/"
+    },
+    {
+      "countryCode": "US-PA-ERI",
+      "description": "US Erie (PA) metro combined sales tax | PA 6.0 (state-only outside Phila/Allegheny) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.revenue.pa.gov/"
+    },
+    {
+      "countryCode": "US-OH-CAK",
+      "description": "US Akron (OH) metro combined sales tax | OH 5.75 + Summit 1.0 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.750",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://tax.ohio.gov/"
+    },
+    {
+      "countryCode": "US-OH-DAY",
+      "description": "US Dayton (OH) metro combined sales tax | OH 5.75 + Montgomery 1.5 + transit 0.25 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.500",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://tax.ohio.gov/"
+    },
+    {
+      "countryCode": "US-OH-TOL",
+      "description": "US Toledo (OH) metro combined sales tax | OH 5.75 + Lucas 1.5 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.250",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://tax.ohio.gov/"
+    },
+    {
+      "countryCode": "US-GA-SAV",
+      "description": "US Savannah (GA) metro combined sales tax | GA 4.0 + Chatham 3.0 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://dor.georgia.gov/"
+    },
+    {
+      "countryCode": "US-GA-AGS",
+      "description": "US Augusta (GA) metro combined sales tax | GA 4.0 + Richmond 4.0 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://dor.georgia.gov/"
+    },
+    {
+      "countryCode": "US-GA-AHN",
+      "description": "US Athens (GA) metro combined sales tax | GA 4.0 + Clarke 4.0 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://dor.georgia.gov/"
+    },
+    {
+      "countryCode": "US-NJ-EWR",
+      "description": "US Newark (NJ) metro combined sales tax | NJ 6.625 (state-only) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.625",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.state.nj.us/treasury/taxation/"
+    },
+    {
+      "countryCode": "US-NJ-JSC",
+      "description": "US Jersey City (NJ) metro combined sales tax | NJ 6.625 (state-only) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.625",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.state.nj.us/treasury/taxation/"
+    },
+    {
+      "countryCode": "US-MA-WOR",
+      "description": "US Worcester (MA) metro combined sales tax | MA 6.25 (state-only) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.250",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.mass.gov/dor"
+    },
+    {
+      "countryCode": "US-MA-SFY",
+      "description": "US Springfield (MA) metro combined sales tax | MA 6.25 (state-only) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.250",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.mass.gov/dor"
+    },
+    {
+      "countryCode": "US-WA-GEG",
+      "description": "US Spokane (WA) metro combined sales tax | WA 6.5 + Spokane county + city = 9.0 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://dor.wa.gov/"
+    },
+    {
+      "countryCode": "US-WA-BFI",
+      "description": "US Bellevue (WA) metro combined sales tax | WA 6.5 + King + Bellevue + Sound Transit = 10.3 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "10.300",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://dor.wa.gov/"
+    },
+    {
+      "countryCode": "US-AZ-MZJ",
+      "description": "US Mesa (AZ) metro combined sales tax | AZ 5.6 + Maricopa 0.7 + Mesa 2.0 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.300",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://azdor.gov/"
+    },
+    {
+      "countryCode": "US-AZ-SDL",
+      "description": "US Scottsdale (AZ) metro combined sales tax | AZ 5.6 + Maricopa 0.7 + Scottsdale 1.75 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.050",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://azdor.gov/"
+    },
+    {
+      "countryCode": "US-AZ-CHD",
+      "description": "US Chandler (AZ) metro combined sales tax | AZ 5.6 + Maricopa 0.7 + Chandler 1.5 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.800",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://azdor.gov/"
+    },
+    {
+      "countryCode": "US-UT-SLC",
+      "description": "US Salt Lake City (UT) metro combined sales tax | UT 4.85 + SL county 1.35 + city 0.5 + transit 0.55 + other 0.5 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.750",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://tax.utah.gov/"
+    },
+    {
+      "countryCode": "US-UT-PVU",
+      "description": "US Provo (UT) metro combined sales tax | UT 4.85 + Utah county 1.25 + Provo 1.35 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.450",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://tax.utah.gov/"
+    },
+    {
+      "countryCode": "US-CO-COS",
+      "description": "US Colorado Springs (CO) metro combined sales tax | CO 2.9 + El Paso county 1.23 + COS 3.07 + PPRTA 1.0 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.200",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://tax.colorado.gov/"
+    },
+    {
+      "countryCode": "US-CO-APA",
+      "description": "US Aurora (CO) metro combined sales tax | CO 2.9 + Arapahoe 0.25 + Aurora 3.75 + cultural 0.1 + RTD 1.0 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.500",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://tax.colorado.gov/"
+    },
+    {
+      "countryCode": "US-TN-TYS",
+      "description": "US Knoxville (TN) metro combined sales tax | TN 7.0 + Knox 2.25 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.250",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.tn.gov/revenue.html"
+    },
+    {
+      "countryCode": "US-VA-DCA-VA",
+      "description": "US Arlington (VA) metro combined sales tax | VA 5.3 + Northern Virginia 0.7 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.tax.virginia.gov/"
+    },
+    {
+      "countryCode": "US-CT-HFD",
+      "description": "US Hartford (CT) metro combined sales tax | CT 6.35 (state-only) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.350",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://portal.ct.gov/drs"
+    },
+    {
+      "countryCode": "US-CT-BDR",
+      "description": "US Bridgeport (CT) metro combined sales tax | CT 6.35 (state-only) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.350",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://portal.ct.gov/drs"
+    },
+    {
+      "countryCode": "US-CT-HVN",
+      "description": "US New Haven (CT) metro combined sales tax | CT 6.35 (state-only) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.350",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://portal.ct.gov/drs"
+    },
+    {
+      "countryCode": "US-MI-GRR",
+      "description": "US Grand Rapids (MI) metro combined sales tax | MI 6.0 (state-only; MI prohibits local sales tax) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.michigan.gov/taxes"
+    },
+    {
+      "countryCode": "US-IN-FWA",
+      "description": "US Fort Wayne (IN) metro combined sales tax | IN 7.0 (state-only) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.in.gov/dor/"
+    },
+    {
+      "countryCode": "US-MN-STP",
+      "description": "US Saint Paul (MN) metro combined sales tax | MN 6.875 + St. Paul 0.5 + Ramsey 0.5 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.875",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.revenue.state.mn.us/"
+    },
+    {
+      "countryCode": "US-OK-TUL",
+      "description": "US Tulsa (OK) metro combined sales tax | OK 4.5 + Tulsa county 0.367 + Tulsa city 3.65 | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.517",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://oklahoma.gov/tax.html"
+    },
+    {
+      "countryCode": "US-NM-ABQ",
+      "description": "US Albuquerque (NM) metro combined sales tax | NM 4.875 + Bernalillo 1.0 + ABQ 1.75 (Gross Receipts Tax) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.625",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.tax.newmexico.gov/"
+    },
+    {
+      "countryCode": "US-HI-HNL",
+      "description": "US Honolulu (HI) metro combined sales tax | HI 4.0 + Honolulu 0.5 (General Excise Tax) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "4.500",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://tax.hawaii.gov/"
+    },
+    {
+      "countryCode": "US-KY-SDF",
+      "description": "US Louisville (KY) metro combined sales tax | KY 6.0 (state-only) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://revenue.ky.gov/"
+    },
+    {
+      "countryCode": "US-KY-LEX",
+      "description": "US Lexington (KY) metro combined sales tax | KY 6.0 (state-only) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://revenue.ky.gov/"
+    },
+    {
+      "countryCode": "US-OR-PDX",
+      "description": "US Portland (OR) metro combined sales tax | OR 0.0 (NOMAD — no state or local sales tax) | wave12-2026-05",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "0.000",
+      "rateType": "metro_combined",
+      "sourceUrl": "https://www.oregon.gov/dor/"
+    }
+  ]
+}

@@ -1,0 +1,583 @@
+{
+  "generatedAt": "2026-05-19T02:26:50.247Z",
+  "label": "India GST per-state rates",
+  "rowCount": 72,
+  "rows": [
+    {
+      "countryCode": "IN-AP",
+      "description": "India CGST for Andhra Pradesh | jurisdiction=AP | type=state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-AP",
+      "description": "India SGST for Andhra Pradesh | jurisdiction=AP",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-AR",
+      "description": "India CGST for Arunachal Pradesh | jurisdiction=AR | type=state | Special category state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-AR",
+      "description": "India SGST for Arunachal Pradesh | jurisdiction=AR | Special category state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-AS",
+      "description": "India CGST for Assam | jurisdiction=AS | type=state | Special category state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-AS",
+      "description": "India SGST for Assam | jurisdiction=AS | Special category state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-BR",
+      "description": "India CGST for Bihar | jurisdiction=BR | type=state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-BR",
+      "description": "India SGST for Bihar | jurisdiction=BR",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-CG",
+      "description": "India CGST for Chhattisgarh | jurisdiction=CG | type=state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-CG",
+      "description": "India SGST for Chhattisgarh | jurisdiction=CG",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-GA",
+      "description": "India CGST for Goa | jurisdiction=GA | type=state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-GA",
+      "description": "India SGST for Goa | jurisdiction=GA",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-GJ",
+      "description": "India CGST for Gujarat | jurisdiction=GJ | type=state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-GJ",
+      "description": "India SGST for Gujarat | jurisdiction=GJ",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-HR",
+      "description": "India CGST for Haryana | jurisdiction=HR | type=state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-HR",
+      "description": "India SGST for Haryana | jurisdiction=HR",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-HP",
+      "description": "India CGST for Himachal Pradesh | jurisdiction=HP | type=state | Special category state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-HP",
+      "description": "India SGST for Himachal Pradesh | jurisdiction=HP | Special category state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-JH",
+      "description": "India CGST for Jharkhand | jurisdiction=JH | type=state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-JH",
+      "description": "India SGST for Jharkhand | jurisdiction=JH",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-KA",
+      "description": "India CGST for Karnataka | jurisdiction=KA | type=state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-KA",
+      "description": "India SGST for Karnataka | jurisdiction=KA",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-KL",
+      "description": "India CGST for Kerala | jurisdiction=KL | type=state | Adds 1% Kerala Flood Cess on certain goods",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-KL",
+      "description": "India SGST for Kerala | jurisdiction=KL | Adds 1% Kerala Flood Cess on certain goods",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-MP",
+      "description": "India CGST for Madhya Pradesh | jurisdiction=MP | type=state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-MP",
+      "description": "India SGST for Madhya Pradesh | jurisdiction=MP",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-MH",
+      "description": "India CGST for Maharashtra | jurisdiction=MH | type=state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-MH",
+      "description": "India SGST for Maharashtra | jurisdiction=MH",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-MN",
+      "description": "India CGST for Manipur | jurisdiction=MN | type=state | Special category state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-MN",
+      "description": "India SGST for Manipur | jurisdiction=MN | Special category state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-ML",
+      "description": "India CGST for Meghalaya | jurisdiction=ML | type=state | Special category state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-ML",
+      "description": "India SGST for Meghalaya | jurisdiction=ML | Special category state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-MZ",
+      "description": "India CGST for Mizoram | jurisdiction=MZ | type=state | Special category state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-MZ",
+      "description": "India SGST for Mizoram | jurisdiction=MZ | Special category state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-NL",
+      "description": "India CGST for Nagaland | jurisdiction=NL | type=state | Special category state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-NL",
+      "description": "India SGST for Nagaland | jurisdiction=NL | Special category state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-OD",
+      "description": "India CGST for Odisha | jurisdiction=OD | type=state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-OD",
+      "description": "India SGST for Odisha | jurisdiction=OD",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-PB",
+      "description": "India CGST for Punjab | jurisdiction=PB | type=state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-PB",
+      "description": "India SGST for Punjab | jurisdiction=PB",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-RJ",
+      "description": "India CGST for Rajasthan | jurisdiction=RJ | type=state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-RJ",
+      "description": "India SGST for Rajasthan | jurisdiction=RJ",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-SK",
+      "description": "India CGST for Sikkim | jurisdiction=SK | type=state | Special category state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-SK",
+      "description": "India SGST for Sikkim | jurisdiction=SK | Special category state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-TN",
+      "description": "India CGST for Tamil Nadu | jurisdiction=TN | type=state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-TN",
+      "description": "India SGST for Tamil Nadu | jurisdiction=TN",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-TG",
+      "description": "India CGST for Telangana | jurisdiction=TG | type=state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-TG",
+      "description": "India SGST for Telangana | jurisdiction=TG",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-TR",
+      "description": "India CGST for Tripura | jurisdiction=TR | type=state | Special category state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-TR",
+      "description": "India SGST for Tripura | jurisdiction=TR | Special category state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-UP",
+      "description": "India CGST for Uttar Pradesh | jurisdiction=UP | type=state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-UP",
+      "description": "India SGST for Uttar Pradesh | jurisdiction=UP",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-UK",
+      "description": "India CGST for Uttarakhand | jurisdiction=UK | type=state | Special category state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-UK",
+      "description": "India SGST for Uttarakhand | jurisdiction=UK | Special category state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-WB",
+      "description": "India CGST for West Bengal | jurisdiction=WB | type=state",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-WB",
+      "description": "India SGST for West Bengal | jurisdiction=WB",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-DL",
+      "description": "India CGST for Delhi | jurisdiction=DL | type=state | UT with legislature — uses SGST",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-DL",
+      "description": "India SGST for Delhi | jurisdiction=DL | UT with legislature — uses SGST",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-JK",
+      "description": "India CGST for Jammu and Kashmir | jurisdiction=JK | type=state | UT with legislature — uses SGST",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-JK",
+      "description": "India SGST for Jammu and Kashmir | jurisdiction=JK | UT with legislature — uses SGST",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-PY",
+      "description": "India CGST for Puducherry | jurisdiction=PY | type=state | UT with legislature — uses SGST",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-PY",
+      "description": "India SGST for Puducherry | jurisdiction=PY | UT with legislature — uses SGST",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "state",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-CH",
+      "description": "India CGST for Chandigarh | jurisdiction=CH | type=UT",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-CH",
+      "description": "India UTGST for Chandigarh | jurisdiction=CH",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "utgst",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-DN",
+      "description": "India CGST for Dadra and Nagar Haveli and Daman and Diu | jurisdiction=DN | type=UT",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-DN",
+      "description": "India UTGST for Dadra and Nagar Haveli and Daman and Diu | jurisdiction=DN",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "utgst",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-LD",
+      "description": "India CGST for Lakshadweep | jurisdiction=LD | type=UT",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-LD",
+      "description": "India UTGST for Lakshadweep | jurisdiction=LD",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "utgst",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-AN",
+      "description": "India CGST for Andaman and Nicobar Islands | jurisdiction=AN | type=UT",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-AN",
+      "description": "India UTGST for Andaman and Nicobar Islands | jurisdiction=AN",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "utgst",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-LA",
+      "description": "India CGST for Ladakh | jurisdiction=LA | type=UT",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "central",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    },
+    {
+      "countryCode": "IN-LA",
+      "description": "India UTGST for Ladakh | jurisdiction=LA",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "utgst",
+      "sourceUrl": "https://www.cbic.gov.in/"
+    }
+  ]
+}

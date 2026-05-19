@@ -1,0 +1,150 @@
+{
+  "generatedAt": "2026-05-19T02:26:50.247Z",
+  "label": "ECCN export classification codes",
+  "rowCount": 8,
+  "rows": [
+    {
+      "associatedHsPrefixes": [
+        "8517",
+        "8523",
+        "8542",
+        "8543"
+      ],
+      "category": "5",
+      "controls": [
+        "NS",
+        "AT",
+        "EI"
+      ],
+      "description": "Information security systems, equipment, and components — encryption (>56-bit symmetric, RSA >512, etc.).",
+      "eccn": "5A002",
+      "id": "5A002",
+      "licenseRequirements": {
+        "description": "License required for most destinations except Country Group A. NLR/ENC review eligible."
+      },
+      "productGroup": "A",
+      "sourceUrl": "https://www.bis.doc.gov/index.php/regulations/commerce-control-list-ccl"
+    },
+    {
+      "associatedHsPrefixes": [
+        "8523"
+      ],
+      "category": "5",
+      "controls": [
+        "NS",
+        "AT",
+        "EI"
+      ],
+      "description": "Software for the development, production, or use of items controlled by 5A002 (encryption software).",
+      "eccn": "5D002",
+      "id": "5D002",
+      "licenseRequirements": {
+        "description": "License required for items above mass-market exception."
+      },
+      "productGroup": "D",
+      "sourceUrl": "https://www.bis.doc.gov/index.php/regulations/commerce-control-list-ccl"
+    },
+    {
+      "associatedHsPrefixes": [
+        "6109",
+        "6110",
+        "6403",
+        "6404",
+        "4202",
+        "9004",
+        "3304"
+      ],
+      "category": "0",
+      "controls": [],
+      "description": "Items subject to EAR but not specifically controlled — most consumer goods. NLR for most destinations.",
+      "eccn": "EAR99",
+      "id": "EAR99",
+      "licenseRequirements": {
+        "description": "No License Required (NLR) for most destinations except embargoed countries (Cuba, Iran, North Korea, Syria, Crimea)."
+      },
+      "productGroup": "ZZ",
+      "sourceUrl": "https://www.bis.doc.gov/"
+    },
+    {
+      "associatedHsPrefixes": [
+        "6210",
+        "9001"
+      ],
+      "category": "1",
+      "controls": [
+        "NS",
+        "AT"
+      ],
+      "description": "Body armor.",
+      "eccn": "1A005",
+      "id": "1A005",
+      "productGroup": "A",
+      "sourceUrl": "https://www.bis.doc.gov/"
+    },
+    {
+      "associatedHsPrefixes": [
+        "8542",
+        "8541"
+      ],
+      "category": "3",
+      "controls": [
+        "NS",
+        "AT"
+      ],
+      "description": "Electronic items: integrated circuits, microprocessors, FPGAs, ADCs, etc.",
+      "eccn": "3A001",
+      "id": "3A001",
+      "productGroup": "A",
+      "sourceUrl": "https://www.bis.doc.gov/"
+    },
+    {
+      "associatedHsPrefixes": [
+        "8525",
+        "9006"
+      ],
+      "category": "6",
+      "controls": [
+        "NS",
+        "AT",
+        "MT"
+      ],
+      "description": "Cameras (high-speed, IR/night-vision, military-grade).",
+      "eccn": "6A003",
+      "id": "6A003",
+      "productGroup": "A",
+      "sourceUrl": "https://www.bis.doc.gov/"
+    },
+    {
+      "associatedHsPrefixes": [
+        "8802",
+        "8803"
+      ],
+      "category": "9",
+      "controls": [
+        "NS",
+        "AT",
+        "MT"
+      ],
+      "description": "Military aircraft and related commodities (formerly USML — moved to CCL).",
+      "eccn": "9A610",
+      "id": "9A610",
+      "productGroup": "A",
+      "sourceUrl": "https://www.bis.doc.gov/"
+    },
+    {
+      "associatedHsPrefixes": [
+        "9013"
+      ],
+      "category": "0",
+      "controls": [
+        "AT",
+        "RS"
+      ],
+      "description": "Optical sighting devices for firearms; firearms-related items not controlled by USML.",
+      "eccn": "0A987",
+      "id": "0A987",
+      "productGroup": "A",
+      "sourceUrl": "https://www.bis.doc.gov/"
+    }
+  ]
+}
