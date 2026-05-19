@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T13:38:15.572Z",
+  "generatedAt": "2026-05-19T13:49:31.043Z",
   "label": "Landed-cost canary scenarios",
   "rowCount": 166,
   "rows": [
@@ -1618,8 +1618,8 @@
     {
       "declaredValueUsd": "25.00",
       "driftThresholdPercent": "5.00",
-      "expectedDutyUsd": "0.00",
-      "expectedTotalUsd": "0.00",
+      "expectedDutyUsd": "3.75",
+      "expectedTotalUsd": "3.75",
       "expectedVatUsd": "0.00",
       "hsCode": "2204.21",
       "importingCountry": "JP",
