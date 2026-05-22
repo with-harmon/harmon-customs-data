@@ -4,123 +4,123 @@
       "filename": "de-minimis.json",
       "label": "De-minimis thresholds",
       "rowCount": 199,
-      "sha256": "b8cab9fa90b8081dcf438c15bbec16fe39f313a11f080218ae14ae8a3586e798",
+      "sha256": "051f24eb67fcc695d96383cb0e00aaa338725f5de0fb94de3b7ae1d7e33c28ff",
       "sizeBytes": 70647
     },
     {
       "filename": "vat-rates.json",
       "label": "VAT / sales-tax rates",
       "rowCount": 382,
-      "sha256": "5fa7c84b02ecc252fa54ac6df01cee8e34afd56d9f5d259f58e4b066a9f71fc0",
+      "sha256": "8f3df4ddc374024c82043d4419c9c47f31befa96ecb29fb74a514f9d93e92db6",
       "sizeBytes": 110183
     },
     {
       "filename": "fta-agreements.json",
       "label": "FTA agreement registry",
       "rowCount": 43,
-      "sha256": "807033f8afe4555209649141aa212f500dab24f75b3142f5d56f35528ef0bf23",
+      "sha256": "0ba5ead1fe01458fd4c5d60d1b2cb7b2088492bcc6ef621f70bec0db4232881c",
       "sizeBytes": 19564
     },
     {
       "filename": "fta-preferential-rates.json",
       "label": "FTA preferential duty rates",
       "rowCount": 87430,
-      "sha256": "7aa238d38476e0f4ea9492120bafd34b984f9129a6dcd28b0159457b9a9d711c",
+      "sha256": "e1fea0acb732418029b9d4ccca984c5675c7788d3e0b7896c7ee0d1ce500ed0c",
       "sizeBytes": 57653874
     },
     {
       "filename": "additional-duties.json",
       "label": "Section 301 / additional duties",
       "rowCount": 162,
-      "sha256": "1e8cc81ef324ed8833612381d399bb3d1f0564051358c24de92d231b187a2e4d",
+      "sha256": "be1165496460bb1b1dbea3b6714fbb44786a1083a02ba84452bc6a8c0b6c5971",
       "sizeBytes": 93872
     },
     {
       "filename": "add-cvd.json",
       "label": "Anti-dumping + countervailing duties",
       "rowCount": 78,
-      "sha256": "a41c9659d4e2ac53e20f44b757e53aa74db2338942a35c06d2b5c2c588199828",
+      "sha256": "38f0591275c48e6fd47cdbd3e43fe55cf1104935f5536ae4f060b29addec9294",
       "sizeBytes": 56106
     },
     {
       "filename": "restricted-goods.json",
       "label": "Restricted / prohibited goods",
       "rowCount": 44,
-      "sha256": "036e021bda30c01af8f1d4cf4f206d15d16db20d39141e5f5b77a86c5f5cbd80",
+      "sha256": "80e3ce24080453e84b2e544cc06f40f02eba49d0bc476281313aac2aa2f7fe41",
       "sizeBytes": 19486
     },
     {
       "filename": "country-sanctions.json",
       "label": "Country sanctions",
       "rowCount": 18,
-      "sha256": "49c94e88bd67040c5e12ac689d301e9543e82b08d09ea28f153ff17ea33be364",
+      "sha256": "11457d3f2634e311915a09c8b736a024f5b3153cd977ccd62a93296c2e4f5118",
       "sizeBytes": 10902
     },
     {
       "filename": "excise-duties.json",
       "label": "Excise duties (alcohol/tobacco/fuel)",
       "rowCount": 29,
-      "sha256": "667c6c9cc9e02511f12eb0ce1c503e7e687143d418cd3e96c94419f06136b84a",
+      "sha256": "3023d83fd73c93fa8a2e82f8c8e340ecdecdb3dd5b090cee8fffed7573466939",
       "sizeBytes": 16918
     },
     {
       "filename": "eccn.json",
       "label": "ECCN export classification codes",
       "rowCount": 8,
-      "sha256": "d16b7e42b1e91fd650ebdf1fc36849d14653dc53e7a3135bdb3dd0216abb8eed",
+      "sha256": "5ca7864761fbe3eede1f62218e4880ef3f7c5ff440f9f7625d8609c450ef8f5f",
       "sizeBytes": 3837
     },
     {
       "filename": "hazmat.json",
       "label": "Hazmat / dangerous-goods classifications",
       "rowCount": 45,
-      "sha256": "341db673393be279419ba1b9a36375e28248ab24b95040612073fd134cb00261",
+      "sha256": "f9182a96e986850b2f142b025823d046660e24ebaf223ed5b45abd5294c9cb66",
       "sizeBytes": 29758
     },
     {
       "filename": "preference-programs.json",
       "label": "Trade preference programs",
       "rowCount": 3809,
-      "sha256": "68829f86d899092357204ddad7d9615b909e94eb98ea5ab9c90f64ffcd534e2a",
+      "sha256": "862c4d221314512f5b6c606701a81d2ad639922d95520652845194f609a76510",
       "sizeBytes": 2337464
     },
     {
       "filename": "tariff-rate-quotas.json",
       "label": "Tariff-rate quotas",
       "rowCount": 6,
-      "sha256": "47aa00101d937cc89550acffd3425ac59a6a6b836911b31781f89ea1e89981f6",
+      "sha256": "49a698602db3f314b57f430a6a480018b64385ca1a435d99a973b4e80b158256",
       "sizeBytes": 4378
     },
     {
       "filename": "india-gst-states.json",
       "label": "India GST per-state rates",
       "rowCount": 72,
-      "sha256": "6eb4561dc490ec37bfacb2ee882fbfe10cfae7f46a46868e911cf3ee620fc874",
+      "sha256": "c36081448c8a644b8f18a294776ccda7a0ac0d3666f22392a55f027c94180fc7",
       "sizeBytes": 20649
     },
     {
       "filename": "us-sales-tax.json",
       "label": "US state + metro sales-tax rates",
       "rowCount": 191,
-      "sha256": "63f05378935bf9bd9cc13f554d82a4c1e4e8b05cd8748a02ba5b4d967817d491",
+      "sha256": "25d022990a3c7c4937cdbd025106121dab0a51cb512926341a597e36092974bb",
       "sizeBytes": 61110
     },
     {
       "filename": "eu-oss-thresholds.json",
       "label": "EU OSS distance-selling thresholds",
       "rowCount": 27,
-      "sha256": "f262171265f76e67b3f31ef455fa69baf672d76babb4163a347a6f74d87faac0",
+      "sha256": "2f678a096bfff8184a0b6b0e6583734b55d86be367906c7bcdf451f247ee9e72",
       "sizeBytes": 10423
     },
     {
       "filename": "canary-baseline.json",
       "label": "Landed-cost canary scenarios",
       "rowCount": 166,
-      "sha256": "8e1963afd7ebcd68c1b4c5827d378b8c0b6b3688ffc465e1251ce1bc29943e95",
+      "sha256": "3223d901b30ede5bc7135f999c45aa31db03bd35ceee8d5c307d87337f2dda0a",
       "sizeBytes": 94347
     }
   ],
-  "generatedAt": "2026-05-21T08:09:20.649Z",
+  "generatedAt": "2026-05-22T07:59:48.701Z",
   "license": "MIT",
   "producer": "with-harmon/harmon-platform",
   "totalBytes": 60613518,
