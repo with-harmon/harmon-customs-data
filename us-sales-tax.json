@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-30T05:49:53.114Z",
+  "generatedAt": "2026-05-30T08:19:50.366Z",
   "label": "US state + metro sales-tax rates",
-  "rowCount": 191,
+  "rowCount": 565,
   "rows": [
     {
       "countryCode": "US-DE",
@@ -1530,6 +1530,2998 @@
       "ratePercent": "0.000",
       "rateType": "metro_combined",
       "sourceUrl": "https://www.oregon.gov/dor/"
+    },
+    {
+      "countryCode": "US-CA-LOSANGELES",
+      "description": "US Los Angeles county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-ORANGE",
+      "description": "US Orange county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-SANDIEGO",
+      "description": "US San Diego county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-RIVERSIDE",
+      "description": "US Riverside county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-SANBERNARD",
+      "description": "US San Bernardino county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-SANTACLARA",
+      "description": "US Santa Clara county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-ALAMEDA",
+      "description": "US Alameda county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-SACRAMENTO",
+      "description": "US Sacramento county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-CONTRACOST",
+      "description": "US Contra Costa county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-FRESNO",
+      "description": "US Fresno county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-KERN",
+      "description": "US Kern county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-VENTURA",
+      "description": "US Ventura county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-SANFRANCIS",
+      "description": "US San Francisco county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-SANMATEO",
+      "description": "US San Mateo county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-SANJOAQUIN",
+      "description": "US San Joaquin county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-SONOMA",
+      "description": "US Sonoma county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-STANISLAUS",
+      "description": "US Stanislaus county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-TULARE",
+      "description": "US Tulare county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-SOLANO",
+      "description": "US Solano county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-SANTABARBA",
+      "description": "US Santa Barbara county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-MONTEREY",
+      "description": "US Monterey county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-PLACER",
+      "description": "US Placer county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-MARIN",
+      "description": "US Marin county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-YOLO",
+      "description": "US Yolo county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-ELDORADO",
+      "description": "US El Dorado county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-BUTTE",
+      "description": "US Butte county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-SHASTA",
+      "description": "US Shasta county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-MERCED",
+      "description": "US Merced county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-IMPERIAL",
+      "description": "US Imperial county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-CA-MADERA",
+      "description": "US Madera county/parish (CA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.cdtfa.ca.gov/taxes-and-fees/sales-and-use-tax-rates.htm"
+    },
+    {
+      "countryCode": "US-TX-HARRIS",
+      "description": "US Harris county/parish (TX) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+    },
+    {
+      "countryCode": "US-TX-DALLAS",
+      "description": "US Dallas county/parish (TX) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+    },
+    {
+      "countryCode": "US-TX-TARRANT",
+      "description": "US Tarrant county/parish (TX) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+    },
+    {
+      "countryCode": "US-TX-BEXAR",
+      "description": "US Bexar county/parish (TX) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+    },
+    {
+      "countryCode": "US-TX-TRAVIS",
+      "description": "US Travis county/parish (TX) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+    },
+    {
+      "countryCode": "US-TX-COLLIN",
+      "description": "US Collin county/parish (TX) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+    },
+    {
+      "countryCode": "US-TX-HIDALGO",
+      "description": "US Hidalgo county/parish (TX) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+    },
+    {
+      "countryCode": "US-TX-ELPASO",
+      "description": "US El Paso county/parish (TX) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+    },
+    {
+      "countryCode": "US-TX-DENTON",
+      "description": "US Denton county/parish (TX) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+    },
+    {
+      "countryCode": "US-TX-FORTBEND",
+      "description": "US Fort Bend county/parish (TX) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+    },
+    {
+      "countryCode": "US-TX-MONTGOMERY",
+      "description": "US Montgomery county/parish (TX) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+    },
+    {
+      "countryCode": "US-TX-WILLIAMSON",
+      "description": "US Williamson county/parish (TX) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+    },
+    {
+      "countryCode": "US-TX-CAMERON",
+      "description": "US Cameron county/parish (TX) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+    },
+    {
+      "countryCode": "US-TX-BRAZORIA",
+      "description": "US Brazoria county/parish (TX) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+    },
+    {
+      "countryCode": "US-TX-GALVESTON",
+      "description": "US Galveston county/parish (TX) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+    },
+    {
+      "countryCode": "US-TX-NUECES",
+      "description": "US Nueces county/parish (TX) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+    },
+    {
+      "countryCode": "US-TX-BELL",
+      "description": "US Bell county/parish (TX) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+    },
+    {
+      "countryCode": "US-TX-JEFFERSON",
+      "description": "US Jefferson county/parish (TX) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+    },
+    {
+      "countryCode": "US-TX-WEBB",
+      "description": "US Webb county/parish (TX) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+    },
+    {
+      "countryCode": "US-TX-LUBBOCK",
+      "description": "US Lubbock county/parish (TX) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+    },
+    {
+      "countryCode": "US-TX-SMITH",
+      "description": "US Smith county/parish (TX) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+    },
+    {
+      "countryCode": "US-TX-MCLENNAN",
+      "description": "US McLennan county/parish (TX) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+    },
+    {
+      "countryCode": "US-TX-BRAZOS",
+      "description": "US Brazos county/parish (TX) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+    },
+    {
+      "countryCode": "US-TX-HAYS",
+      "description": "US Hays county/parish (TX) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+    },
+    {
+      "countryCode": "US-TX-ELLIS",
+      "description": "US Ellis county/parish (TX) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://comptroller.texas.gov/taxes/sales/local/"
+    },
+    {
+      "countryCode": "US-FL-MIAMIDADE",
+      "description": "US Miami-Dade county/parish (FL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+    },
+    {
+      "countryCode": "US-FL-BROWARD",
+      "description": "US Broward county/parish (FL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+    },
+    {
+      "countryCode": "US-FL-PALMBEACH",
+      "description": "US Palm Beach county/parish (FL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+    },
+    {
+      "countryCode": "US-FL-HILLSBOROU",
+      "description": "US Hillsborough county/parish (FL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+    },
+    {
+      "countryCode": "US-FL-ORANGE",
+      "description": "US Orange county/parish (FL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+    },
+    {
+      "countryCode": "US-FL-PINELLAS",
+      "description": "US Pinellas county/parish (FL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+    },
+    {
+      "countryCode": "US-FL-DUVAL",
+      "description": "US Duval county/parish (FL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+    },
+    {
+      "countryCode": "US-FL-LEE",
+      "description": "US Lee county/parish (FL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+    },
+    {
+      "countryCode": "US-FL-POLK",
+      "description": "US Polk county/parish (FL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+    },
+    {
+      "countryCode": "US-FL-BREVARD",
+      "description": "US Brevard county/parish (FL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+    },
+    {
+      "countryCode": "US-FL-VOLUSIA",
+      "description": "US Volusia county/parish (FL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+    },
+    {
+      "countryCode": "US-FL-PASCO",
+      "description": "US Pasco county/parish (FL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+    },
+    {
+      "countryCode": "US-FL-SEMINOLE",
+      "description": "US Seminole county/parish (FL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+    },
+    {
+      "countryCode": "US-FL-SARASOTA",
+      "description": "US Sarasota county/parish (FL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+    },
+    {
+      "countryCode": "US-FL-MANATEE",
+      "description": "US Manatee county/parish (FL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+    },
+    {
+      "countryCode": "US-FL-COLLIER",
+      "description": "US Collier county/parish (FL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+    },
+    {
+      "countryCode": "US-FL-MARION",
+      "description": "US Marion county/parish (FL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+    },
+    {
+      "countryCode": "US-FL-LAKE",
+      "description": "US Lake county/parish (FL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+    },
+    {
+      "countryCode": "US-FL-OSCEOLA",
+      "description": "US Osceola county/parish (FL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+    },
+    {
+      "countryCode": "US-FL-ESCAMBIA",
+      "description": "US Escambia county/parish (FL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://floridarevenue.com/taxes/Pages/sut.aspx"
+    },
+    {
+      "countryCode": "US-NY-NEWYORK",
+      "description": "US New York county/parish (NY) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.875",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+    },
+    {
+      "countryCode": "US-NY-KINGS",
+      "description": "US Kings county/parish (NY) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.875",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+    },
+    {
+      "countryCode": "US-NY-QUEENS",
+      "description": "US Queens county/parish (NY) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.875",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+    },
+    {
+      "countryCode": "US-NY-BRONX",
+      "description": "US Bronx county/parish (NY) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.875",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+    },
+    {
+      "countryCode": "US-NY-RICHMOND",
+      "description": "US Richmond county/parish (NY) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.875",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+    },
+    {
+      "countryCode": "US-NY-NASSAU",
+      "description": "US Nassau county/parish (NY) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.875",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+    },
+    {
+      "countryCode": "US-NY-SUFFOLK",
+      "description": "US Suffolk county/parish (NY) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.875",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+    },
+    {
+      "countryCode": "US-NY-WESTCHESTE",
+      "description": "US Westchester county/parish (NY) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.875",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+    },
+    {
+      "countryCode": "US-NY-ERIE",
+      "description": "US Erie county/parish (NY) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.875",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+    },
+    {
+      "countryCode": "US-NY-MONROE",
+      "description": "US Monroe county/parish (NY) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.875",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+    },
+    {
+      "countryCode": "US-NY-ONONDAGA",
+      "description": "US Onondaga county/parish (NY) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.875",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+    },
+    {
+      "countryCode": "US-NY-ALBANY",
+      "description": "US Albany county/parish (NY) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.875",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+    },
+    {
+      "countryCode": "US-NY-ROCKLAND",
+      "description": "US Rockland county/parish (NY) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.875",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+    },
+    {
+      "countryCode": "US-NY-ORANGE",
+      "description": "US Orange county/parish (NY) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.875",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+    },
+    {
+      "countryCode": "US-NY-DUTCHESS",
+      "description": "US Dutchess county/parish (NY) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.875",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+    },
+    {
+      "countryCode": "US-NY-SARATOGA",
+      "description": "US Saratoga county/parish (NY) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.875",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+    },
+    {
+      "countryCode": "US-NY-NIAGARA",
+      "description": "US Niagara county/parish (NY) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.875",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+    },
+    {
+      "countryCode": "US-NY-ONEIDA",
+      "description": "US Oneida county/parish (NY) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.875",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+    },
+    {
+      "countryCode": "US-NY-RENSSELAER",
+      "description": "US Rensselaer county/parish (NY) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.875",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+    },
+    {
+      "countryCode": "US-NY-SCHENECTAD",
+      "description": "US Schenectady county/parish (NY) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.875",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.ny.gov/bus/st/local_sales_tax.htm"
+    },
+    {
+      "countryCode": "US-IL-COOK",
+      "description": "US Cook county/parish (IL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+    },
+    {
+      "countryCode": "US-IL-DUPAGE",
+      "description": "US DuPage county/parish (IL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+    },
+    {
+      "countryCode": "US-IL-LAKE",
+      "description": "US Lake county/parish (IL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+    },
+    {
+      "countryCode": "US-IL-WILL",
+      "description": "US Will county/parish (IL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+    },
+    {
+      "countryCode": "US-IL-KANE",
+      "description": "US Kane county/parish (IL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+    },
+    {
+      "countryCode": "US-IL-MCHENRY",
+      "description": "US McHenry county/parish (IL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+    },
+    {
+      "countryCode": "US-IL-WINNEBAGO",
+      "description": "US Winnebago county/parish (IL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+    },
+    {
+      "countryCode": "US-IL-MADISON",
+      "description": "US Madison county/parish (IL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+    },
+    {
+      "countryCode": "US-IL-STCLAIR",
+      "description": "US St. Clair county/parish (IL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+    },
+    {
+      "countryCode": "US-IL-CHAMPAIGN",
+      "description": "US Champaign county/parish (IL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+    },
+    {
+      "countryCode": "US-IL-SANGAMON",
+      "description": "US Sangamon county/parish (IL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+    },
+    {
+      "countryCode": "US-IL-PEORIA",
+      "description": "US Peoria county/parish (IL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+    },
+    {
+      "countryCode": "US-IL-MCLEAN",
+      "description": "US McLean county/parish (IL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+    },
+    {
+      "countryCode": "US-IL-TAZEWELL",
+      "description": "US Tazewell county/parish (IL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+    },
+    {
+      "countryCode": "US-IL-ROCKISLAND",
+      "description": "US Rock Island county/parish (IL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.illinois.gov/research/taxrates/salestax.html"
+    },
+    {
+      "countryCode": "US-PA-ALLEGHENY",
+      "description": "US Allegheny county/parish (PA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.revenue.pa.gov/TaxTypes/SUT/Pages/Sales-Use-Tax-Rates.aspx"
+    },
+    {
+      "countryCode": "US-PA-PHILADELPH",
+      "description": "US Philadelphia county/parish (PA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.revenue.pa.gov/TaxTypes/SUT/Pages/Sales-Use-Tax-Rates.aspx"
+    },
+    {
+      "countryCode": "US-PA-MONTGOMERY",
+      "description": "US Montgomery county/parish (PA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.revenue.pa.gov/TaxTypes/SUT/Pages/Sales-Use-Tax-Rates.aspx"
+    },
+    {
+      "countryCode": "US-PA-BUCKS",
+      "description": "US Bucks county/parish (PA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.revenue.pa.gov/TaxTypes/SUT/Pages/Sales-Use-Tax-Rates.aspx"
+    },
+    {
+      "countryCode": "US-PA-DELAWARE",
+      "description": "US Delaware county/parish (PA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.revenue.pa.gov/TaxTypes/SUT/Pages/Sales-Use-Tax-Rates.aspx"
+    },
+    {
+      "countryCode": "US-PA-CHESTER",
+      "description": "US Chester county/parish (PA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.revenue.pa.gov/TaxTypes/SUT/Pages/Sales-Use-Tax-Rates.aspx"
+    },
+    {
+      "countryCode": "US-PA-LANCASTER",
+      "description": "US Lancaster county/parish (PA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.revenue.pa.gov/TaxTypes/SUT/Pages/Sales-Use-Tax-Rates.aspx"
+    },
+    {
+      "countryCode": "US-PA-YORK",
+      "description": "US York county/parish (PA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.revenue.pa.gov/TaxTypes/SUT/Pages/Sales-Use-Tax-Rates.aspx"
+    },
+    {
+      "countryCode": "US-PA-BERKS",
+      "description": "US Berks county/parish (PA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.revenue.pa.gov/TaxTypes/SUT/Pages/Sales-Use-Tax-Rates.aspx"
+    },
+    {
+      "countryCode": "US-PA-LEHIGH",
+      "description": "US Lehigh county/parish (PA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.revenue.pa.gov/TaxTypes/SUT/Pages/Sales-Use-Tax-Rates.aspx"
+    },
+    {
+      "countryCode": "US-PA-NORTHAMPTO",
+      "description": "US Northampton county/parish (PA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.revenue.pa.gov/TaxTypes/SUT/Pages/Sales-Use-Tax-Rates.aspx"
+    },
+    {
+      "countryCode": "US-PA-WESTMORELA",
+      "description": "US Westmoreland county/parish (PA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.revenue.pa.gov/TaxTypes/SUT/Pages/Sales-Use-Tax-Rates.aspx"
+    },
+    {
+      "countryCode": "US-OH-CUYAHOGA",
+      "description": "US Cuyahoga county/parish (OH) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.ohio.gov/business/ohio-business-taxes/sales-and-use"
+    },
+    {
+      "countryCode": "US-OH-FRANKLIN",
+      "description": "US Franklin county/parish (OH) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.ohio.gov/business/ohio-business-taxes/sales-and-use"
+    },
+    {
+      "countryCode": "US-OH-HAMILTON",
+      "description": "US Hamilton county/parish (OH) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.ohio.gov/business/ohio-business-taxes/sales-and-use"
+    },
+    {
+      "countryCode": "US-OH-SUMMIT",
+      "description": "US Summit county/parish (OH) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.ohio.gov/business/ohio-business-taxes/sales-and-use"
+    },
+    {
+      "countryCode": "US-OH-MONTGOMERY",
+      "description": "US Montgomery county/parish (OH) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.ohio.gov/business/ohio-business-taxes/sales-and-use"
+    },
+    {
+      "countryCode": "US-OH-LUCAS",
+      "description": "US Lucas county/parish (OH) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.ohio.gov/business/ohio-business-taxes/sales-and-use"
+    },
+    {
+      "countryCode": "US-OH-STARK",
+      "description": "US Stark county/parish (OH) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.ohio.gov/business/ohio-business-taxes/sales-and-use"
+    },
+    {
+      "countryCode": "US-OH-BUTLER",
+      "description": "US Butler county/parish (OH) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.ohio.gov/business/ohio-business-taxes/sales-and-use"
+    },
+    {
+      "countryCode": "US-OH-LORAIN",
+      "description": "US Lorain county/parish (OH) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.ohio.gov/business/ohio-business-taxes/sales-and-use"
+    },
+    {
+      "countryCode": "US-OH-MAHONING",
+      "description": "US Mahoning county/parish (OH) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.ohio.gov/business/ohio-business-taxes/sales-and-use"
+    },
+    {
+      "countryCode": "US-OH-LAKE",
+      "description": "US Lake county/parish (OH) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.ohio.gov/business/ohio-business-taxes/sales-and-use"
+    },
+    {
+      "countryCode": "US-OH-WARREN",
+      "description": "US Warren county/parish (OH) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.ohio.gov/business/ohio-business-taxes/sales-and-use"
+    },
+    {
+      "countryCode": "US-GA-FULTON",
+      "description": "US Fulton county/parish (GA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.georgia.gov/sales-tax-rates-general"
+    },
+    {
+      "countryCode": "US-GA-GWINNETT",
+      "description": "US Gwinnett county/parish (GA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.georgia.gov/sales-tax-rates-general"
+    },
+    {
+      "countryCode": "US-GA-COBB",
+      "description": "US Cobb county/parish (GA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.georgia.gov/sales-tax-rates-general"
+    },
+    {
+      "countryCode": "US-GA-DEKALB",
+      "description": "US DeKalb county/parish (GA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.georgia.gov/sales-tax-rates-general"
+    },
+    {
+      "countryCode": "US-GA-CLAYTON",
+      "description": "US Clayton county/parish (GA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.georgia.gov/sales-tax-rates-general"
+    },
+    {
+      "countryCode": "US-GA-CHEROKEE",
+      "description": "US Cherokee county/parish (GA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.georgia.gov/sales-tax-rates-general"
+    },
+    {
+      "countryCode": "US-GA-FORSYTH",
+      "description": "US Forsyth county/parish (GA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.georgia.gov/sales-tax-rates-general"
+    },
+    {
+      "countryCode": "US-GA-HENRY",
+      "description": "US Henry county/parish (GA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.georgia.gov/sales-tax-rates-general"
+    },
+    {
+      "countryCode": "US-GA-HALL",
+      "description": "US Hall county/parish (GA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.georgia.gov/sales-tax-rates-general"
+    },
+    {
+      "countryCode": "US-GA-BIBB",
+      "description": "US Bibb county/parish (GA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.georgia.gov/sales-tax-rates-general"
+    },
+    {
+      "countryCode": "US-GA-RICHMOND",
+      "description": "US Richmond county/parish (GA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.georgia.gov/sales-tax-rates-general"
+    },
+    {
+      "countryCode": "US-GA-CHATHAM",
+      "description": "US Chatham county/parish (GA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.georgia.gov/sales-tax-rates-general"
+    },
+    {
+      "countryCode": "US-NC-MECKLENBUR",
+      "description": "US Mecklenburg county/parish (NC) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.ncdor.gov/taxes-forms/sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-NC-WAKE",
+      "description": "US Wake county/parish (NC) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.ncdor.gov/taxes-forms/sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-NC-GUILFORD",
+      "description": "US Guilford county/parish (NC) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.ncdor.gov/taxes-forms/sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-NC-FORSYTH",
+      "description": "US Forsyth county/parish (NC) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.ncdor.gov/taxes-forms/sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-NC-CUMBERLAND",
+      "description": "US Cumberland county/parish (NC) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.ncdor.gov/taxes-forms/sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-NC-DURHAM",
+      "description": "US Durham county/parish (NC) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.ncdor.gov/taxes-forms/sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-NC-BUNCOMBE",
+      "description": "US Buncombe county/parish (NC) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.ncdor.gov/taxes-forms/sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-NC-NEWHANOVER",
+      "description": "US New Hanover county/parish (NC) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.ncdor.gov/taxes-forms/sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-NC-GASTON",
+      "description": "US Gaston county/parish (NC) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.ncdor.gov/taxes-forms/sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-NC-UNION",
+      "description": "US Union county/parish (NC) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.ncdor.gov/taxes-forms/sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-NC-ONSLOW",
+      "description": "US Onslow county/parish (NC) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.ncdor.gov/taxes-forms/sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-NC-CABARRUS",
+      "description": "US Cabarrus county/parish (NC) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.ncdor.gov/taxes-forms/sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-MI-WAYNE",
+      "description": "US Wayne county/parish (MI) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.michigan.gov/taxes/business-taxes/sales-use-tax"
+    },
+    {
+      "countryCode": "US-MI-OAKLAND",
+      "description": "US Oakland county/parish (MI) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.michigan.gov/taxes/business-taxes/sales-use-tax"
+    },
+    {
+      "countryCode": "US-MI-MACOMB",
+      "description": "US Macomb county/parish (MI) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.michigan.gov/taxes/business-taxes/sales-use-tax"
+    },
+    {
+      "countryCode": "US-MI-KENT",
+      "description": "US Kent county/parish (MI) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.michigan.gov/taxes/business-taxes/sales-use-tax"
+    },
+    {
+      "countryCode": "US-MI-GENESEE",
+      "description": "US Genesee county/parish (MI) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.michigan.gov/taxes/business-taxes/sales-use-tax"
+    },
+    {
+      "countryCode": "US-MI-WASHTENAW",
+      "description": "US Washtenaw county/parish (MI) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.michigan.gov/taxes/business-taxes/sales-use-tax"
+    },
+    {
+      "countryCode": "US-MI-INGHAM",
+      "description": "US Ingham county/parish (MI) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.michigan.gov/taxes/business-taxes/sales-use-tax"
+    },
+    {
+      "countryCode": "US-MI-OTTAWA",
+      "description": "US Ottawa county/parish (MI) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.michigan.gov/taxes/business-taxes/sales-use-tax"
+    },
+    {
+      "countryCode": "US-MI-KALAMAZOO",
+      "description": "US Kalamazoo county/parish (MI) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.michigan.gov/taxes/business-taxes/sales-use-tax"
+    },
+    {
+      "countryCode": "US-MI-SAGINAW",
+      "description": "US Saginaw county/parish (MI) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.michigan.gov/taxes/business-taxes/sales-use-tax"
+    },
+    {
+      "countryCode": "US-MI-MUSKEGON",
+      "description": "US Muskegon county/parish (MI) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.michigan.gov/taxes/business-taxes/sales-use-tax"
+    },
+    {
+      "countryCode": "US-MI-BERRIEN",
+      "description": "US Berrien county/parish (MI) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.michigan.gov/taxes/business-taxes/sales-use-tax"
+    },
+    {
+      "countryCode": "US-WA-KING",
+      "description": "US King county/parish (WA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "10.100",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.wa.gov/find-taxes-rates/sales-and-use-tax-rates"
+    },
+    {
+      "countryCode": "US-WA-PIERCE",
+      "description": "US Pierce county/parish (WA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "10.100",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.wa.gov/find-taxes-rates/sales-and-use-tax-rates"
+    },
+    {
+      "countryCode": "US-WA-SNOHOMISH",
+      "description": "US Snohomish county/parish (WA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "10.100",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.wa.gov/find-taxes-rates/sales-and-use-tax-rates"
+    },
+    {
+      "countryCode": "US-WA-SPOKANE",
+      "description": "US Spokane county/parish (WA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "10.100",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.wa.gov/find-taxes-rates/sales-and-use-tax-rates"
+    },
+    {
+      "countryCode": "US-WA-CLARK",
+      "description": "US Clark county/parish (WA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "10.100",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.wa.gov/find-taxes-rates/sales-and-use-tax-rates"
+    },
+    {
+      "countryCode": "US-WA-THURSTON",
+      "description": "US Thurston county/parish (WA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "10.100",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.wa.gov/find-taxes-rates/sales-and-use-tax-rates"
+    },
+    {
+      "countryCode": "US-WA-KITSAP",
+      "description": "US Kitsap county/parish (WA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "10.100",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.wa.gov/find-taxes-rates/sales-and-use-tax-rates"
+    },
+    {
+      "countryCode": "US-WA-YAKIMA",
+      "description": "US Yakima county/parish (WA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "10.100",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.wa.gov/find-taxes-rates/sales-and-use-tax-rates"
+    },
+    {
+      "countryCode": "US-WA-WHATCOM",
+      "description": "US Whatcom county/parish (WA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "10.100",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.wa.gov/find-taxes-rates/sales-and-use-tax-rates"
+    },
+    {
+      "countryCode": "US-WA-BENTON",
+      "description": "US Benton county/parish (WA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "10.100",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.wa.gov/find-taxes-rates/sales-and-use-tax-rates"
+    },
+    {
+      "countryCode": "US-WA-SKAGIT",
+      "description": "US Skagit county/parish (WA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "10.100",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.wa.gov/find-taxes-rates/sales-and-use-tax-rates"
+    },
+    {
+      "countryCode": "US-WA-COWLITZ",
+      "description": "US Cowlitz county/parish (WA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "10.100",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.wa.gov/find-taxes-rates/sales-and-use-tax-rates"
+    },
+    {
+      "countryCode": "US-AZ-MARICOPA",
+      "description": "US Maricopa county/parish (AZ) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.600",
+      "rateType": "county_combined",
+      "sourceUrl": "https://azdor.gov/transaction-privilege-tax"
+    },
+    {
+      "countryCode": "US-AZ-PIMA",
+      "description": "US Pima county/parish (AZ) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.600",
+      "rateType": "county_combined",
+      "sourceUrl": "https://azdor.gov/transaction-privilege-tax"
+    },
+    {
+      "countryCode": "US-AZ-PINAL",
+      "description": "US Pinal county/parish (AZ) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.600",
+      "rateType": "county_combined",
+      "sourceUrl": "https://azdor.gov/transaction-privilege-tax"
+    },
+    {
+      "countryCode": "US-AZ-YAVAPAI",
+      "description": "US Yavapai county/parish (AZ) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.600",
+      "rateType": "county_combined",
+      "sourceUrl": "https://azdor.gov/transaction-privilege-tax"
+    },
+    {
+      "countryCode": "US-AZ-MOHAVE",
+      "description": "US Mohave county/parish (AZ) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.600",
+      "rateType": "county_combined",
+      "sourceUrl": "https://azdor.gov/transaction-privilege-tax"
+    },
+    {
+      "countryCode": "US-AZ-YUMA",
+      "description": "US Yuma county/parish (AZ) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.600",
+      "rateType": "county_combined",
+      "sourceUrl": "https://azdor.gov/transaction-privilege-tax"
+    },
+    {
+      "countryCode": "US-AZ-COCONINO",
+      "description": "US Coconino county/parish (AZ) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.600",
+      "rateType": "county_combined",
+      "sourceUrl": "https://azdor.gov/transaction-privilege-tax"
+    },
+    {
+      "countryCode": "US-AZ-COCHISE",
+      "description": "US Cochise county/parish (AZ) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.600",
+      "rateType": "county_combined",
+      "sourceUrl": "https://azdor.gov/transaction-privilege-tax"
+    },
+    {
+      "countryCode": "US-VA-FAIRFAX",
+      "description": "US Fairfax county/parish (VA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.virginia.gov/retail-sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-VA-PRINCEWILL",
+      "description": "US Prince William county/parish (VA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.virginia.gov/retail-sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-VA-LOUDOUN",
+      "description": "US Loudoun county/parish (VA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.virginia.gov/retail-sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-VA-HENRICO",
+      "description": "US Henrico county/parish (VA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.virginia.gov/retail-sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-VA-ARLINGTON",
+      "description": "US Arlington county/parish (VA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.virginia.gov/retail-sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-VA-CHESTERFIE",
+      "description": "US Chesterfield county/parish (VA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.virginia.gov/retail-sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-VA-NORFOLK",
+      "description": "US Norfolk county/parish (VA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.virginia.gov/retail-sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-VA-VIRGINIABE",
+      "description": "US Virginia Beach county/parish (VA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.virginia.gov/retail-sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-VA-NEWPORTNEW",
+      "description": "US Newport News county/parish (VA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.virginia.gov/retail-sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-VA-RICHMONDCI",
+      "description": "US Richmond City county/parish (VA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.virginia.gov/retail-sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-MA-SUFFOLK",
+      "description": "US Suffolk county/parish (MA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.mass.gov/info-details/massachusetts-sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-MA-MIDDLESEX",
+      "description": "US Middlesex county/parish (MA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.mass.gov/info-details/massachusetts-sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-MA-WORCESTER",
+      "description": "US Worcester county/parish (MA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.mass.gov/info-details/massachusetts-sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-MA-ESSEX",
+      "description": "US Essex county/parish (MA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.mass.gov/info-details/massachusetts-sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-MA-NORFOLK",
+      "description": "US Norfolk county/parish (MA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.mass.gov/info-details/massachusetts-sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-MA-PLYMOUTH",
+      "description": "US Plymouth county/parish (MA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.mass.gov/info-details/massachusetts-sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-MA-BRISTOL",
+      "description": "US Bristol county/parish (MA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.mass.gov/info-details/massachusetts-sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-MA-HAMPDEN",
+      "description": "US Hampden county/parish (MA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.mass.gov/info-details/massachusetts-sales-and-use-tax"
+    },
+    {
+      "countryCode": "US-CO-DENVER",
+      "description": "US Denver county/parish (CO) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.310",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.colorado.gov/sales-use-tax"
+    },
+    {
+      "countryCode": "US-CO-ELPASO",
+      "description": "US El Paso county/parish (CO) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.310",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.colorado.gov/sales-use-tax"
+    },
+    {
+      "countryCode": "US-CO-ARAPAHOE",
+      "description": "US Arapahoe county/parish (CO) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.310",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.colorado.gov/sales-use-tax"
+    },
+    {
+      "countryCode": "US-CO-ADAMS",
+      "description": "US Adams county/parish (CO) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.310",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.colorado.gov/sales-use-tax"
+    },
+    {
+      "countryCode": "US-CO-JEFFERSON",
+      "description": "US Jefferson county/parish (CO) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.310",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.colorado.gov/sales-use-tax"
+    },
+    {
+      "countryCode": "US-CO-LARIMER",
+      "description": "US Larimer county/parish (CO) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.310",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.colorado.gov/sales-use-tax"
+    },
+    {
+      "countryCode": "US-CO-DOUGLAS",
+      "description": "US Douglas county/parish (CO) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.310",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.colorado.gov/sales-use-tax"
+    },
+    {
+      "countryCode": "US-CO-WELD",
+      "description": "US Weld county/parish (CO) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.310",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.colorado.gov/sales-use-tax"
+    },
+    {
+      "countryCode": "US-CO-BOULDER",
+      "description": "US Boulder county/parish (CO) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.310",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.colorado.gov/sales-use-tax"
+    },
+    {
+      "countryCode": "US-CO-PUEBLO",
+      "description": "US Pueblo county/parish (CO) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.310",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.colorado.gov/sales-use-tax"
+    },
+    {
+      "countryCode": "US-MN-HENNEPIN",
+      "description": "US Hennepin county/parish (MN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.375",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-MN-RAMSEY",
+      "description": "US Ramsey county/parish (MN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.375",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-MN-DAKOTA",
+      "description": "US Dakota county/parish (MN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.375",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-MN-ANOKA",
+      "description": "US Anoka county/parish (MN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.375",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-MN-WASHINGTON",
+      "description": "US Washington county/parish (MN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.375",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-MN-SCOTT",
+      "description": "US Scott county/parish (MN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.375",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-MN-WRIGHT",
+      "description": "US Wright county/parish (MN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.375",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-MN-OLMSTED",
+      "description": "US Olmsted county/parish (MN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.375",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-MN-STEARNS",
+      "description": "US Stearns county/parish (MN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.375",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-MN-STLOUIS",
+      "description": "US St. Louis county/parish (MN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.375",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-WI-MILWAUKEE",
+      "description": "US Milwaukee county/parish (WI) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "5.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-WI-DANE",
+      "description": "US Dane county/parish (WI) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "5.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-WI-WAUKESHA",
+      "description": "US Waukesha county/parish (WI) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "5.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-WI-BROWN",
+      "description": "US Brown county/parish (WI) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "5.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-WI-RACINE",
+      "description": "US Racine county/parish (WI) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "5.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-WI-OUTAGAMIE",
+      "description": "US Outagamie county/parish (WI) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "5.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-WI-WINNEBAGO",
+      "description": "US Winnebago county/parish (WI) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "5.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-WI-KENOSHA",
+      "description": "US Kenosha county/parish (WI) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "5.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-WI-ROCK",
+      "description": "US Rock county/parish (WI) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "5.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-WI-MARATHON",
+      "description": "US Marathon county/parish (WI) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "5.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-IN-MARION",
+      "description": "US Marion county/parish (IN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-IN-LAKE",
+      "description": "US Lake county/parish (IN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-IN-ALLEN",
+      "description": "US Allen county/parish (IN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-IN-HAMILTON",
+      "description": "US Hamilton county/parish (IN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-IN-STJOSEPH",
+      "description": "US St. Joseph county/parish (IN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-IN-ELKHART",
+      "description": "US Elkhart county/parish (IN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-IN-HENDRICKS",
+      "description": "US Hendricks county/parish (IN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-IN-TIPPECANOE",
+      "description": "US Tippecanoe county/parish (IN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-IN-JOHNSON",
+      "description": "US Johnson county/parish (IN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-IN-MADISON",
+      "description": "US Madison county/parish (IN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-TN-SHELBY",
+      "description": "US Shelby county/parish (TN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.750",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-TN-DAVIDSON",
+      "description": "US Davidson county/parish (TN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.750",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-TN-KNOX",
+      "description": "US Knox county/parish (TN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.750",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-TN-HAMILTON",
+      "description": "US Hamilton county/parish (TN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.750",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-TN-RUTHERFORD",
+      "description": "US Rutherford county/parish (TN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.750",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-TN-WILLIAMSON",
+      "description": "US Williamson county/parish (TN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.750",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-TN-SUMNER",
+      "description": "US Sumner county/parish (TN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.750",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-TN-WILSON",
+      "description": "US Wilson county/parish (TN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.750",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-TN-MONTGOMERY",
+      "description": "US Montgomery county/parish (TN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.750",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-TN-SULLIVAN",
+      "description": "US Sullivan county/parish (TN) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.750",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-KY-JEFFERSON",
+      "description": "US Jefferson county/parish (KY) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-KY-FAYETTE",
+      "description": "US Fayette county/parish (KY) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-KY-KENTON",
+      "description": "US Kenton county/parish (KY) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-KY-BOONE",
+      "description": "US Boone county/parish (KY) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-KY-HARDIN",
+      "description": "US Hardin county/parish (KY) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-KY-DAVIESS",
+      "description": "US Daviess county/parish (KY) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-KY-WARREN",
+      "description": "US Warren county/parish (KY) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-KY-BULLITT",
+      "description": "US Bullitt county/parish (KY) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-NJ-BERGEN",
+      "description": "US Bergen county/parish (NJ) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.625",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.state.nj.us/treasury/taxation/su.shtml"
+    },
+    {
+      "countryCode": "US-NJ-MIDDLESEX",
+      "description": "US Middlesex county/parish (NJ) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.625",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.state.nj.us/treasury/taxation/su.shtml"
+    },
+    {
+      "countryCode": "US-NJ-ESSEX",
+      "description": "US Essex county/parish (NJ) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.625",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.state.nj.us/treasury/taxation/su.shtml"
+    },
+    {
+      "countryCode": "US-NJ-HUDSON",
+      "description": "US Hudson county/parish (NJ) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.625",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.state.nj.us/treasury/taxation/su.shtml"
+    },
+    {
+      "countryCode": "US-NJ-MONMOUTH",
+      "description": "US Monmouth county/parish (NJ) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.625",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.state.nj.us/treasury/taxation/su.shtml"
+    },
+    {
+      "countryCode": "US-NJ-OCEAN",
+      "description": "US Ocean county/parish (NJ) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.625",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.state.nj.us/treasury/taxation/su.shtml"
+    },
+    {
+      "countryCode": "US-NJ-UNION",
+      "description": "US Union county/parish (NJ) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.625",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.state.nj.us/treasury/taxation/su.shtml"
+    },
+    {
+      "countryCode": "US-NJ-CAMDEN",
+      "description": "US Camden county/parish (NJ) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.625",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.state.nj.us/treasury/taxation/su.shtml"
+    },
+    {
+      "countryCode": "US-MD-MONTGOMERY",
+      "description": "US Montgomery county/parish (MD) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.marylandtaxes.gov/business/sales-use/index.php"
+    },
+    {
+      "countryCode": "US-MD-PRINCEGEOR",
+      "description": "US Prince George's county/parish (MD) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.marylandtaxes.gov/business/sales-use/index.php"
+    },
+    {
+      "countryCode": "US-MD-BALTIMORE",
+      "description": "US Baltimore county/parish (MD) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.marylandtaxes.gov/business/sales-use/index.php"
+    },
+    {
+      "countryCode": "US-MD-ANNEARUNDE",
+      "description": "US Anne Arundel county/parish (MD) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.marylandtaxes.gov/business/sales-use/index.php"
+    },
+    {
+      "countryCode": "US-MD-HOWARD",
+      "description": "US Howard county/parish (MD) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.marylandtaxes.gov/business/sales-use/index.php"
+    },
+    {
+      "countryCode": "US-MD-HARFORD",
+      "description": "US Harford county/parish (MD) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.marylandtaxes.gov/business/sales-use/index.php"
+    },
+    {
+      "countryCode": "US-MD-FREDERICK",
+      "description": "US Frederick county/parish (MD) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.marylandtaxes.gov/business/sales-use/index.php"
+    },
+    {
+      "countryCode": "US-MD-BALTIMOREC",
+      "description": "US Baltimore City county/parish (MD) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.marylandtaxes.gov/business/sales-use/index.php"
+    },
+    {
+      "countryCode": "US-MO-STLOUIS",
+      "description": "US St. Louis county/parish (MO) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.679",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.mo.gov/taxation/business/tax-types/sales-use/rate-tables/"
+    },
+    {
+      "countryCode": "US-MO-JACKSON",
+      "description": "US Jackson county/parish (MO) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.679",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.mo.gov/taxation/business/tax-types/sales-use/rate-tables/"
+    },
+    {
+      "countryCode": "US-MO-STCHARLES",
+      "description": "US St. Charles county/parish (MO) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.679",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.mo.gov/taxation/business/tax-types/sales-use/rate-tables/"
+    },
+    {
+      "countryCode": "US-MO-GREENE",
+      "description": "US Greene county/parish (MO) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.679",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.mo.gov/taxation/business/tax-types/sales-use/rate-tables/"
+    },
+    {
+      "countryCode": "US-MO-CLAY",
+      "description": "US Clay county/parish (MO) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.679",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.mo.gov/taxation/business/tax-types/sales-use/rate-tables/"
+    },
+    {
+      "countryCode": "US-MO-JEFFERSON",
+      "description": "US Jefferson county/parish (MO) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.679",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.mo.gov/taxation/business/tax-types/sales-use/rate-tables/"
+    },
+    {
+      "countryCode": "US-MO-CASS",
+      "description": "US Cass county/parish (MO) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.679",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.mo.gov/taxation/business/tax-types/sales-use/rate-tables/"
+    },
+    {
+      "countryCode": "US-MO-STLOUISCIT",
+      "description": "US St. Louis City county/parish (MO) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.679",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.mo.gov/taxation/business/tax-types/sales-use/rate-tables/"
+    },
+    {
+      "countryCode": "US-SC-GREENVILLE",
+      "description": "US Greenville county/parish (SC) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.sc.gov/tax/sales"
+    },
+    {
+      "countryCode": "US-SC-RICHLAND",
+      "description": "US Richland county/parish (SC) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.sc.gov/tax/sales"
+    },
+    {
+      "countryCode": "US-SC-CHARLESTON",
+      "description": "US Charleston county/parish (SC) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.sc.gov/tax/sales"
+    },
+    {
+      "countryCode": "US-SC-HORRY",
+      "description": "US Horry county/parish (SC) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.sc.gov/tax/sales"
+    },
+    {
+      "countryCode": "US-SC-SPARTANBUR",
+      "description": "US Spartanburg county/parish (SC) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.sc.gov/tax/sales"
+    },
+    {
+      "countryCode": "US-SC-BERKELEY",
+      "description": "US Berkeley county/parish (SC) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.sc.gov/tax/sales"
+    },
+    {
+      "countryCode": "US-SC-LEXINGTON",
+      "description": "US Lexington county/parish (SC) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.sc.gov/tax/sales"
+    },
+    {
+      "countryCode": "US-SC-YORK",
+      "description": "US York county/parish (SC) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://dor.sc.gov/tax/sales"
+    },
+    {
+      "countryCode": "US-AL-JEFFERSON",
+      "description": "US Jefferson county/parish (AL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.revenue.alabama.gov/sales-use/"
+    },
+    {
+      "countryCode": "US-AL-MOBILE",
+      "description": "US Mobile county/parish (AL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.revenue.alabama.gov/sales-use/"
+    },
+    {
+      "countryCode": "US-AL-MADISON",
+      "description": "US Madison county/parish (AL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.revenue.alabama.gov/sales-use/"
+    },
+    {
+      "countryCode": "US-AL-MONTGOMERY",
+      "description": "US Montgomery county/parish (AL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.revenue.alabama.gov/sales-use/"
+    },
+    {
+      "countryCode": "US-AL-TUSCALOOSA",
+      "description": "US Tuscaloosa county/parish (AL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.revenue.alabama.gov/sales-use/"
+    },
+    {
+      "countryCode": "US-AL-SHELBY",
+      "description": "US Shelby county/parish (AL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.revenue.alabama.gov/sales-use/"
+    },
+    {
+      "countryCode": "US-AL-BALDWIN",
+      "description": "US Baldwin county/parish (AL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.revenue.alabama.gov/sales-use/"
+    },
+    {
+      "countryCode": "US-AL-LEE",
+      "description": "US Lee county/parish (AL) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.revenue.alabama.gov/sales-use/"
+    },
+    {
+      "countryCode": "US-LA-EASTBATONR",
+      "description": "US East Baton Rouge county/parish (LA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.550",
+      "rateType": "county_combined",
+      "sourceUrl": "https://revenue.louisiana.gov/SalesTax/SalesUseTaxRates"
+    },
+    {
+      "countryCode": "US-LA-JEFFERSON",
+      "description": "US Jefferson county/parish (LA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.550",
+      "rateType": "county_combined",
+      "sourceUrl": "https://revenue.louisiana.gov/SalesTax/SalesUseTaxRates"
+    },
+    {
+      "countryCode": "US-LA-ORLEANS",
+      "description": "US Orleans county/parish (LA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.550",
+      "rateType": "county_combined",
+      "sourceUrl": "https://revenue.louisiana.gov/SalesTax/SalesUseTaxRates"
+    },
+    {
+      "countryCode": "US-LA-STTAMMANY",
+      "description": "US St. Tammany county/parish (LA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.550",
+      "rateType": "county_combined",
+      "sourceUrl": "https://revenue.louisiana.gov/SalesTax/SalesUseTaxRates"
+    },
+    {
+      "countryCode": "US-LA-CADDO",
+      "description": "US Caddo county/parish (LA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.550",
+      "rateType": "county_combined",
+      "sourceUrl": "https://revenue.louisiana.gov/SalesTax/SalesUseTaxRates"
+    },
+    {
+      "countryCode": "US-LA-LAFAYETTE",
+      "description": "US Lafayette county/parish (LA) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.550",
+      "rateType": "county_combined",
+      "sourceUrl": "https://revenue.louisiana.gov/SalesTax/SalesUseTaxRates"
+    },
+    {
+      "countryCode": "US-OK-OKLAHOMA",
+      "description": "US Oklahoma county/parish (OK) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.989",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-OK-TULSA",
+      "description": "US Tulsa county/parish (OK) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.989",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-OK-CLEVELAND",
+      "description": "US Cleveland county/parish (OK) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.989",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-OK-COMANCHE",
+      "description": "US Comanche county/parish (OK) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.989",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-OK-CANADIAN",
+      "description": "US Canadian county/parish (OK) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.989",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-OK-ROGERS",
+      "description": "US Rogers county/parish (OK) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.989",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-CT-FAIRFIELD",
+      "description": "US Fairfield county/parish (CT) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.350",
+      "rateType": "county_combined",
+      "sourceUrl": "https://portal.ct.gov/DRS/Sales-Tax/Sales-Tax"
+    },
+    {
+      "countryCode": "US-CT-HARTFORD",
+      "description": "US Hartford county/parish (CT) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.350",
+      "rateType": "county_combined",
+      "sourceUrl": "https://portal.ct.gov/DRS/Sales-Tax/Sales-Tax"
+    },
+    {
+      "countryCode": "US-CT-NEWHAVEN",
+      "description": "US New Haven county/parish (CT) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.350",
+      "rateType": "county_combined",
+      "sourceUrl": "https://portal.ct.gov/DRS/Sales-Tax/Sales-Tax"
+    },
+    {
+      "countryCode": "US-CT-NEWLONDON",
+      "description": "US New London county/parish (CT) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.350",
+      "rateType": "county_combined",
+      "sourceUrl": "https://portal.ct.gov/DRS/Sales-Tax/Sales-Tax"
+    },
+    {
+      "countryCode": "US-UT-SALTLAKE",
+      "description": "US Salt Lake county/parish (UT) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-UT-UTAH",
+      "description": "US Utah county/parish (UT) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-UT-DAVIS",
+      "description": "US Davis county/parish (UT) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-UT-WEBER",
+      "description": "US Weber county/parish (UT) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.250",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-AR-PULASKI",
+      "description": "US Pulaski county/parish (AR) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.470",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-AR-BENTON",
+      "description": "US Benton county/parish (AR) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.470",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-AR-WASHINGTON",
+      "description": "US Washington county/parish (AR) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.470",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-AR-FAULKNER",
+      "description": "US Faulkner county/parish (AR) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.470",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-IA-POLK",
+      "description": "US Polk county/parish (IA) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-IA-LINN",
+      "description": "US Linn county/parish (IA) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-IA-SCOTT",
+      "description": "US Scott county/parish (IA) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-IA-BLACKHAWK",
+      "description": "US Black Hawk county/parish (IA) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-KS-SEDGWICK",
+      "description": "US Sedgwick county/parish (KS) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-KS-JOHNSON",
+      "description": "US Johnson county/parish (KS) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-KS-SHAWNEE",
+      "description": "US Shawnee county/parish (KS) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-KS-WYANDOTTE",
+      "description": "US Wyandotte county/parish (KS) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "9.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-NE-DOUGLAS",
+      "description": "US Douglas county/parish (NE) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-NE-LANCASTER",
+      "description": "US Lancaster county/parish (NE) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-NE-SARPY",
+      "description": "US Sarpy county/parish (NE) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-NV-CLARK",
+      "description": "US Clark county/parish (NV) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.375",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.nv.gov/Sales/Sales_Use_Tax/"
+    },
+    {
+      "countryCode": "US-NV-WASHOE",
+      "description": "US Washoe county/parish (NV) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.375",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.nv.gov/Sales/Sales_Use_Tax/"
+    },
+    {
+      "countryCode": "US-NV-CARSONCITY",
+      "description": "US Carson City county/parish (NV) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.375",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.nv.gov/Sales/Sales_Use_Tax/"
+    },
+    {
+      "countryCode": "US-NV-LYON",
+      "description": "US Lyon county/parish (NV) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "8.375",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.nv.gov/Sales/Sales_Use_Tax/"
+    },
+    {
+      "countryCode": "US-RI-PROVIDENCE",
+      "description": "US Providence county/parish (RI) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.ri.gov/tax-sections/sales-excise/sales-use-tax"
+    },
+    {
+      "countryCode": "US-RI-KENT",
+      "description": "US Kent county/parish (RI) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.ri.gov/tax-sections/sales-excise/sales-use-tax"
+    },
+    {
+      "countryCode": "US-RI-WASHINGTON",
+      "description": "US Washington county/parish (RI) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.ri.gov/tax-sections/sales-excise/sales-use-tax"
+    },
+    {
+      "countryCode": "US-ID-ADA",
+      "description": "US Ada county/parish (ID) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.idaho.gov/i-1108.cfm"
+    },
+    {
+      "countryCode": "US-ID-CANYON",
+      "description": "US Canyon county/parish (ID) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.idaho.gov/i-1108.cfm"
+    },
+    {
+      "countryCode": "US-ID-KOOTENAI",
+      "description": "US Kootenai county/parish (ID) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.idaho.gov/i-1108.cfm"
+    },
+    {
+      "countryCode": "US-ME-CUMBERLAND",
+      "description": "US Cumberland county/parish (ME) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "5.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.maine.gov/revenue/taxes/sales-use-service-provider-tax"
+    },
+    {
+      "countryCode": "US-ME-YORK",
+      "description": "US York county/parish (ME) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "5.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.maine.gov/revenue/taxes/sales-use-service-provider-tax"
+    },
+    {
+      "countryCode": "US-ME-PENOBSCOT",
+      "description": "US Penobscot county/parish (ME) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "5.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.maine.gov/revenue/taxes/sales-use-service-provider-tax"
+    },
+    {
+      "countryCode": "US-NM-BERNALILLO",
+      "description": "US Bernalillo county/parish (NM) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.625",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.newmexico.gov/businesses/grt-rates/"
+    },
+    {
+      "countryCode": "US-NM-DOAANA",
+      "description": "US Doña Ana county/parish (NM) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.625",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.newmexico.gov/businesses/grt-rates/"
+    },
+    {
+      "countryCode": "US-NM-SANTAFE",
+      "description": "US Santa Fe county/parish (NM) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.625",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.tax.newmexico.gov/businesses/grt-rates/"
+    },
+    {
+      "countryCode": "US-WV-KANAWHA",
+      "description": "US Kanawha county/parish (WV) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-WV-BERKELEY",
+      "description": "US Berkeley county/parish (WV) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-WV-MONONGALIA",
+      "description": "US Monongalia county/parish (WV) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-SD-MINNEHAHA",
+      "description": "US Minnehaha county/parish (SD) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "4.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-SD-PENNINGTON",
+      "description": "US Pennington county/parish (SD) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "4.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-ND-CASS",
+      "description": "US Cass county/parish (ND) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-ND-BURLEIGH",
+      "description": "US Burleigh county/parish (ND) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-VT-CHITTENDEN",
+      "description": "US Chittenden county/parish (VT) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-VT-RUTLAND",
+      "description": "US Rutland county/parish (VT) combined sales tax | SST member state | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "6.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.streamlinedsalestax.org/Shared-Pages/state-detail-pages/state-rate-tables"
+    },
+    {
+      "countryCode": "US-MS-HINDS",
+      "description": "US Hinds county/parish (MS) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.dor.ms.gov/business/sales-and-use-taxes"
+    },
+    {
+      "countryCode": "US-MS-HARRISON",
+      "description": "US Harrison county/parish (MS) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.dor.ms.gov/business/sales-and-use-taxes"
+    },
+    {
+      "countryCode": "US-MS-DESOTO",
+      "description": "US DeSoto county/parish (MS) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "7.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://www.dor.ms.gov/business/sales-and-use-taxes"
+    },
+    {
+      "countryCode": "US-HI-HONOLULU",
+      "description": "US Honolulu county/parish (HI) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "4.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.hawaii.gov/geninfo/get/"
+    },
+    {
+      "countryCode": "US-HI-HAWAII",
+      "description": "US Hawaii county/parish (HI) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "4.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.hawaii.gov/geninfo/get/"
+    },
+    {
+      "countryCode": "US-HI-MAUI",
+      "description": "US Maui county/parish (HI) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "4.500",
+      "rateType": "county_combined",
+      "sourceUrl": "https://tax.hawaii.gov/geninfo/get/"
+    },
+    {
+      "countryCode": "US-WY-LARAMIE",
+      "description": "US Laramie county/parish (WY) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://revenue.wyo.gov/tax-divisions/excise-tax-division"
+    },
+    {
+      "countryCode": "US-WY-NATRONA",
+      "description": "US Natrona county/parish (WY) combined sales tax | b2-2026-05-30",
+      "lastVerifiedAt": "2026-05-15T00:00:00.000Z",
+      "ratePercent": "5.000",
+      "rateType": "county_combined",
+      "sourceUrl": "https://revenue.wyo.gov/tax-divisions/excise-tax-division"
     }
   ]
 }
